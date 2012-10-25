@@ -14844,7 +14844,7 @@ LIGHTED.
 					<aixm:featureLifetime>
 						<gml:TimePeriod gml:id="ID_98">
 							<gml:beginPosition>2012-10-01T04:30:00Z</gml:beginPosition>
-							<gml:endPosition>20012-10-09T14:29:00Z</gml:endPosition>
+							<gml:endPosition>2012-10-09T14:29:00Z</gml:endPosition>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<event:name>NOTAM_4_10_2</event:name>
@@ -14890,7 +14890,7 @@ LIGHTED ICAO MARKED.</event:text>
 					<aixm:featureLifetime>
 						<gml:TimePeriod gml:id="ID_101">
 							<gml:beginPosition>2012-10-01T04:30:00Z</gml:beginPosition>
-							<gml:endPosition>20012-10-09T14:29:00Z</gml:endPosition>
+							<gml:endPosition>2012-10-09T14:29:00Z</gml:endPosition>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<event:name>NOTAM_4_10_2</event:name>
