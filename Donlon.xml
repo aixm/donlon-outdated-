@@ -13806,7 +13806,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 	</message:hasMember>
 	<message:hasMember>
 		<aixm:Airspace gml:id="uuid.028e6905-f99a-4ca7-a736-2c0787cdcf57">
-			<gml:identifier codeSpace="urn:uuid:">028e6905-f99a-4ca7-a736-2c0787cdcf57"</gml:identifier>
+			<gml:identifier codeSpace="urn:uuid:">028e6905-f99a-4ca7-a736-2c0787cdcf57</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
 					<gmd:characterSet>
