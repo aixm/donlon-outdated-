@@ -3009,7 +3009,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:RunwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Runway>
@@ -3062,7 +3062,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>09L</aixm:designator>
 					<aixm:trueBearing>85.2300033569336</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:usedRunway>
+					<aixm:usedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:usedRunway>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -3133,7 +3133,7 @@
 					<aixm:designator>27R</aixm:designator>
 					<aixm:trueBearing>265.2300109863281</aixm:trueBearing>
 					<aixm:elevationTDZ uom="M">20.5</aixm:elevationTDZ>
-					<aixm:usedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:usedRunway>
+					<aixm:usedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:usedRunway>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -3209,7 +3209,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3268,7 +3268,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3327,7 +3327,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3386,7 +3386,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3445,7 +3445,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3504,7 +3504,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3563,7 +3563,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3615,7 +3615,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:name>APRON</aixm:name>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -3666,7 +3666,7 @@
 							<gml:endPosition indeterminatePosition="unknown"></gml:endPosition>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:responsibleOrganisation xlink:title="CIVIL_AVIATION" xsi:nil="true"></aixm:responsibleOrganisation>
+					<aixm:responsibleOrganisation xlink:title="CIVIL_AVIATION"></aixm:responsibleOrganisation>
 				</aixm:AuthorityForAirspaceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AuthorityForAirspace>
@@ -3727,7 +3727,7 @@
 							<aixm:surfaceCondition>GOOD</aixm:surfaceCondition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea"></aixm:associatedAirportHeliport>
 				</aixm:RunwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Runway>
@@ -3780,7 +3780,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>FATO 03</aixm:designator>
 					<aixm:trueBearing>27.329999923706055</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f" xsi:nil="true"></aixm:usedRunway>
+					<aixm:usedRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f"></aixm:usedRunway>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -3833,7 +3833,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>FATO 21</aixm:designator>
 					<aixm:trueBearing>207.3300018310547</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f" xsi:nil="true"></aixm:usedRunway>
+					<aixm:usedRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f"></aixm:usedRunway>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -3885,8 +3885,8 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:type>SEPARATED</aixm:type>
-					<aixm:hostAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:hostAirport>
-					<aixm:dependentAirport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea" xsi:nil="true"></aixm:dependentAirport>
+					<aixm:hostAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:hostAirport>
+					<aixm:dependentAirport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea"></aixm:dependentAirport>
 				</aixm:AirportHeliportCollocationTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportHeliportCollocation>
@@ -3946,7 +3946,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
 				</aixm:AirportClearanceServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportClearanceService>
@@ -4008,7 +4008,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
 					<aixm:oilSupply>
 						<aixm:Oil gml:id="O-b55a01e1">
 							<aixm:category>PISTON</aixm:category>
@@ -4120,7 +4120,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
 				</aixm:AirportClearanceServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportClearanceService>
@@ -4180,7 +4180,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
 				</aixm:PassengerServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:PassengerService>
@@ -4241,7 +4241,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
 				</aixm:AirportClearanceServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportClearanceService>
@@ -4324,7 +4324,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
 					<aixm:category>A7</aixm:category>
 				</aixm:FireFightingServiceTimeSlice>
 			</aixm:timeSlice>
@@ -4377,7 +4377,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:trueAngle>87.0</aixm:trueAngle>
-					<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.82394605-7f5a-40ee-b030-81f42a42a847" xsi:nil="true"></aixm:pointChoice_fixDesignatedPoint>
+					<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.82394605-7f5a-40ee-b030-81f42a42a847"></aixm:pointChoice_fixDesignatedPoint>
 				</aixm:AngleIndicationTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AngleIndication>
@@ -4438,7 +4438,7 @@
 						</aixm:Note>
 					</aixm:annotation>
 					<aixm:length uom="M">12.5</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.993a4898-e4fa-4b9f-9e55-6e341d60d576" xsi:nil="true"></aixm:servedRunwayDirection>
+					<aixm:servedRunwayDirection xlink:href="#urn.uuid.993a4898-e4fa-4b9f-9e55-6e341d60d576"></aixm:servedRunwayDirection>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -4499,7 +4499,7 @@
 						</aixm:Note>
 					</aixm:annotation>
 					<aixm:length uom="M">5.0</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.993a4898-e4fa-4b9f-9e55-6e341d60d576" xsi:nil="true"></aixm:servedRunwayDirection>
+					<aixm:servedRunwayDirection xlink:href="#urn.uuid.993a4898-e4fa-4b9f-9e55-6e341d60d576"></aixm:servedRunwayDirection>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -4560,7 +4560,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.747c4244-edf8-4068-938b-c5f6b4b76e7e" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.747c4244-edf8-4068-938b-c5f6b4b76e7e"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -4621,7 +4621,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.747c4244-edf8-4068-938b-c5f6b4b76e7e" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.747c4244-edf8-4068-938b-c5f6b4b76e7e"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -4674,7 +4674,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:length uom="M">600.0</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.c8455a6b-9319-4bb7-b797-08e644342d64" xsi:nil="true"></aixm:servedRunwayDirection>
+					<aixm:servedRunwayDirection xlink:href="#urn.uuid.c8455a6b-9319-4bb7-b797-08e644342d64"></aixm:servedRunwayDirection>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -4727,7 +4727,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:length uom="M">900.0</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113" xsi:nil="true"></aixm:servedRunwayDirection>
+					<aixm:servedRunwayDirection xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113"></aixm:servedRunwayDirection>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -4778,7 +4778,7 @@
 							<gml:endPosition indeterminatePosition="unknown"></gml:endPosition>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.45c2e29c-2d85-4033-a2ec-09f204c6be10" xsi:nil="true"></aixm:servedRunwayDirection>
+					<aixm:servedRunwayDirection xlink:href="#urn.uuid.45c2e29c-2d85-4033-a2ec-09f204c6be10"></aixm:servedRunwayDirection>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -4829,7 +4829,7 @@
 							<gml:endPosition indeterminatePosition="unknown"></gml:endPosition>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.10ee7838-7340-4774-9ea5-a07c72c2f7b6" xsi:nil="true"></aixm:servedRunwayDirection>
+					<aixm:servedRunwayDirection xlink:href="#urn.uuid.10ee7838-7340-4774-9ea5-a07c72c2f7b6"></aixm:servedRunwayDirection>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -4882,7 +4882,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -4935,7 +4935,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -4988,7 +4988,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.ecc5c8c5-21d0-41ac-9272-40e9e85f959a" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.ecc5c8c5-21d0-41ac-9272-40e9e85f959a"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5041,7 +5041,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5094,7 +5094,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5147,7 +5147,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5200,7 +5200,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.ecc5c8c5-21d0-41ac-9272-40e9e85f959a" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.ecc5c8c5-21d0-41ac-9272-40e9e85f959a"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5253,7 +5253,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5307,7 +5307,7 @@
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5377,7 +5377,7 @@
 						</aixm:Note>
 					</aixm:annotation>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5429,7 +5429,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.aa1c1ad0-0798-440b-930d-05c2b33a326e" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.aa1c1ad0-0798-440b-930d-05c2b33a326e"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5481,7 +5481,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:colour>OTHER:CYAN</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.aa1c1ad0-0798-440b-930d-05c2b33a326e" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.aa1c1ad0-0798-440b-930d-05c2b33a326e"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5534,7 +5534,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5587,7 +5587,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5640,7 +5640,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5693,7 +5693,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5745,7 +5745,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:colour>RED</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunwayDirection>
+					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunwayDirection>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6176,7 +6176,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:DMEExtension gml:id="ID_126">
-							<event:theEvent xlink:href="#uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a" xsi:nil="true"></event:theEvent>
+							<event:theEvent xlink:href="#uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"></event:theEvent>
 						</event:DMEExtension>
 					</aixm:extension>
 				</aixm:DMETimeSlice>
@@ -6273,7 +6273,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:VORExtension gml:id="ID_132">
-							<event:theEvent xlink:href="#uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a" xsi:nil="true"></event:theEvent>
+							<event:theEvent xlink:href="#uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"></event:theEvent>
 						</event:VORExtension>
 					</aixm:extension>
 				</aixm:VORTimeSlice>
@@ -7319,11 +7319,11 @@
 								<aixm:AirspaceVolume gml:id="A-a072fe65">
 									<aixm:width uom="M">300000.0</aixm:width>
 									<aixm:centreline>
-										<aixm:Curve gml:id="CAlertACR001">
+										<aixm:Curve gml:id="CAlertACR001" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:segments>
-												<gml:LineStringSegment>
+												<gml:GeodesicString>
 													<gml:posList>47.4 -41.6 47.45384232494095 -41.49475160936019 47.507587336034945 -41.389288333791846 47.56123465591919 -41.28360971835344 47.61478390603749 -41.17771531001795 47.66823470664122 -41.07160465771256 47.72158667679048 -40.96527731235865 47.774839434355215 -40.85873282691222 47.827992596016486 -40.751970756404575 47.8810457772679 -40.644990657983485 47.93399859241693 -40.53779209095458 47.98685065458652 -40.43037461682318 48.03960157571668 -40.322737799336444 48.092250966566205 -40.21488120452591 48.14479843671447 -40.106804400750356 48.19724359456332 -39.99850695873905 48.24958604733906 -39.88998845163533 48.30182540109455 -39.78124845504057 48.353961260711415 -39.67228654705846 48.40599322990225 -39.563102308339744 48.45792091121308 -39.45369532212715 48.509743906025776 -39.34406517430085 48.56146181456067 -39.23421145342419 48.61307423587926 -39.12413375078974 48.664580767886925 -39.01383166046581 48.715981007335934 -38.90330477934326 48.767274549828294 -38.792552707182615 48.81846098981899 -38.68157504666165 48.86953992061912 -38.57037140342325 48.920510934399246 -38.45894138612364 48.97137362219286 -38.34728460648098 49.02212757389982 -38.23540067932431 49.07277237829018 -38.12328922264282 49.12330762300779 -38.01094985763554 49.17373289457428 -37.8983822087613 49.22404777839308 -37.78558590378909 49.27425185875347 -37.67256057384874 49.32434471883489 -37.55930585348196 49.374325940711245 -37.44582138069373 49.424195105355444 -37.33210679700403 49.47395179264396 -37.21816174749987 49.52359558136158 -37.103985880887755 49.57312604920629 -36.98957884954638 49.622542772794155 -36.874940309579756 49.671845327664535 -36.76006992087058 49.721033288285305 -36.64496734713401 49.770106228058125 -36.52963225597177 49.819063719324085 -36.41406431892649 49.86790533336919 -36.298263211536515 49.9166306404302 -36.182228613390905 49.965239209700556 -36.065960208184826 50.01373060933631 -35.94945768377528 50.062104406462375 -35.832720732237064 50.110360167178825 -35.71574904991913 50.15849745656729 -35.598542337501215 50.2065158386976 -35.48110030005075 50.25441487663447 -35.36342264708014 50.30219413244438 -35.2455090926043 50.3498531672026 -35.12735935519847 50.39739154100035 -35.008973158056385 50.444808812952104 -34.890350229048664 50.492104541203005 -34.77149030078155 50.5392782829365 -34.652393110655865 50.586329594382114 -34.53305840092631 50.63325803082326 -34.413485918761005 50.680063146605434 -34.29367541630127 50.72674449514424 -34.173626650721744 50.77330162893392 -34.05333938429069 50.81973409955575 -33.93281338443062 50.86604145768678 -33.8120484237791 50.91222325310859 -33.6910442802499 50.95827903471638 -33.569800737094255 51.004208350527975 -33.44831758296253 51.05001074769331 -33.326594611965916 51.09568577250368 -33.20463162373854 51.14123297040161 -33.0824284234997 51.186651885990415 -32.95998482211628 51.23194206304433 -32.83730063616548 51.277103044518526 -32.71437568799767 51.3221343725595 -32.59120980579946 51.367035588515435 -32.46780282365696 51.41180623294689 -32.344154581619236 51.45644584563755 -32.22026492576195 51.50095396560524 -32.09613370825113 51.54533013111303 -31.971760787407153 51.589573879680565 -31.847146027768858 51.63368474809549 -31.72228930015781 51.67766227242523 -31.59719048174273 51.721505988028696 -31.471849456104042 51.76521542956835 -31.346266113298544 51.808790131022405 -31.220440349924218 51.85222962569715 -31.09437206918514 51.8955334462395 -30.96806118095649 51.93870112464975 -30.84150760184969 51.98173219229441 -30.7147112552776 52.02462617991936 -30.58767207151979 52.06738261766305 -30.460389987787917 52.11000103506997 -30.332864948291146 52.15248096110429 -30.205096904301627 52.19482192416363 -30.077085814219984 52.23702345209308 -29.948831643640943 52.27908507220185 -29.82033436541126 52.321006311267816 -29.691593959725534 52.36278669556666 -29.562610414146814 52.40442575087698 -29.433383723702036 52.44592300249762 -29.3039138909402 52.48727797526267 -29.174200925997965 52.52849019355688 -29.044244846665194 52.5695591813311 -28.91404567845041 52.610484462117945 -28.783603454646318 52.651265559047694 -28.65291821639514 52.69190199486429 -28.521990012753967 52.73239329194163 -28.390818900759925 52.772738972299955 -28.259404945495397 52.81293855762252 -28.127748220152966 52.85299156927237 -27.995848806100348 52.89289752830936 -27.863706792945187 52.932655955507315 -27.731322278599677 52.97226637137147 -27.59869536934501 53.011728296156015 -27.46582617989572 53.05104124988186 -27.33271483346383 53.090204752354616 -27.199361461822757 53.12921832318271 -27.065766205371066 53.168081481795745 -26.93192921319601 53.20679374746309 -26.79785064313682 53.24535463931244 -26.663530661847737 53.283763676348954 -26.528969444860838 53.322020377474175 -26.394167176648583 53.36012426150543 -26.25912405068602 53.398074847195254 -26.12384026951278 53.43587165325112 -25.988316044794722 53.4735141983553 -25.852551597385265 53.511002001184856 -25.716547157386373 53.54833458043196 -25.5803029642092 53.585511454824314 -25.44381926663437 53.62253214314575 -25.307096322871914 53.65939616425702 -25.170134400620718 53.696103037116856 -25.032933777127717 53.73265228080311 -24.89549473924649 53.769043414534124 -24.757817583495584 53.80527595769029 -24.619902616116274 53.84134942983582 -24.481750153129905 53.87726335074059 -24.34336052039477 53.913017240402304 -24.204734053662445 53.948610619068795 -24.06587109863366 53.98404300726045 -23.926772011013593 54.019313925792865 -23.78743715656669 54.05442289579969 -23.647866911170894 54.089369438755625 -23.50806166087126 54.12415307649958 -23.368021801933086 54.15877333125809 -23.227747740894305 54.19322972566877 -23.087239894617397 54.22752178280409 -22.946498690340576 54.261649026195194 -22.805524565728348 54.29561097985598 -22.664317968921402 54.32940716830732 -22.52287935858585 54.36303711660141 -22.381209203961685 54.39650035034637 -22.239307984910656 54.42979639573092 -22.097176191963257 54.462924779549255 -21.954814326365096 54.49588502922611 -21.812222900122446 54.52867667284198 -21.669402436046983 54.56129923915839 -21.52635346779982 54.59375225764349 -21.383076539934635 54.626035258497694 -21.239572207940018 54.658147772679506 -21.095841038280955 54.69008933193147 -20.951883608439474 54.72185946880631 -20.80770050695437 54.7534577166932 -20.663292333460095 54.78488360984412 -20.51865969872466 54.816136683400494 -20.373803224686686 54.8472164734198 -20.228723544491462 54.87812251690245 -20.083421302526027 54.90885435181869 -19.93789715445336 54.939411517135795 -19.792151767245507 54.96979355284519 -19.64618581921565 55.0 -19.5</gml:posList>
-												</gml:LineStringSegment>
+												</gml:GeodesicString>
 											</gml:segments>
 										</aixm:Curve>
 									</aixm:centreline>
@@ -7368,7 +7368,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_139">
-							<event:theEvent xlink:href="#uuid.bf108180-75dd-4326-af29-561bf28a8c31" xsi:nil="true"></event:theEvent>
+							<event:theEvent xlink:href="#uuid.bf108180-75dd-4326-af29-561bf28a8c31"></event:theEvent>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -7428,8 +7428,10 @@
 						<aixm:AirspaceGeometryComponent gml:id="A-cd43e44a">
 							<aixm:theAirspaceVolume>
 								<aixm:AirspaceVolume gml:id="A-c3969fee">
+									<aixm:upperLimit uom="FT">UNL</aixm:upperLimit>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:Surface gml:id="SFIRAMSWELL">
+										<aixm:Surface gml:id="SFIRAMSWELL" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -7504,22 +7506,22 @@
 					<aixm:length uom="KM">69.30000305175781</aixm:length>
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-c5f43ddc">
-							<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.bb9dcfb3-f45a-40f3-8852-fca1349801fc" xsi:nil="true"></aixm:pointChoice_fixDesignatedPoint>
+							<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.bb9dcfb3-f45a-40f3-8852-fca1349801fc"></aixm:pointChoice_fixDesignatedPoint>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xsi:nil="true"></aixm:routeFormed>
+					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c"></aixm:routeFormed>
 					<aixm:curveExtent>
 						<aixm:Curve gml:id="crv2110">
 							<gml:segments>
-								<gml:LineStringSegment>
+								<gml:GeodesicString>
 									<gml:posList>42.5016666666667 -37.0016666666667 42.675 -36.1733333333333</gml:posList>
-								</gml:LineStringSegment>
+								</gml:GeodesicString>
 							</gml:segments>
 						</aixm:Curve>
 					</aixm:curveExtent>
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-c2a12282">
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb" xsi:nil="true"></aixm:pointChoice_navaidSystem>
+							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb"></aixm:pointChoice_navaidSystem>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -7581,22 +7583,22 @@
 					<aixm:length uom="KM">771.5999755859375</aixm:length>
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-eef835dd">
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb" xsi:nil="true"></aixm:pointChoice_navaidSystem>
+							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb"></aixm:pointChoice_navaidSystem>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xsi:nil="true"></aixm:routeFormed>
+					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c"></aixm:routeFormed>
 					<aixm:curveExtent>
 						<aixm:Curve gml:id="crv2111">
 							<gml:segments>
-								<gml:LineStringSegment>
+								<gml:GeodesicString>
 									<gml:posList>42.675 -36.1733333333333 47.1366666666667 -28.6416666666667</gml:posList>
-								</gml:LineStringSegment>
+								</gml:GeodesicString>
 							</gml:segments>
 						</aixm:Curve>
 					</aixm:curveExtent>
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-ef29b6f5">
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3" xsi:nil="true"></aixm:pointChoice_navaidSystem>
+							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3"></aixm:pointChoice_navaidSystem>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -7658,22 +7660,22 @@
 					<aixm:length uom="KM">446.0</aixm:length>
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-e0103a1d">
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3" xsi:nil="true"></aixm:pointChoice_navaidSystem>
+							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3"></aixm:pointChoice_navaidSystem>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xsi:nil="true"></aixm:routeFormed>
+					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c"></aixm:routeFormed>
 					<aixm:curveExtent>
 						<aixm:Curve gml:id="crv2112">
 							<gml:segments>
-								<gml:LineStringSegment>
+								<gml:GeodesicString>
 									<gml:posList>47.1366666666667 -28.6416666666667 48.8 -23.2166666666667</gml:posList>
-								</gml:LineStringSegment>
+								</gml:GeodesicString>
 							</gml:segments>
 						</aixm:Curve>
 					</aixm:curveExtent>
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-aeda23eb">
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f" xsi:nil="true"></aixm:pointChoice_navaidSystem>
+							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f"></aixm:pointChoice_navaidSystem>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -7735,22 +7737,22 @@
 					<aixm:length uom="KM">163.1999969482422</aixm:length>
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-db90c74a">
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f" xsi:nil="true"></aixm:pointChoice_navaidSystem>
+							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f"></aixm:pointChoice_navaidSystem>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xsi:nil="true"></aixm:routeFormed>
+					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c"></aixm:routeFormed>
 					<aixm:curveExtent>
 						<aixm:Curve gml:id="crv2113">
 							<gml:segments>
-								<gml:LineStringSegment>
+								<gml:GeodesicString>
 									<gml:posList>48.8 -23.2166666666667 49.3583333333333 -21.1333333333333</gml:posList>
-								</gml:LineStringSegment>
+								</gml:GeodesicString>
 							</gml:segments>
 						</aixm:Curve>
 					</aixm:curveExtent>
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-f1fb0a9f">
-							<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.26009f76-2e05-418d-a631-bec02f84ac5b" xsi:nil="true"></aixm:pointChoice_fixDesignatedPoint>
+							<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.26009f76-2e05-418d-a631-bec02f84ac5b"></aixm:pointChoice_fixDesignatedPoint>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -8388,9 +8390,9 @@
 					<aixm:border>
 						<aixm:Curve gml:id="crvILURU4">
 							<gml:segments>
-								<gml:LineStringSegment>
+								<gml:GeodesicString>
 									<gml:posList>49.96666666666667 -31.383333333333333 51.125 -31.388333333333332 51.17111111111111 -31.394444444444446 51.18805555555555 -31.403888888888886 51.198055555555555 -31.40833333333333 51.2075 -31.410833333333333 51.21666666666667 -31.413055555555555 51.21944444444445 -31.41333333333333 51.22638888888889 -31.41472222222222 51.23583333333333 -31.419444444444444 51.24 -31.42361111111111 51.243611111111115 -31.427222222222223 51.24805555555556 -31.429722222222225 51.25416666666667 -31.42777777777778 51.25972222222222 -31.424166666666668 51.265277777777776 -31.421944444444446 51.27111111111111 -31.420833333333334 51.27583333333333 -31.422222222222224 51.28388888888889 -31.426944444444445 51.288333333333334 -31.43111111111111 51.29666666666667 -31.433888888888887 51.30361111111111 -31.435555555555556 51.31472222222222 -31.43638888888889 51.34055555555556 -31.43777777777778 51.34638888888889 -31.436944444444446 51.355555555555554 -31.43277777777778 51.36555555555556 -31.432222222222222 51.38638888888889 -31.43777777777778 51.39055555555556 -31.441666666666666 51.39555555555555 -31.445555555555554 51.39972222222222 -31.452777777777776 51.408055555555556 -31.458055555555553 51.41027777777778 -31.4575 51.41222222222222 -31.454444444444444 51.413333333333334 -31.445555555555554 51.4175 -31.443333333333335 51.431666666666665 -31.453055555555554 51.46638888888889 -31.46472222222222 51.46666666666667 -31.464444444444442 51.48083333333334 -31.460555555555555 51.48888888888889 -31.464444444444442 51.50138888888889 -31.486944444444447 51.51416666666667 -31.488611111111112 51.51555555555556 -31.488333333333333 51.51888888888889 -31.490277777777777 51.52333333333333 -31.5075 51.52444444444444 -31.511944444444445 51.52833333333333 -31.513055555555557 51.550555555555555 -31.519166666666667 51.55583333333333 -31.520555555555553 51.55722222222222 -31.520833333333332 51.55722222222222 -31.51833333333333 51.558055555555555 -31.509166666666665 51.56111111111111 -31.499444444444446 51.56472222222222 -31.509166666666665 51.57972222222222 -31.498611111111114 51.58222222222223 -31.493333333333336 51.586111111111116 -31.49527777777778 51.59777777777778 -31.491666666666667 51.603611111111114 -31.493055555555557 51.61 -31.490833333333335 51.60777777777778 -31.483333333333334 51.619166666666665 -31.476388888888888 51.62388888888889 -31.46944444444444 51.63527777777778 -31.465833333333332 51.65361111111111 -31.449444444444445 51.67222222222222 -31.44472222222222 51.70722222222223 -31.43638888888889 51.718611111111116 -31.43166666666667 51.74666666666667 -31.418333333333333 51.757222222222225 -31.41583333333333 51.763888888888886 -31.408055555555553 51.765 -31.398055555555555 51.7875 -31.365555555555556 51.80027777777777 -31.349722222222223 51.80222222222222 -31.34638888888889 51.815 -31.325277777777778 51.8525 -31.29527777777778 51.87888888888889 -31.274444444444445 51.882777777777775 -31.27583333333333 51.888333333333335 -31.28111111111111 51.903888888888886 -31.27138888888889 51.91416666666667 -31.26527777777778 51.94972222222222 -31.249722222222225 51.969722222222224 -31.25722222222222 51.97166666666667 -31.2575 51.97777777777778 -31.2575 51.986111111111114 -31.250833333333333 51.99666666666667 -31.209166666666665 51.99916666666667 -31.20638888888889 52.006388888888885 -31.198611111111113 52.00805555555556 -31.1925 52.00694444444444 -31.18611111111111 51.99805555555556 -31.174166666666668 51.9975 -31.169722222222223 52.00083333333333 -31.125833333333333 52.007222222222225 -31.115833333333335 52.013333333333335 -31.115833333333335 52.020833333333336 -31.120555555555555 52.0225 -31.12 52.03666666666666 -31.107222222222223 52.04 -31.09472222222222 52.040277777777774 -31.08833333333333 52.038333333333334 -31.08 52.02444444444444 -31.05777777777778 52.019444444444446 -31.041944444444447 52.020833333333336 -31.023333333333333 52.028055555555554 -30.99361111111111 52.033055555555556 -30.990555555555556 52.04666666666667 -30.99888888888889 52.05638888888888 -30.993055555555557 52.061388888888885 -30.991666666666667 52.06361111111111 -30.991666666666667 52.06777777777778 -30.991666666666667 52.07277777777778 -30.993055555555557 52.078611111111115 -30.994444444444447 52.125 -30.960277777777776 52.13388888888889 -30.956944444444442 52.14722222222222 -30.951666666666664 52.17777777777778 -30.944444444444446 52.180277777777775 -30.94361111111111 52.20944444444445 -30.934444444444445 52.21388888888889 -30.935 52.215833333333336 -30.935833333333335 52.21805555555556 -30.936944444444446 52.217777777777776 -30.950555555555553 52.20888888888889 -30.96638888888889 52.20916666666667 -30.97083333333333 52.20916666666667 -30.975555555555555 52.20527777777778 -30.990000000000002 52.20638888888889 -31.00111111111111 52.20527777777778 -31.005555555555556 52.19444444444444 -31.00611111111111 52.19083333333333 -31.01 52.18805555555555 -31.01388888888889 52.18611111111111 -31.019166666666667 52.18472222222222 -31.023888888888887 52.18388888888889 -31.026666666666667 52.183055555555555 -31.035555555555558 52.17805555555555 -31.053055555555556 52.18388888888889 -31.064444444444444 52.183055555555555 -31.066944444444445 52.176944444444445 -31.07111111111111 52.175555555555555 -31.074166666666667 52.17611111111111 -31.081666666666667 52.17611111111111 -31.0825 52.181666666666665 -31.090555555555554 52.18722222222222 -31.099166666666665 52.18944444444444 -31.100555555555555 52.21138888888889 -31.114444444444445 52.23222222222223 -31.133333333333333 52.23444444444444 -31.133888888888887 52.26833333333333 -31.142777777777777 52.27305555555555 -31.14527777777778 52.27388888888889 -31.145833333333332 52.27972222222222 -31.151666666666664 52.294444444444444 -31.17138888888889 52.30333333333333 -31.179722222222225 52.33527777777778 -31.203055555555554 52.336111111111116 -31.204166666666666 52.34166666666667 -31.210555555555555 52.37777777777778 -31.249444444444446 52.3975 -31.26888888888889 52.42222222222222 -31.284166666666668 52.43527777777778 -31.311944444444446 52.43527777777778 -31.31833333333333 52.434999999999995 -31.329444444444444 52.43666666666666 -31.330277777777777 52.4375 -31.330555555555556 52.45 -31.314444444444444 52.46388888888889 -31.310000000000002 52.47888888888889 -31.295833333333334 52.4825 -31.296666666666667 52.48416666666667 -31.297222222222224 52.48222222222223 -31.302222222222223 52.478611111111114 -31.31138888888889 52.480000000000004 -31.315833333333334 52.48416666666667 -31.316944444444445 52.49888888888889 -31.313055555555557 52.50805555555556 -31.310555555555556 52.51611111111111 -31.30611111111111 52.52388888888889 -31.301666666666666 52.54055555555556 -31.297222222222224 52.54527777777778 -31.294722222222223 52.552499999999995 -31.28527777777778 52.556666666666665 -31.282777777777778 52.56777777777778 -31.27638888888889 52.574444444444445 -31.272499999999997 52.590833333333336 -31.260277777777777 52.60611111111111 -31.255277777777778 52.62361111111111 -31.240833333333335 52.628055555555555 -31.242222222222225 52.63138888888889 -31.256666666666668 52.6325 -31.260833333333334 52.63527777777778 -31.264722222222222 52.638333333333335 -31.26527777777778 52.66694444444444 -31.264444444444443 52.71888888888889 -31.254722222222224 52.72916666666667 -31.245 52.73388888888889 -31.234166666666667 52.734722222222224 -31.231944444444444 52.74611111111111 -31.205 52.74666666666667 -31.203611111111112 52.75361111111111 -31.19472222222222 52.768055555555556 -31.185 52.77611111111111 -31.161666666666665 52.77972222222222 -31.15694444444444 52.7875 -31.15222222222222 52.7975 -31.145833333333332 52.81222222222222 -31.12611111111111 52.81444444444444 -31.119722222222222 52.81444444444444 -31.118333333333332 52.81472222222222 -31.096666666666664 52.82138888888889 -31.084722222222222 52.84027777777778 -31.076666666666668 52.84277777777778 -31.07472222222222 52.85472222222222 -31.06388888888889 52.85777777777778 -31.05777777777778 52.85888888888889 -31.053333333333335 52.86333333333334 -31.037222222222223 52.867777777777775 -31.033611111111114 52.87555555555556 -31.03111111111111 52.880833333333335 -31.03222222222222 52.896388888888886 -31.043055555555558 52.90083333333333 -31.046111111111113 52.907222222222224 -31.048611111111114 52.91222222222222 -31.046111111111113 52.920833333333334 -31.026944444444442 52.92194444444444 -31.02583333333333 52.92527777777777 -31.022777777777776 52.94138888888889 -31.016944444444444 52.96333333333334 -30.999444444444446 52.97138888888889 -30.990277777777777 52.999722222222225 -30.96972222222222 53.0225 -30.953611111111112 53.02583333333333 -30.953333333333333 53.028888888888886 -30.953333333333333 53.032222222222224 -30.955277777777777 53.04083333333333 -30.965833333333332 53.044999999999995 -30.966944444444444 53.05916666666666 -30.96222222222222 53.078611111111115 -30.976666666666667 53.09638888888889 -31.000833333333333 53.1025 -31.011388888888888 53.11666666666667 -31.016666666666666 53.11694444444444 -31.035833333333336 53.11694444444444 -31.036944444444448 53.11805555555556 -31.043055555555558 53.11694444444444 -31.052500000000002 53.10027777777778 -31.098333333333333 53.09916666666667 -31.115555555555556 53.10111111111111 -31.12777777777778 53.109722222222224 -31.140277777777776 53.11638888888889 -31.14472222222222 53.12111111111111 -31.14527777777778 53.13527777777778 -31.141666666666666 53.155833333333334 -31.131666666666668 53.16722222222222 -31.133333333333333 53.17444444444444 -31.144166666666667 53.17861111111111 -31.172777777777778 53.18194444444444 -31.195 53.18527777777778 -31.206666666666667 53.19611111111111 -31.224444444444444 53.200833333333335 -31.22972222222222 53.21361111111111 -31.23777777777778 53.23916666666667 -31.241666666666667 53.254444444444445 -31.240555555555556 53.268055555555556 -31.234166666666667 53.276666666666664 -31.230277777777776 53.28111111111111 -31.232499999999998 53.29833333333333 -31.254722222222224 53.30555555555555 -31.266111111111112 53.32277777777778 -31.292222222222225 53.347500000000004 -31.31277777777778 53.35027777777778 -31.31416666666667 53.35944444444445 -31.318055555555556 53.38527777777778 -31.329722222222223 53.39 -31.3275 53.401111111111106 -31.30888888888889 53.40611111111111 -31.303333333333335 53.4075 -31.30138888888889 53.413333333333334 -31.299444444444447 53.43611111111111 -31.299722222222226 53.45194444444445 -31.293333333333337 53.45611111111111 -31.294444444444448 53.461111111111116 -31.300555555555555 53.4675 -31.315 53.47222222222222 -31.3325 53.473333333333336 -31.33722222222222 53.47416666666667 -31.33861111111111 53.48083333333334 -31.34861111111111 53.480555555555554 -31.359444444444446 53.48555555555556 -31.371944444444445 53.489444444444445 -31.37666666666667 53.49055555555556 -31.378055555555555 53.49805555555556 -31.3825 53.52638888888889 -31.391111111111112 53.53444444444444 -31.404999999999998 53.53388888888889 -31.407777777777778 53.53527777777778 -31.415555555555553 53.53638888888889 -31.4225 53.54111111111111 -31.43 53.54472222222222 -31.434722222222224 53.561388888888885 -31.443333333333335 53.56861111111112 -31.45 53.57166666666667 -31.4525 53.57666666666667 -31.460555555555555 53.58027777777778 -31.470277777777778 53.58444444444444 -31.481111111111108 53.59305555555556 -31.49277777777778 53.61611111111111 -31.50777777777778 53.652499999999996 -31.525555555555556 53.656388888888884 -31.525 53.659166666666664 -31.522222222222222 53.659166666666664 -31.521944444444443 53.66166666666666 -31.515833333333333 53.665 -31.508333333333333 53.66416666666667 -31.488055555555558 53.66611111111111 -31.46611111111111 53.65861111111111 -31.423055555555557 53.65833333333333 -31.421944444444446 53.653055555555554 -31.403888888888886 53.651944444444446 -31.393055555555556 53.65222222222222 -31.391111111111112 53.651944444444446 -31.37138888888889 53.64861111111111 -31.326666666666668 53.647777777777776 -31.31361111111111 53.6625 -31.264722222222222 53.66611111111111 -31.252777777777776 53.66611111111111 -31.251944444444444 53.66611111111111 -31.250555555555554 53.66277777777778 -31.183611111111112 53.66222222222222 -31.175833333333333 53.66083333333333 -31.170555555555556 53.65833333333333 -31.15888888888889 53.657222222222224 -31.150555555555552 53.65694444444444 -31.1475 53.65888888888889 -31.136388888888888 53.66361111111111 -31.109722222222224 53.663333333333334 -31.105 53.66277777777778 -31.09722222222222 53.66138888888889 -31.092222222222222 53.66111111111111 -31.09111111111111 53.65611111111111 -31.06833333333333 53.656388888888884 -31.059444444444445 53.6625 -31.044444444444448 53.67027777777778 -31.016111111111112 53.67194444444444 -31.011944444444445 53.68 -31.00611111111111 53.68611111111111 -31.0 53.69166666666666 -31.00111111111111 53.69222222222222 -31.00111111111111 53.71416666666667 -30.998333333333335 53.71888888888889 -30.995 53.72416666666667 -30.99138888888889 53.72805555555556 -30.990555555555556 53.73777777777778 -30.991944444444446 53.74277777777778 -30.990833333333335 53.76416666666667 -30.97861111111111 53.77027777777778 -30.97722222222222 53.778888888888886 -30.97722222222222 53.7975 -30.985555555555557 53.80472222222222 -30.983611111111113 53.81111111111111 -30.974999999999998 53.81916666666667 -30.96472222222222 53.82055555555556 -30.951666666666664 53.82277777777778 -30.945833333333333 53.82361111111111 -30.94361111111111 53.83388888888889 -30.929166666666667 53.84527777777778 -30.92777777777778 53.850833333333334 -30.916944444444447 53.8675 -30.9025 53.89361111111111 -30.899722222222223 53.913888888888884 -30.904444444444444 53.921388888888885 -30.9025 53.930277777777775 -30.8925 53.93388888888889 -30.88861111111111 53.943888888888885 -30.885555555555555 53.95805555555556 -30.89 53.97166666666667 -30.885555555555555 53.99277777777778 -30.875555555555557 54.0 -30.87472222222222 54.006388888888885 -30.87027777777778 54.010555555555555 -30.868333333333332 54.01305555555555 -30.86388888888889 54.01972222222222 -30.871666666666666 54.020833333333336 -30.873055555555556 54.02333333333333 -30.875 54.025277777777774 -30.87527777777778 54.02916666666667 -30.87638888888889 54.030277777777776 -30.87666666666667 54.03194444444444 -30.878611111111113 54.033055555555556 -30.880277777777778 54.03666666666666 -30.879444444444445 54.05027777777777 -30.891666666666666 54.05083333333333 -30.8925 54.05277777777778 -30.89472222222222 54.0575 -30.89527777777778 54.059999999999995 -30.894444444444446 54.062777777777775 -30.893333333333334 54.062777777777775 -30.896944444444443 54.065 -30.90361111111111 54.06583333333333 -30.904166666666665 54.07333333333334 -30.91444444444444 54.07694444444445 -30.91722222222222 54.086111111111116 -30.919444444444444 54.09138888888889 -30.924722222222222 54.102222222222224 -30.929444444444446 54.10333333333333 -30.9325 54.10611111111111 -30.938333333333333 54.113055555555555 -30.941111111111113 54.11416666666667 -30.945 54.11333333333334 -30.949166666666667 54.115 -30.959444444444443 54.120555555555555 -30.982777777777777 54.11666666666667 -30.990277777777777 54.125 -31.00027777777778 54.136944444444445 -31.009166666666665 54.14555555555555 -31.011388888888888 54.153888888888886 -31.008333333333333 54.15888888888889 -31.009166666666665 54.16444444444444 -31.014166666666668 54.187777777777775 -31.01861111111111 54.19888888888889 -31.015555555555554 54.211666666666666 -31.010277777777777 54.221944444444446 -31.005555555555556 54.25527777777778 -30.944444444444446 54.25527777777778 -30.944166666666668 54.2575 -30.89611111111111 54.260555555555555 -30.875555555555557 54.26694444444444 -30.858055555555556 54.27611111111111 -30.85611111111111 54.288888888888884 -30.858611111111113 54.29722222222222 -30.85638888888889 54.30611111111111 -30.843888888888888 54.31388888888888 -30.83 54.315555555555555 -30.827222222222222 54.33111111111111 -30.789722222222224 54.35611111111111 -30.78638888888889 54.35944444444445 -30.784722222222225 54.36555555555556 -30.776666666666667 54.36666666666667 -30.775 54.37027777777778 -30.77611111111111 54.373333333333335 -30.781944444444445 54.375277777777775 -30.792222222222225 54.38166666666667 -30.80138888888889 54.38777777777778 -30.809166666666666 54.41444444444444 -30.828333333333333 54.41833333333333 -30.83111111111111 54.42638888888889 -30.83 54.43416666666666 -30.83361111111111 54.45472222222222 -30.84 54.471944444444446 -30.830555555555556 54.48388888888889 -30.816666666666666 54.50361111111111 -30.80611111111111 54.510555555555555 -30.799722222222226 54.51222222222222 -30.795 54.5325 -30.789444444444445 54.54 -30.79416666666667 54.55583333333333 -30.80611111111111 54.56361111111111 -30.819166666666668 54.5625 -30.82611111111111 54.56861111111112 -30.837777777777777 54.5925 -30.822499999999998 54.59388888888889 -30.82111111111111 54.60333333333333 -30.814444444444444 54.61694444444444 -30.804444444444446 54.63194444444444 -30.796666666666667 54.64944444444444 -30.79277777777778 54.6675 -30.799444444444447 54.70888888888889 -30.807222222222222 54.716944444444444 -30.808611111111112 54.72972222222222 -30.81388888888889 54.7325 -30.81861111111111 54.73694444444445 -30.819166666666668 54.745 -30.824166666666667 54.74666666666667 -30.825277777777778 54.768055555555556 -30.823333333333334 54.78611111111111 -30.822499999999998 54.80694444444444 -30.815833333333334 54.82333333333334 -30.820555555555554 54.83444444444444 -30.816666666666666 54.84138888888889 -30.819166666666668 54.843611111111116 -30.81722222222222 54.845555555555556 -30.803055555555556 54.848888888888894 -30.798333333333336 54.878055555555555 -30.804722222222225 54.88194444444444 -30.808333333333334 54.8825 -30.810833333333335 54.88638888888889 -30.826944444444443 54.890277777777776 -30.829444444444444 54.89472222222222 -30.836666666666666 54.90138888888889 -30.842777777777776 54.92666666666666 -30.84361111111111 54.95416666666667 -30.85666666666667 54.958333333333336 -30.861111111111114 54.96388888888889 -30.8725 54.97222222222222 -30.878333333333334 54.98222222222223 -30.888055555555557 54.9975 -30.904444444444444 55.01083333333333 -30.915277777777778 55.01888888888889 -30.92638888888889 55.02194444444444 -30.928055555555556 55.027499999999996 -30.928611111111113 55.03 -30.929166666666667 55.03388888888889 -30.93027777777778 55.0375 -30.92027777777778 55.038888888888884 -30.915 55.0375 -30.901944444444442 55.03722222222222 -30.90111111111111 55.03611111111111 -30.89611111111111 55.03611111111111 -30.895833333333332 55.030833333333334 -30.875 55.03722222222222 -30.823055555555555 55.041666666666664 -30.811944444444446 55.04416666666666 -30.80666666666667 55.05138888888889 -30.80027777777778 55.05444444444444 -30.797777777777778 55.06583333333333 -30.7825 55.07277777777778 -30.77861111111111 55.08861111111111 -30.77027777777778 55.10611111111111 -30.754166666666666 55.11277777777778 -30.755555555555556 55.120555555555555 -30.7625 55.128055555555555 -30.76861111111111 55.13305555555556 -30.76527777777778 55.14194444444444 -30.74888888888889 55.161944444444444 -30.719166666666666 55.17916666666667 -30.70111111111111 55.195277777777775 -30.692777777777778 55.209722222222226 -30.68111111111111 55.221944444444446 -30.675555555555558 55.24 -30.645833333333332 55.243611111111115 -30.634166666666665 55.24527777777778 -30.623333333333335 55.245 -30.61888888888889 55.245 -30.61861111111111 55.24277777777778 -30.612222222222222 55.23888888888889 -30.596666666666664 55.237500000000004 -30.58888888888889 55.23777777777778 -30.575277777777778 55.23777777777778 -30.570555555555554 55.24277777777778 -30.5625 55.24638888888889 -30.558333333333334 55.25666666666667 -30.543055555555558 55.26 -30.529444444444444 55.26583333333333 -30.506666666666668 55.29277777777778 -30.472777777777775 55.29972222222222 -30.46 55.30138888888889 -30.456944444444442 55.30722222222222 -30.440555555555555 55.315555555555555 -30.428333333333335 55.33416666666667 -30.416666666666668 55.343333333333334 -30.410555555555554 55.35027777777778 -30.39611111111111 55.35888888888889 -30.384166666666665 55.36222222222222 -30.38138888888889 55.367222222222225 -30.383055555555558 55.3675 -30.383333333333333 55.38944444444444 -30.390277777777776 55.39555555555555 -30.38361111111111 55.395833333333336 -30.383333333333333 55.39694444444444 -30.37388888888889 55.394999999999996 -30.365833333333335 55.394444444444446 -30.36527777777778 55.38611111111111 -30.356944444444444 55.38583333333333 -30.353055555555557 55.38583333333333 -30.352777777777778 55.38666666666666 -30.341388888888886 55.386944444444445 -30.340277777777775 55.38777777777778 -30.339166666666664 55.38777777777778 -30.33888888888889 55.388333333333335 -30.337777777777777 55.38861111111111 -30.336944444444445 55.39 -30.334444444444443 55.39055555555556 -30.333888888888886 55.395833333333336 -30.329444444444444 55.403055555555554 -30.326944444444443 55.407777777777774 -30.325277777777778 55.413333333333334 -30.32138888888889 55.41722222222222 -30.315 55.424166666666665 -30.308055555555555 55.43333333333333 -30.304444444444446 55.433611111111105 -30.304444444444446 55.43666666666666 -30.304722222222225 55.44444444444444 -30.305555555555557 55.44972222222222 -30.302777777777777 55.47694444444445 -30.28638888888889 55.481388888888894 -30.285555555555558 55.49583333333334 -30.27111111111111 55.503055555555555 -30.258333333333333 55.51777777777777 -30.254166666666666 55.532777777777774 -30.231111111111108 55.54194444444444 -30.223333333333333 55.55555555555555 -30.21611111111111 55.558611111111105 -30.211111111111112 55.56444444444444 -30.208055555555553 55.569722222222225 -30.2025 55.57361111111111 -30.19611111111111 55.57833333333333 -30.18277777777778 55.58388888888889 -30.184166666666666 55.597500000000004 -30.197777777777777 55.603611111111114 -30.21833333333333 55.63916666666667 -30.25111111111111 55.650555555555556 -30.267777777777777 55.655277777777776 -30.273333333333333 55.65972222222222 -30.284722222222225 55.66 -30.28611111111111 55.66444444444444 -30.30777777777778 55.66611111111111 -30.31527777777778 55.67777777777778 -30.341388888888886 55.67777777777778 -30.341666666666665 55.67916666666667 -30.348333333333333 55.67638888888889 -30.368055555555557 55.67722222222222 -30.377222222222223 55.68111111111111 -30.391388888888887 55.68111111111111 -30.409444444444443 55.681666666666665 -30.412777777777777 55.683055555555555 -30.42 55.68722222222222 -30.4375 55.669444444444444 -30.452777777777776 55.658055555555556 -30.496666666666666 55.66611111111111 -30.502777777777776 55.67666666666666 -30.5175 55.68 -30.526944444444442 55.69083333333333 -30.54527777777778 55.69166666666666 -30.554444444444446 55.69972222222222 -30.549722222222226 55.7 -30.549444444444447 55.70805555555556 -30.545 55.711666666666666 -30.54527777777778 55.73166666666667 -30.551944444444445 55.736111111111114 -30.557222222222222 55.742222222222225 -30.559166666666666 55.7475 -30.569166666666668 55.75194444444445 -30.56888888888889 55.76083333333333 -30.55638888888889 55.769444444444446 -30.550555555555555 55.786944444444444 -30.546666666666667 55.79611111111111 -30.54416666666667 55.801944444444445 -30.539444444444445 55.81388888888888 -30.53666666666667 55.819722222222225 -30.53111111111111 55.83444444444444 -30.528055555555554 55.84027777777778 -30.529166666666665 55.85944444444445 -30.522499999999997 55.86138888888889 -30.523333333333333 55.86527777777778 -30.52027777777778 55.869166666666665 -30.51722222222222 55.87388888888889 -30.521944444444443 55.87916666666667 -30.535 55.88361111111111 -30.560833333333335 55.89611111111111 -30.55611111111111 55.90416666666667 -30.551944444444445 55.913333333333334 -30.551666666666666 55.92361111111111 -30.544444444444448 55.93138888888889 -30.541944444444447 55.94416666666666 -30.551111111111112 55.96472222222223 -30.56638888888889 55.9675 -30.57138888888889 55.968333333333334 -30.58 55.953611111111115 -30.581944444444446 55.9475 -30.589444444444442 55.94361111111111 -30.61277777777778 55.940555555555555 -30.64388888888889 55.93805555555555 -30.659444444444443 55.936388888888885 -30.674444444444447 55.93722222222222 -30.69 55.93888888888888 -30.7075 55.941111111111105 -30.721666666666664 55.94083333333333 -30.732499999999998 55.94972222222222 -30.74416666666667 55.973055555555554 -30.754444444444445 55.98527777777778 -30.767777777777777 55.987500000000004 -30.80027777777778 55.981944444444444 -30.80388888888889 55.968333333333334 -30.805555555555557 55.95333333333333 -30.80888888888889 55.945277777777775 -30.825555555555557 55.94444444444444 -30.843888888888888 55.94638888888888 -30.851944444444445 55.94416666666666 -30.85527777777778 55.94 -30.873333333333335 55.93861111111111 -30.88277777777778 55.94138888888889 -30.894444444444446 55.94138888888889 -30.915555555555553 55.94361111111111 -30.925555555555558 55.947222222222216 -30.935833333333335 55.94944444444444 -30.93888888888889 55.950833333333335 -30.940555555555555 55.96138888888889 -30.947777777777777 55.97166666666667 -30.95888888888889 55.96805555555556 -30.97694444444444 55.95805555555556 -30.988611111111112 55.94944444444444 -31.00138888888889 55.94888888888889 -31.013333333333332 55.95194444444445 -31.023055555555555 55.950833333333335 -31.041944444444447 55.94972222222222 -31.059444444444445 55.95277777777778 -31.064722222222223 55.97083333333334 -31.078611111111112 55.98527777777778 -31.114444444444445 55.98388888888889 -31.123055555555556 55.98972222222222 -31.14472222222222 55.987500000000004 -31.160277777777775 55.98722222222222 -31.160555555555554 55.985 -31.16638888888889 55.985 -31.166666666666668 55.980000000000004 -31.17527777777778 55.97972222222222 -31.175833333333333 55.97 -31.18277777777778 55.97 -31.18305555555556 55.966944444444444 -31.183888888888887 55.96222222222222 -31.185 55.96 -31.185833333333335 55.95333333333333 -31.180833333333336 55.95333333333333 -31.180555555555557 55.95277777777778 -31.18111111111111 55.94888888888889 -31.18277777777778 55.94416666666666 -31.183611111111112 55.94305555555555 -31.183888888888887 55.94277777777778 -31.183888888888887 55.91861111111111 -31.174166666666668 55.91555555555556 -31.174166666666668 55.913888888888884 -31.174166666666668 55.91277777777778 -31.174722222222222 55.911944444444444 -31.17527777777778 55.88638888888889 -31.191666666666666 55.88166666666667 -31.201944444444443 55.879444444444445 -31.20583333333333 55.87166666666667 -31.219166666666666 55.86472222222223 -31.246666666666666 55.848888888888894 -31.290277777777778 55.84138888888889 -31.324166666666667 55.84638888888889 -31.35777777777778 55.84638888888889 -31.36777777777778 55.83722222222222 -31.384999999999998 55.825 -31.393333333333334 55.81944444444445 -31.39611111111111 55.814166666666665 -31.404722222222222 55.81222222222222 -31.4175 55.82333333333334 -31.42388888888889 55.830000000000005 -31.42138888888889 55.83388888888889 -31.42666666666667 55.83555555555556 -31.428611111111113 55.844166666666666 -31.44 55.85638888888889 -31.449722222222224 55.862500000000004 -31.452222222222222 55.862500000000004 -31.461388888888887 55.871944444444445 -31.49388888888889 55.86527777777778 -31.506944444444443 55.85611111111111 -31.50861111111111 55.85055555555556 -31.50638888888889 55.84861111111111 -31.510277777777777 55.843611111111116 -31.522499999999997 55.83888888888889 -31.540833333333335 55.83083333333334 -31.56638888888889 55.831388888888895 -31.578055555555554 55.83444444444444 -31.591388888888886 55.840833333333336 -31.608611111111113 55.843611111111116 -31.608333333333334 55.85861111111111 -31.602222222222224 55.87 -31.59 55.88055555555555 -31.57472222222222 55.88111111111111 -31.580555555555556 55.87861111111111 -31.590833333333332 55.882222222222225 -31.610833333333336 55.8825 -31.65 55.89138888888889 -31.663055555555555 55.90333333333333 -31.684444444444445 55.905277777777776 -31.689444444444444 55.903888888888886 -31.697222222222223 55.9 -31.705555555555556 55.89388888888889 -31.718055555555555 55.89388888888889 -31.734722222222224 55.89555555555555 -31.745 55.894444444444446 -31.75861111111111 55.88388888888889 -31.780555555555555 55.87972222222222 -31.796666666666667 55.8775 -31.82 55.876666666666665 -31.83138888888889 55.86694444444444 -31.834166666666665 55.86194444444445 -31.842222222222222 55.85638888888889 -31.84722222222222 55.852222222222224 -31.874166666666667 55.85722222222223 -31.88138888888889 55.86416666666667 -31.884999999999998 55.90888888888889 -31.875 55.92305555555555 -31.88277777777778 55.925555555555555 -31.892777777777777 55.92472222222222 -31.896944444444443 55.91888888888889 -31.90833333333333 55.904444444444444 -31.9075 55.89138888888889 -31.90833333333333 55.88472222222222 -31.911666666666665 55.87722222222222 -31.920833333333334 55.87416666666667 -31.927222222222223 55.86944444444445 -31.96944444444444 55.86638888888889 -31.974166666666665 55.852222222222224 -31.983888888888888 55.84805555555556 -31.991666666666667 55.831388888888895 -32.00277777777778 55.82777777777778 -32.010555555555555 55.825833333333335 -32.025277777777774 55.8175 -32.04138888888889 55.81638888888889 -32.04694444444444 55.81361111111111 -32.05972222222222 55.80416666666667 -32.065 55.80333333333333 -32.065 55.80138888888889 -32.07944444444445 55.80138888888889 -32.090833333333336 55.80138888888889 -32.09527777777778 55.80444444444444 -32.10305555555556 55.806666666666665 -32.108333333333334 55.806666666666665 -32.10861111111111 55.80888888888889 -32.11416666666667 55.81055555555555 -32.12777777777778 55.81055555555555 -32.129444444444445 55.81638888888889 -32.149166666666666 55.85305555555556 -32.155 55.87361111111111 -32.1625 55.87694444444445 -32.165277777777774 55.88 -32.16777777777777 55.88138888888889 -32.17194444444444 55.88194444444444 -32.19416666666666 55.88194444444444 -32.19444444444444 55.89194444444444 -32.20194444444445 55.89972222222222 -32.2075 55.905 -32.21027777777778 55.908055555555556 -32.21194444444445 55.90972222222222 -32.21083333333333 55.919999999999995 -32.20944444444445 55.92527777777777 -32.202222222222225 55.95138888888889 -32.1825 55.95444444444445 -32.176944444444445 55.96 -32.17222222222222 55.96083333333333 -32.17166666666667 55.967777777777776 -32.168055555555554 55.973888888888894 -32.16166666666666 55.99194444444444 -32.12861111111111 56.00472222222222 -32.11055555555556 56.01027777777778 -32.096944444444446 56.01638888888889 -32.081388888888895 56.03361111111111 -32.0775 56.045833333333334 -32.07944444444445 56.05611111111111 -32.08111111111111 56.07083333333334 -32.094722222222224 56.077222222222225 -32.11138888888889 56.078611111111115 -32.12361111111111 56.06583333333333 -32.16722222222222 56.06638888888889 -32.175555555555555 56.07027777777778 -32.17583333333333 56.085 -32.17833333333333 56.1225 -32.18611111111111 56.135 -32.18694444444444 56.13944444444444 -32.18722222222222 56.1425 -32.18722222222222 56.14277777777778 -32.187777777777775 56.14527777777778 -32.19166666666666 56.14555555555555 -32.19944444444444 56.14083333333333 -32.20638888888889 56.13666666666666 -32.211111111111116 56.13583333333333 -32.21416666666667 56.13361111111111 -32.222500000000004 56.132777777777775 -32.225833333333334 56.1325 -32.23361111111111 56.13194444444444 -32.242222222222225 56.13138888888889 -32.24333333333333 56.120555555555555 -32.265 56.11333333333334 -32.279444444444444 56.10277777777778 -32.30833333333333 56.094722222222224 -32.31722222222223 56.09027777777778 -32.331388888888895 56.09166666666667 -32.35638888888889 56.09027777777778 -32.36222222222222 56.081944444444446 -32.38305555555556 56.07916666666667 -32.41222222222222 56.081388888888895 -32.42916666666667 56.078611111111115 -32.473888888888894 56.078611111111115 -32.480000000000004 56.07833333333333 -32.48555555555556 56.07972222222222 -32.50277777777778 56.075833333333335 -32.51638888888889 56.056666666666665 -32.53055555555555 56.05444444444444 -32.58972222222222 56.05555555555555 -32.59805555555556 56.05222222222222 -32.61472222222223 56.04833333333333 -32.6275 56.032222222222224 -32.64555555555555 56.00527777777778 -32.65694444444444 55.99111111111111 -32.67472222222222 55.980555555555554 -32.70055555555556 55.973888888888894 -32.72361111111111 55.931666666666665 -32.75333333333333 55.925 -32.76111111111111 55.91916666666666 -32.77388888888889 55.91277777777778 -32.79361111111111 55.907777777777774 -32.80638888888888 55.885555555555555 -32.837500000000006 55.8725 -32.85722222222223 55.934999999999995 -33.39944444444444</gml:posList>
-								</gml:LineStringSegment>
+								</gml:GeodesicString>
 							</gml:segments>
 						</aixm:Curve>
 					</aixm:border>
@@ -8449,7 +8451,7 @@
 							<gml:pos>52.375597222222225 -31.964263888888887</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:onRunway>
+					<aixm:onRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:onRunway>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -8505,7 +8507,7 @@
 							<gml:pos>52.37818888888889 -31.921847222222222</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:onRunway>
+					<aixm:onRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:onRunway>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -8577,8 +8579,8 @@
 							<aixm:elevation uom="M">0.0</aixm:elevation>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:runwayDirection xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113" xsi:nil="true"></aixm:runwayDirection>
-					<aixm:servedAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:servedAirport>
+					<aixm:runwayDirection xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113"></aixm:runwayDirection>
+					<aixm:servedAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:servedAirport>
 				</aixm:NavaidTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -9616,7 +9618,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea"></aixm:associatedAirportHeliport>
 				</aixm:TouchDownLiftOffTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TouchDownLiftOff>
@@ -9687,7 +9689,7 @@
 							</gml:patches>
 						</aixm:ElevatedSurface>
 					</aixm:extent>
-					<aixm:protectedTouchDownLiftOff xlink:href="#urn.uuid.3d9a60b5-6d7f-471d-9744-b767df4a8575" xsi:nil="true"></aixm:protectedTouchDownLiftOff>
+					<aixm:protectedTouchDownLiftOff xlink:href="#urn.uuid.3d9a60b5-6d7f-471d-9744-b767df4a8575"></aixm:protectedTouchDownLiftOff>
 				</aixm:TouchDownLiftOffSafeAreaTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TouchDownLiftOffSafeArea>
@@ -9742,13 +9744,13 @@
 					<aixm:extent>
 						<aixm:ElevatedCurve gml:id="crv1242">
 							<gml:segments>
-								<gml:LineStringSegment>
+								<gml:GeodesicString>
 									<gml:posList>52.37464269376479 -31.94655407346698 52.372661895885464 -31.946298658872173 52.37249328436266 -31.946309509256167 52.37226938754995 -31.946412846246652 52.372166050559464 -31.946602297395877 52.3720797641724 -31.948219693525278</gml:posList>
-								</gml:LineStringSegment>
+								</gml:GeodesicString>
 							</gml:segments>
 						</aixm:ElevatedCurve>
 					</aixm:extent>
-					<aixm:connectedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c" xsi:nil="true"></aixm:connectedTaxiway>
+					<aixm:connectedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c"></aixm:connectedTaxiway>
 				</aixm:GuidanceLineTimeSlice>
 			</aixm:timeSlice>
 		</aixm:GuidanceLine>
@@ -9819,7 +9821,7 @@
 							</gml:patches>
 						</aixm:ElevatedSurface>
 					</aixm:extent>
-					<aixm:protectedRunwayDirection xlink:href="#urn.uuid.921966d2-bae8-4b4b-bc8a-8012faf991be" xsi:nil="true"></aixm:protectedRunwayDirection>
+					<aixm:protectedRunwayDirection xlink:href="#urn.uuid.921966d2-bae8-4b4b-bc8a-8012faf991be"></aixm:protectedRunwayDirection>
 				</aixm:RunwayProtectAreaTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayProtectArea>
@@ -9890,7 +9892,7 @@
 							</gml:patches>
 						</aixm:ElevatedSurface>
 					</aixm:extent>
-					<aixm:protectedRunwayDirection xlink:href="#urn.uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5" xsi:nil="true"></aixm:protectedRunwayDirection>
+					<aixm:protectedRunwayDirection xlink:href="#urn.uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5"></aixm:protectedRunwayDirection>
 				</aixm:RunwayProtectAreaTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayProtectArea>
@@ -9947,7 +9949,7 @@
 							<aixm:elevation uom="M">18</aixm:elevation>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f" xsi:nil="true"></aixm:onRunway>
+					<aixm:onRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f"></aixm:onRunway>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -9999,8 +10001,8 @@
 							<gml:pos>52.37340555555556 -31.962791666666664</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:position>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:airportHeliport>
-					<aixm:checkPointFacility xlink:href="#urn.uuid.08a1bbd5-ea70-4fe3-836a-ea9686349495" xsi:nil="true"></aixm:checkPointFacility>
+					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:airportHeliport>
+					<aixm:checkPointFacility xlink:href="#urn.uuid.08a1bbd5-ea70-4fe3-836a-ea9686349495"></aixm:checkPointFacility>
 				</aixm:CheckpointVORTimeSlice>
 			</aixm:timeSlice>
 		</aixm:CheckpointVOR>
@@ -10057,7 +10059,7 @@
 							<aixm:evaluationMethodPCN>ACFT</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:RunwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Runway>
@@ -10104,7 +10106,7 @@
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:designator>09R</aixm:designator>
 					<aixm:trueBearing>85.29</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a" xsi:nil="true"></aixm:usedRunway>
+					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"></aixm:usedRunway>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -10155,7 +10157,7 @@
 							<gml:pos>52.36550555555556 -31.965008333333333</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#uuid.5d6513d4-a62a-49e1-9e26-0b8cbf320daf" xsi:nil="true"></aixm:onRunway>
+					<aixm:onRunway xlink:href="#uuid.5d6513d4-a62a-49e1-9e26-0b8cbf320daf"></aixm:onRunway>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -10202,7 +10204,7 @@
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:designator>27L</aixm:designator>
 					<aixm:trueBearing>265.29</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a" xsi:nil="true"></aixm:usedRunway>
+					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"></aixm:usedRunway>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -10253,7 +10255,7 @@
 							<gml:pos>52.368252777777776 -31.925594444444446</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#uuid.ee6019d6-29f7-404d-8cee-b6819f325aed" xsi:nil="true"></aixm:onRunway>
+					<aixm:onRunway xlink:href="#uuid.ee6019d6-29f7-404d-8cee-b6819f325aed"></aixm:onRunway>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -10298,7 +10300,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8" xsi:nil="true"></aixm:associatedRunway>
+					<aixm:associatedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"></aixm:associatedRunway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_166">
 							<gml:patches>
@@ -10356,7 +10358,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a" xsi:nil="true"></aixm:associatedRunway>
+					<aixm:associatedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"></aixm:associatedRunway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_169">
 							<gml:patches>
@@ -10425,7 +10427,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10481,7 +10483,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10537,7 +10539,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10593,7 +10595,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10649,7 +10651,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10705,7 +10707,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10761,7 +10763,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -10806,7 +10808,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_172">
 							<gml:patches>
@@ -10864,7 +10866,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.8a3a6406-6d9e-42e5-a5d7-daac00dc0d52" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.8a3a6406-6d9e-42e5-a5d7-daac00dc0d52"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_175">
 							<gml:patches>
@@ -10922,7 +10924,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.d3a7ea1e-93d2-4298-adb3-141906a7b178" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.d3a7ea1e-93d2-4298-adb3-141906a7b178"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_178">
 							<gml:patches>
@@ -10980,7 +10982,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.51474004-6ec1-47a0-bada-404b866e6549" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.51474004-6ec1-47a0-bada-404b866e6549"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_181">
 							<gml:patches>
@@ -11038,7 +11040,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.a45ec8a1-2259-4140-8322-a441e3006cb3" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.a45ec8a1-2259-4140-8322-a441e3006cb3"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_184">
 							<gml:patches>
@@ -11096,7 +11098,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.125d2cc5-2fd4-4917-8a08-a1586bce481d" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.125d2cc5-2fd4-4917-8a08-a1586bce481d"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_187">
 							<gml:patches>
@@ -11154,7 +11156,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedTaxiway xlink:href="#uuid.0c049047-56f5-41a1-ba56-d0695817a3d2" xsi:nil="true"></aixm:associatedTaxiway>
+					<aixm:associatedTaxiway xlink:href="#uuid.0c049047-56f5-41a1-ba56-d0695817a3d2"></aixm:associatedTaxiway>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_190">
 							<gml:patches>
@@ -11222,7 +11224,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -11267,7 +11269,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedApron xlink:href="#uuid.d6cf5b07-9fb4-4afb-9b47-841643da3e99" xsi:nil="true"></aixm:associatedApron>
+					<aixm:associatedApron xlink:href="#uuid.d6cf5b07-9fb4-4afb-9b47-841643da3e99"></aixm:associatedApron>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_193">
 							<gml:patches>
@@ -11332,7 +11334,7 @@
 							<gml:pos>52.372075 -31.948222222222224</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:apronLocation xlink:href="#uuid.285fd2af-599a-4f9b-b812-fd24a68416c4" xsi:nil="true"></aixm:apronLocation>
+					<aixm:apronLocation xlink:href="#uuid.285fd2af-599a-4f9b-b812-fd24a68416c4"></aixm:apronLocation>
 					<aixm:availability>
 						<aixm:ApronAreaAvailability gml:id="ID_197">
 							<aixm:operationalStatus>NORMAL</aixm:operationalStatus>
@@ -11392,7 +11394,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -11437,7 +11439,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedApron xlink:href="#uuid.1707f988-e674-4290-933c-047d87b85bd8" xsi:nil="true"></aixm:associatedApron>
+					<aixm:associatedApron xlink:href="#uuid.1707f988-e674-4290-933c-047d87b85bd8"></aixm:associatedApron>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_200">
 							<gml:patches>
@@ -11570,7 +11572,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64" xsi:nil="true"></aixm:associatedAirportHeliport>
+					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"></aixm:associatedAirportHeliport>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -11615,7 +11617,7 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
-					<aixm:associatedApron xlink:href="#uuid.0e131693-cf13-4938-9969-994d7f56a23c" xsi:nil="true"></aixm:associatedApron>
+					<aixm:associatedApron xlink:href="#uuid.0e131693-cf13-4938-9969-994d7f56a23c"></aixm:associatedApron>
 					<aixm:extent>
 						<aixm:ElevatedSurface gml:id="ID_207">
 							<gml:patches>
@@ -11943,7 +11945,7 @@
 							</aixm:horizontalProjection_surfaceExtent>
 						</aixm:VerticalStructurePart>
 					</aixm:part>
-					<aixm:supportedService xlink:href="#uuid.6d323fef-9ddb-4f7e-9986-a945276ed585" xsi:nil="true"></aixm:supportedService>
+					<aixm:supportedService xlink:href="#uuid.6d323fef-9ddb-4f7e-9986-a945276ed585"></aixm:supportedService>
 				</aixm:VerticalStructureTimeSlice>
 			</aixm:timeSlice>
 		</aixm:VerticalStructure>
@@ -12121,12 +12123,10 @@
 						<aixm:AirspaceGeometryComponent gml:id="ID_238">
 							<aixm:theAirspaceVolume>
 								<aixm:AirspaceVolume gml:id="ID_239">
-									<aixm:upperLimit uom="OTHER">CEILING</aixm:upperLimit>
-									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
-									<aixm:lowerLimit uom="OTHER">FLOOR</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
+									<aixm:upperLimit uom="FT">20000</aixm:upperLimit>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_240">
+										<aixm:ElevatedSurface gml:id="ID_240" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -12167,9 +12167,7 @@
 							<aixm:levels>
 								<aixm:AirspaceLayer gml:id="ID_244">
 									<aixm:upperLimit uom="OTHER">CEILING</aixm:upperLimit>
-									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
 									<aixm:lowerLimit uom="OTHER">FLOOR</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
 									<aixm:altitudeInterpretation>BETWEEN</aixm:altitudeInterpretation>
 								</aixm:AirspaceLayer>
 							</aixm:levels>
@@ -12228,10 +12226,9 @@
 								<aixm:AirspaceVolume gml:id="ID_248">
 									<aixm:upperLimit uom="M">1525</aixm:upperLimit>
 									<aixm:upperLimitReference>SFC</aixm:upperLimitReference>
-									<aixm:lowerLimit uom="OTHER">FLOOR</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_249">
+										<aixm:ElevatedSurface gml:id="ID_249" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -12239,18 +12236,18 @@
 															<gml:curveMember>
 																<gml:Curve gml:id="ID_250">
 																	<gml:segments>
-																		<gml:LineStringSegment>
+																		<gml:GeodesicString>
 																			<gml:posList>55.233333333333334 -36.166666666666664 55.23116372807667 -36.89437337916484</gml:posList>
-																		</gml:LineStringSegment>
+																		</gml:GeodesicString>
 																		<gml:ArcByCenterPoint numArc="1">
 																			<gml:posList>55.233333333333334 -36.166666666666664</gml:posList>
 																			<gml:radius uom="NM">25.0</gml:radius>
 																			<gml:startAngle uom="deg">270.0</gml:startAngle>
 																			<gml:endAngle uom="deg">497.0</gml:endAngle>
 																		</gml:ArcByCenterPoint>
-																		<gml:LineStringSegment>
+																		<gml:GeodesicString>
 																			<gml:posList>54.92816350530716 -35.674116070018954 55.233333333333334 -36.166666666666664</gml:posList>
-																		</gml:LineStringSegment>
+																		</gml:GeodesicString>
 																	</gml:segments>
 																</gml:Curve>
 															</gml:curveMember>
@@ -12344,7 +12341,7 @@
 									<aixm:lowerLimit uom="FL">230</aixm:lowerLimit>
 									<aixm:lowerLimitReference>STD</aixm:lowerLimitReference>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_258">
+										<aixm:ElevatedSurface gml:id="ID_258" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -12437,10 +12434,9 @@
 								<aixm:AirspaceVolume gml:id="ID_265">
 									<aixm:upperLimit uom="FL">360</aixm:upperLimit>
 									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
-									<aixm:lowerLimit uom="OTHER">FLOOR</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_266">
+										<aixm:ElevatedSurface gml:id="ID_266" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -12533,10 +12529,9 @@
 								<aixm:AirspaceVolume gml:id="ID_273">
 									<aixm:upperLimit uom="FL">360</aixm:upperLimit>
 									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
-									<aixm:lowerLimit uom="OTHER">FLOOR</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_274">
+										<aixm:ElevatedSurface gml:id="ID_274" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -12748,10 +12743,9 @@
 								<aixm:AirspaceVolume gml:id="ID_294">
 									<aixm:upperLimit uom="FL">360</aixm:upperLimit>
 									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
-									<aixm:lowerLimit uom="OTHER">FLOOR</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_295">
+										<aixm:ElevatedSurface gml:id="ID_295" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -12966,7 +12960,7 @@
 									<aixm:lowerLimit uom="M">450</aixm:lowerLimit>
 									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
 									<aixm:horizontalProjection>
-										<aixm:ElevatedSurface gml:id="ID_316">
+										<aixm:ElevatedSurface gml:id="ID_316" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -13028,7 +13022,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_324">
-							<event:theEvent xlink:href="#uuid.cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b" xsi:nil="true"></event:theEvent>
+							<event:theEvent xlink:href="#uuid.cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b"></event:theEvent>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -13124,7 +13118,7 @@
 					<aixm:name>FELDMAD</aixm:name>
 					<aixm:type>MASTER</aixm:type>
 					<aixm:frequency uom="KHZ">85.72</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce" xsi:nil="true"></aixm:systemChain>
+					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"></aixm:systemChain>
 					<aixm:position>
 						<aixm:ElevatedPoint gml:id="ID_327">
 							<gml:pos>52.44166666666666 -23.7125</gml:pos>
@@ -13182,7 +13176,7 @@
 					<aixm:name>KYLLSTAD</aixm:name>
 					<aixm:type>RED_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">114.2928</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce" xsi:nil="true"></aixm:systemChain>
+					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"></aixm:systemChain>
 					<aixm:position>
 						<aixm:ElevatedPoint gml:id="ID_331">
 							<gml:pos>51.36527777777778 -21.534444444444446</gml:pos>
@@ -13240,7 +13234,7 @@
 					<aixm:name>VENZE</aixm:name>
 					<aixm:type>GREEN_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">128.5794</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce" xsi:nil="true"></aixm:systemChain>
+					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"></aixm:systemChain>
 					<aixm:position>
 						<aixm:ElevatedPoint gml:id="ID_335">
 							<gml:pos>54.285555555555554 -24.269444444444442</gml:pos>
@@ -13298,7 +13292,7 @@
 					<aixm:name>LAUTERBER</aixm:name>
 					<aixm:type>PURPLE_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">71.433</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce" xsi:nil="true"></aixm:systemChain>
+					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"></aixm:systemChain>
 					<aixm:position>
 						<aixm:ElevatedPoint gml:id="ID_339">
 							<gml:pos>51.32361111111111 -25.989166666666666</gml:pos>
@@ -13489,7 +13483,7 @@
 FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event:text>
 							<event:lowerLimit>210</event:lowerLimit>
 							<event:upperLimit>330</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -13533,7 +13527,7 @@ FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event
 FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event:text>
 							<event:lowerLimit>210</event:lowerLimit>
 							<event:upperLimit>330</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -13610,7 +13604,7 @@ FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event
 CLASS G AIRSPACE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_54">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -13659,7 +13653,7 @@ CLASS G AIRSPACE.</event:text>
 CLASS G AIRSPACE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_58">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -13742,7 +13736,7 @@ CLASS G AIRSPACE.</event:text>
 FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N 0312042W - 531005N 0310842W - 525617N 0305706W - 525235N 0310612W - 525533N 0312746W.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>600</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_62">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -13792,7 +13786,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N 0312042W - 531005N 0310842W - 525617N 0305706W - 525235N 0310612W - 525533N 0312746W.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>600</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_66">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -13853,10 +13847,9 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 								<aixm:AirspaceVolume gml:id="ID_350">
 									<aixm:upperLimit uom="FT">60000</aixm:upperLimit>
 									<aixm:upperLimitReference>MSL</aixm:upperLimitReference>
-									<aixm:lowerLimit uom="FT">0</aixm:lowerLimit>
-									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
+									<aixm:lowerLimit uom="FT">GND</aixm:lowerLimit>
 									<aixm:horizontalProjection>
-										<aixm:Surface gml:id="ID_351">
+										<aixm:Surface gml:id="ID_351" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -13928,7 +13921,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 					</aixm:activation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_359">
-							<event:theEvent xlink:href="#uuid.4935e16e-2a7d-464b-a537-477c7af1acbb" xsi:nil="true"></event:theEvent>
+							<event:theEvent xlink:href="#uuid.4935e16e-2a7d-464b-a537-477c7af1acbb"></event:theEvent>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -13954,7 +13947,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 									<aixm:lowerLimit uom="FT">0</aixm:lowerLimit>
 									<aixm:lowerLimitReference>SFC</aixm:lowerLimitReference>
 									<aixm:horizontalProjection>
-										<aixm:Surface gml:id="ID_364">
+										<aixm:Surface gml:id="ID_364" srsName="urn:ogc:def:crs:EPSG::4326">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
@@ -14026,7 +14019,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 					</aixm:activation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_372">
-							<event:theEvent xlink:href="#uuid.4935e16e-2a7d-464b-a537-477c7af1acbb" xsi:nil="true"></event:theEvent>
+							<event:theEvent xlink:href="#uuid.4935e16e-2a7d-464b-a537-477c7af1acbb"></event:theEvent>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -14103,7 +14096,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14147,7 +14140,7 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14223,7 +14216,7 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:text>RWY 09L/27R CLOSED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14266,7 +14259,7 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:text>RWY 09L/27R CLOSED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14346,7 +14339,7 @@ DUE TO MAINT.
 DO NOT USE, FALSE INDICATIONS POSS.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14393,7 +14386,7 @@ DUE TO MAINT.
 DO NOT USE, FALSE INDICATIONS POSS.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14471,7 +14464,7 @@ U/S.
 DUE TO MAINTENANCE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14516,7 +14509,7 @@ U/S.
 DUE TO MAINTENANCE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14597,7 +14590,7 @@ LIGHTED.
 85 FT IS A MAXIMUM HEIGHT.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14645,7 +14638,7 @@ LIGHTED.
 85 FT IS A MAXIMUM HEIGHT.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14873,7 +14866,7 @@ AT PSN 522116N 0315648W ELEVATION 675 FT (HEIGHT 483 FT).
 LIGHTED ICAO MARKED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -14919,7 +14912,7 @@ AT PSN 522116N 0315648W ELEVATION 675 FT (HEIGHT 483 FT).
 LIGHTED ICAO MARKED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15185,7 +15178,7 @@ LIGHTED DAY AND NIGHT MARKED.
 GROUP OF 3.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15231,7 +15224,7 @@ LIGHTED DAY AND NIGHT MARKED.
 GROUP OF 3.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY" xsi:nil="true"></event:publisherNOF>
+							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"></event:publisherNOF>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
