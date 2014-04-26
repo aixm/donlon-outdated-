@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSpy v2009 sp1 (http://www.altova.com) by XMLSpy 2009 Professional Ed., Installed for 10 users (with SMP from 2009-08-18 to 2011-08-19) (Eurocontrol) -->
+<!-- This file includes contributions from Luciad, EUROCONTROL, Comsoft -->
 <message:AIXMBasicMessage xmlns:message="http://www.aixm.aero/schema/5.1/message" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:aixm="http://www.aixm.aero/schema/5.1" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:event="http://www.aixm.aero/schema/5.1/event" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://www.aixm.aero/schema/5.1/ISO_19136_Schemas/gml.xsd http://www.aixm.aero/schema/5.1/message http://www.aixm.aero/schema/5.1/message/AIXM_BasicMessage.xsd http://www.isotc211.org/2005/gmd http://www.aixm.aero/schema/5.1/ISO_19139_Schemas/gmd/gmd.xsd http://www.aixm.aero/schema/5.1/event http://www.aixm.aero/schema/5.1/event/Event_Features.xsd http://www.w3.org/1999/xlink http://www.aixm.aero/schema/5.1/xlink/xlinks.xsd " gml:id="M0000001">
 	<gml:boundedBy>
 		<gml:Envelope srsName="urn:ogc:def:crs:EPSG::4326">
@@ -6491,7 +6491,8 @@
 								</aixm:Timesheet>
 							</aixm:timeInterval>
 							<aixm:specialDateAuthority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
-							<aixm:operationalStatus>NORMAL</aixm:operationalStatus> <!-- all Baseline availability shall have status NORMAL, see the Event Specification assumptions for AD.CLS scenario-->
+							<aixm:operationalStatus>NORMAL</aixm:operationalStatus>
+							<!-- all Baseline availability shall have status NORMAL, see the Event Specification assumptions for AD.CLS scenario-->
 							<aixm:usage>
 								<aixm:AirportHeliportUsage gml:id="U_rqsasr">
 									<aixm:type>PERMIT</aixm:type>
@@ -8396,7 +8397,7 @@
 																<gml:Curve gml:id="CFIRAMSWELL">
 																	<gml:segments>
 																		<gml:GeodesicString>
-																			<gml:posList>57.0833333333333 -40.0 56.6666666666667 -21.1333333333333 43.5166666666667 -21.1333333333333 41.4 -30.05 40.7333333333333 -37.1833333333333 42.6 -37.0 44.0333333333333 -40.0 48.4666666666667 -41.3333333333333 52.85 -41.7833333333333 57.0833333333333 -40.0</gml:posList>
+																			<gml:posList>57.0833333333333 -40.0 52.85 -41.7833333333333 48.4666666666667 -41.3333333333333 44.0333333333333 -40.0 42.6 -37.0 40.7333333333333 -37.1833333333333 41.4 -30.05 43.5166666666667 -21.1333333333333 56.6666666666667 -21.1333333333333 57.0833333333333 -40.0</gml:posList>
 																		</gml:GeodesicString>
 																	</gml:segments>
 																</gml:Curve>
@@ -9423,7 +9424,7 @@
 							<gml:pos>52.375597222222225 -31.964263888888887</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:onRunway xlink:href="#urn.uuid.c8455a6b-9319-4bb7-b797-08e644342d64"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -9479,7 +9480,7 @@
 							<gml:pos>52.37818888888889 -31.921847222222222</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:onRunway xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -10953,7 +10954,7 @@
 							<aixm:elevation uom="M">18</aixm:elevation>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f"/>
+					<aixm:onRunway xlink:href="#urn.uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -16740,5 +16741,782 @@ GROUP OF 3.</event:text>
 				</aixm:VerticalStructureTimeSlice>
 			</aixm:timeSlice>
 		</aixm:VerticalStructure>
+	</message:hasMember>
+	<message:hasMember>
+		<!-- ################################################ -->
+		<!-- CRANE 3 -->
+		<!-- ################################################ -->
+		<aixm:VerticalStructure gml:id="ID_431">
+			<gml:identifier codeSpace="urn:uuid:">e9ce3cc0-b41f-11e3-a5e2-0800200c9a66</gml:identifier>
+			<aixm:featureMetadata>
+				<gmd:MD_Metadata>
+					<gmd:characterSet>
+						<gmd:MD_CharacterSetCode codeList="http://www.aixm.aero/schema/5.1/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+					</gmd:characterSet>
+					<gmd:contact xlink:href="#MessageContact"/>
+					<gmd:dateStamp>
+						<gco:DateTime>2014-03-25T12:00:00Z</gco:DateTime>
+					</gmd:dateStamp>
+					<gmd:identificationInfo>
+						<gmd:MD_DataIdentification>
+							<gmd:citation xlink:href="#MessageCitation"/>
+							<gmd:abstract>
+								<gco:CharacterString>Donlon sample data; initially created by COMSOFT (www.comsoft.aero); currently maintained by Eurocontrol. This feature demonstrates a canceled commissioning.</gco:CharacterString>
+							</gmd:abstract>
+							<gmd:pointOfContact xlink:href="#MessagePOC"/>
+							<gmd:resourceConstraints xlink:href="#MessageConstraints"/>
+							<gmd:language>
+								<gco:CharacterString>eng</gco:CharacterString>
+							</gmd:language>
+							<gmd:topicCategory>
+								<gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
+							</gmd:topicCategory>
+						</gmd:MD_DataIdentification>
+					</gmd:identificationInfo>
+				</gmd:MD_Metadata>
+			</aixm:featureMetadata>
+			<aixm:timeSlice>
+				<!-- commissioning PERMDELTA -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_432">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_433">
+							<gml:timePosition>2012-10-01T05:31:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="ID_434">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+					<aixm:name>EADD_CRANE_3</aixm:name>
+					<aixm:type>CRANE</aixm:type>
+					<aixm:lighted>YES</aixm:lighted>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_435">
+							<aixm:verticalExtent uom="FT">85.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>NO</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_436">
+									<gml:pos>52.3727777777778 -31.943</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+					<aixm:annotation>
+						<aixm:Note gml:id="ID_437">
+							<aixm:purpose>WARNING</aixm:purpose>
+							<aixm:translatedNote>
+								<aixm:LinguisticNote gml:id="ID_438">
+									<aixm:note>located at airport EADD</aixm:note>
+								</aixm:LinguisticNote>
+							</aixm:translatedNote>
+						</aixm:Note>
+					</aixm:annotation>
+					<aixm:annotation>
+						<aixm:Note gml:id="ID_439">
+							<aixm:propertyName>horizontalProjectionlocation
+							</aixm:propertyName>
+							<aixm:purpose>REMARK</aixm:purpose>
+							<aixm:translatedNote>
+								<aixm:LinguisticNote gml:id="ID_440">
+									<aixm:note>250 FT EAST OF CONTROL TOWER</aixm:note>
+								</aixm:LinguisticNote>
+							</aixm:translatedNote>
+						</aixm:Note>
+					</aixm:annotation>
+					<aixm:annotation>
+						<aixm:Note gml:id="ID_441">
+							<aixm:purpose>REMARK</aixm:purpose>
+							<aixm:translatedNote>
+								<aixm:LinguisticNote gml:id="ID_442">
+									<aixm:note>85 FT IS A MAXIMUM HEIGHT</aixm:note>
+								</aixm:LinguisticNote>
+							</aixm:translatedNote>
+						</aixm:Note>
+					</aixm:annotation>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- cancelation of commissioning PERMDELTA -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_443">
+					<gml:validTime nilReason="inapplicable"/>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:correctionNumber>1</aixm:correctionNumber>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+		</aixm:VerticalStructure>
+	</message:hasMember>
+	<!-- ################################################ -->
+	<!-- CRANE 4 -->
+	<!-- ################################################ -->
+	<message:hasMember>
+		<aixm:VerticalStructure gml:id="ID_444">
+			<gml:identifier codeSpace="urn:uuid:">8c755520-b42b-11e3-a5e2-0800400c9a66</gml:identifier>
+			<aixm:featureMetadata>
+				<gmd:MD_Metadata>
+					<gmd:characterSet>
+						<gmd:MD_CharacterSetCode codeList="http://www.aixm.aero/schema/5.1/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+					</gmd:characterSet>
+					<gmd:contact xlink:href="#MessageContact"/>
+					<gmd:dateStamp>
+						<gco:DateTime>2014-03-25T12:00:00Z</gco:DateTime>
+					</gmd:dateStamp>
+					<gmd:identificationInfo>
+						<gmd:MD_DataIdentification>
+							<gmd:citation xlink:href="#MessageCitation"/>
+							<gmd:abstract>
+								<gco:CharacterString>Donlon sample data; initially created by COMSOFT (www.comsoft.aero); currently maintained by Eurocontrol. This feature demonstrates a canceled decommissioning.</gco:CharacterString>
+							</gmd:abstract>
+							<gmd:pointOfContact xlink:href="#MessagePOC"/>
+							<gmd:resourceConstraints xlink:href="#MessageConstraints"/>
+							<gmd:language>
+								<gco:CharacterString>eng</gco:CharacterString>
+							</gmd:language>
+							<gmd:topicCategory>
+								<gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
+							</gmd:topicCategory>
+						</gmd:MD_DataIdentification>
+					</gmd:identificationInfo>
+				</gmd:MD_Metadata>
+			</aixm:featureMetadata>
+			<aixm:timeSlice>
+				<!-- commissioning PERMDELTA -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_445">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_446">
+							<gml:timePosition>2012-10-01T05:31:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="ID_447">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+					<aixm:name>EADD_CRANE_4</aixm:name>
+					<aixm:type>CRANE</aixm:type>
+					<aixm:lighted>YES</aixm:lighted>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_448">
+							<aixm:verticalExtent uom="FT">85.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>NO</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_449">
+									<gml:pos>52.3727777777778 -31.9435</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+					<aixm:annotation>
+						<aixm:Note gml:id="ID_450">
+							<aixm:purpose>WARNING</aixm:purpose>
+							<aixm:translatedNote>
+								<aixm:LinguisticNote gml:id="ID_451">
+									<aixm:note>located at airport EADD</aixm:note>
+								</aixm:LinguisticNote>
+							</aixm:translatedNote>
+						</aixm:Note>
+					</aixm:annotation>
+					<aixm:annotation>
+						<aixm:Note gml:id="ID_452">
+							<aixm:propertyName>horizontalProjectionlocation
+							</aixm:propertyName>
+							<aixm:purpose>REMARK</aixm:purpose>
+							<aixm:translatedNote>
+								<aixm:LinguisticNote gml:id="ID_453">
+									<aixm:note>150 FT EAST OF CONTROL TOWER</aixm:note>
+								</aixm:LinguisticNote>
+							</aixm:translatedNote>
+						</aixm:Note>
+					</aixm:annotation>
+					<aixm:annotation>
+						<aixm:Note gml:id="ID_454">
+							<aixm:purpose>REMARK</aixm:purpose>
+							<aixm:translatedNote>
+								<aixm:LinguisticNote gml:id="ID_455">
+									<aixm:note>85 FT IS A MAXIMUM HEIGHT</aixm:note>
+								</aixm:LinguisticNote>
+							</aixm:translatedNote>
+						</aixm:Note>
+					</aixm:annotation>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- decommissioning PERMDELTA -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_456">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_457">
+							<gml:timePosition>2012-10-30T05:31:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>2</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="ID_458">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition>2012-10-30T05:31:00Z</gml:endPosition>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- cancelation of decommissioning PERMDELTA -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_459">
+					<gml:validTime nilReason="inapplicable"/>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>2</aixm:sequenceNumber>
+					<aixm:correctionNumber>1</aixm:correctionNumber>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- new PERMDELTA 3/0 on 2012-11-01 setting lightingICAOStandard to YES -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_460">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_461">
+							<gml:timePosition>2012-11-01T15:30:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>3</aixm:sequenceNumber>
+					<aixm:lightingICAOStandard>YES</aixm:lightingICAOStandard>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- cancelation of PERMDELTA 3/0 -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_462">
+					<gml:validTime nilReason="inapplicable"/>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>3</aixm:sequenceNumber>
+					<aixm:correctionNumber>1</aixm:correctionNumber>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- decommissioning PERMDELTA 2 -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_463">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_464">
+							<gml:timePosition>2012-11-30T05:31:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>4</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="ID_465">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition>2012-11-30T05:31:00Z</gml:endPosition>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+		</aixm:VerticalStructure>
+	</message:hasMember>
+	<!-- ################################################ -->
+	<!-- CRANE 5 -->
+	<!-- ################################################ -->
+	<message:hasMember>
+		<aixm:VerticalStructure gml:id="ID_466">
+			<gml:identifier codeSpace="urn:uuid:">8c755520-b42b-11e3-a5e2-0800500c9a66</gml:identifier>
+			<aixm:featureMetadata>
+				<gmd:MD_Metadata>
+					<gmd:characterSet>
+						<gmd:MD_CharacterSetCode codeList="http://www.aixm.aero/schema/5.1/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+					</gmd:characterSet>
+					<gmd:contact xlink:href="#MessageContact"/>
+					<gmd:dateStamp>
+						<gco:DateTime>2014-03-25T12:00:00Z</gco:DateTime>
+					</gmd:dateStamp>
+					<gmd:identificationInfo>
+						<gmd:MD_DataIdentification>
+							<gmd:citation xlink:href="#MessageCitation"/>
+							<gmd:abstract>
+								<gco:CharacterString>Donlon sample data; initially created by COMSOFT (www.comsoft.aero); currently maintained by Eurocontrol. This feature demonstrates combinations of properties with schedules, PERMDELTAs and TEMPDELTAs.</gco:CharacterString>
+							</gmd:abstract>
+							<gmd:pointOfContact xlink:href="#MessagePOC"/>
+							<gmd:resourceConstraints xlink:href="#MessageConstraints"/>
+							<gmd:language>
+								<gco:CharacterString>eng</gco:CharacterString>
+							</gmd:language>
+							<gmd:topicCategory>
+								<gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
+							</gmd:topicCategory>
+						</gmd:MD_DataIdentification>
+					</gmd:identificationInfo>
+				</gmd:MD_Metadata>
+			</aixm:featureMetadata>
+			<aixm:timeSlice>
+				<!-- commissioning PERMDELTA -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_467">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_468">
+							<gml:timePosition>2012-10-01T05:31:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="ID_469">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+					<aixm:name>EADD_CRANE_5</aixm:name>
+					<aixm:type>CRANE</aixm:type>
+					<aixm:lighted>YES</aixm:lighted>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_470">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_471">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>04:30</aixm:startTime>
+									<aixm:endTime>14:29</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">85.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_472">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_473">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_474">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>00:00</aixm:startTime>
+									<aixm:endTime>24:00</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_475">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>04:30</aixm:startTime>
+									<aixm:endTime>14:29</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+									<aixm:excluded>YES</aixm:excluded>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">0.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_476">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- PERMDELTA 2/0 on 2012-10-11 extending crane operation times to 17:29 PM -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_477">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_478">
+							<gml:timePosition>2012-10-11T15:30:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>2</aixm:sequenceNumber>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_479">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_480">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>04:30</aixm:startTime>
+									<aixm:endTime>17:29</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">85.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_481">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_482">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_483">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>00:00</aixm:startTime>
+									<aixm:endTime>24:00</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_484">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>04:30</aixm:startTime>
+									<aixm:endTime>17:29</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+									<aixm:excluded>YES</aixm:excluded>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">0.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_485">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- new PERMDELTA 3/0 on 2012-11-01 changing crane operation times to 4:30 AM - 16:29 PM -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_486">
+					<gml:validTime>
+						<gml:TimeInstant gml:id="ID_487">
+							<gml:timePosition>2012-11-01T15:30:00Z</gml:timePosition>
+						</gml:TimeInstant>
+					</gml:validTime>
+					<aixm:interpretation>PERMDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>3</aixm:sequenceNumber>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_488">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_489">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>04:30</aixm:startTime>
+									<aixm:endTime>16:29</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">85.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_490">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_491">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_492">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>00:00</aixm:startTime>
+									<aixm:endTime>24:00</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_493">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>04:30</aixm:startTime>
+									<aixm:endTime>16:29</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+									<aixm:excluded>YES</aixm:excluded>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">0.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_494">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- TEMPDELTA from 2012-10-12 to 2012-10-18 pausing crane operations -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_495">
+					<gml:validTime>
+						<gml:TimePeriod gml:id="ID_496">
+							<gml:beginPosition>2012-10-12T00:00:00Z</gml:beginPosition>
+							<gml:endPosition>2012-10-18T23:59:59Z</gml:endPosition>
+						</gml:TimePeriod>
+					</gml:validTime>
+					<aixm:interpretation>TEMPDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:lighted>NO</aixm:lighted>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_497">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_498">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>00:00</aixm:startTime>
+									<aixm:endTime>24:00</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">0.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_499">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+			<aixm:timeSlice>
+				<!-- TEMPDELTA correction: lighting changed and valid time changed from 2012-10-12 to 2012-10-19 pausing crane operations -->
+				<aixm:VerticalStructureTimeSlice gml:id="ID_500">
+					<gml:validTime>
+						<gml:TimePeriod gml:id="ID_501">
+							<gml:beginPosition>2012-10-12T00:00:00Z</gml:beginPosition>
+							<gml:endPosition>2012-10-19T23:59:59Z</gml:endPosition>
+						</gml:TimePeriod>
+					</gml:validTime>
+					<aixm:interpretation>TEMPDELTA</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:correctionNumber>1</aixm:correctionNumber>
+					<aixm:part>
+						<aixm:VerticalStructurePart gml:id="ID_502">
+							<aixm:timeInterval>
+								<aixm:Timesheet gml:id="ID_503">
+									<aixm:timeReference>UTC</aixm:timeReference>
+									<aixm:day>ANY</aixm:day>
+									<aixm:startTime>00:00</aixm:startTime>
+									<aixm:endTime>24:00</aixm:endTime>
+									<aixm:daylightSavingAdjust>NO</aixm:daylightSavingAdjust>
+								</aixm:Timesheet>
+							</aixm:timeInterval>
+							<aixm:verticalExtent uom="FT">0.0</aixm:verticalExtent>
+							<aixm:type>CRANE</aixm:type>
+							<aixm:mobile>YES</aixm:mobile>
+							<aixm:horizontalProjection_location>
+								<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_504">
+									<gml:pos>52.3727777777778 -31.9425</gml:pos>
+									<aixm:elevation uom="FT">858</aixm:elevation>
+								</aixm:ElevatedPoint>
+							</aixm:horizontalProjection_location>
+						</aixm:VerticalStructurePart>
+					</aixm:part>
+				</aixm:VerticalStructureTimeSlice>
+			</aixm:timeSlice>
+		</aixm:VerticalStructure>
+	</message:hasMember>
+	<message:hasMember xlink:type="simple">
+		<aixm:Airspace gml:id="uuid.fdaeffb4-6897-41fb-a33d-8861c2e91e69">
+			<gml:identifier codeSpace="urn:uuid:">fdaeffb4-6897-41fb-a33d-8861c2e91e69</gml:identifier>
+			<gml:boundedBy xsi:nil="true"/>
+			<aixm:timeSlice>
+				<aixm:AirspaceTimeSlice gml:id="uuid.56dfe479-2929-46aa-b775-ab6f0ba30ccb">
+					<gml:validTime xlink:type="simple">
+						<gml:TimePeriod gml:id="uuid.820fdbbb-55d4-4f45-9d59-d770e5faec95">
+							<gml:beginPosition>2011-01-13T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</gml:validTime>
+					<aixm:interpretation>BASELINE</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:correctionNumber>0</aixm:correctionNumber>
+					<aixm:featureLifetime xlink:type="simple">
+						<gml:TimePeriod gml:id="uuid.5e9c790e-b91b-4182-946d-145b6e0196de">
+							<gml:beginPosition>2002-11-30T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+					<aixm:type>CTA</aixm:type>
+					<aixm:designator>EAMM</aixm:designator>
+					<aixm:name>MAGNETTO OCA</aixm:name>
+					<aixm:designatorICAO>NO</aixm:designatorICAO>
+					<aixm:geometryComponent>
+						<aixm:AirspaceGeometryComponent gml:id="uuid.4344f989-50b4-4cb0-9920-870ccd89429f">
+							<aixm:operation>BASE</aixm:operation>
+							<aixm:operationSequence>1</aixm:operationSequence>
+							<aixm:theAirspaceVolume>
+								<aixm:AirspaceVolume gml:id="uuid.59160a8e-a015-42ed-8346-34bc65436a72">
+									<aixm:contributorAirspace>
+										<aixm:AirspaceVolumeDependency gml:id="uuid.43a4e8ff-7995-492c-aa8f-50ef2c29b679">
+											<aixm:dependency>FULL_GEOMETRY</aixm:dependency>
+											<aixm:theAirspace xlink:type="simple" xlink:href="#uuid.0df377fe-dd53-4d60-b6c4-6546ef31d26b"/>
+										</aixm:AirspaceVolumeDependency>
+									</aixm:contributorAirspace>
+								</aixm:AirspaceVolume>
+							</aixm:theAirspaceVolume>
+						</aixm:AirspaceGeometryComponent>
+					</aixm:geometryComponent>
+					<aixm:geometryComponent>
+						<aixm:AirspaceGeometryComponent gml:id="uuid.e8995bfd-8f47-401e-84d5-81154957ad53">
+							<aixm:operation>UNION</aixm:operation>
+							<aixm:operationSequence>2</aixm:operationSequence>
+							<aixm:theAirspaceVolume>
+								<aixm:AirspaceVolume gml:id="uuid.a91c0703-1a24-4c0a-a97b-f7a77ae6cdf2">
+									<aixm:contributorAirspace>
+										<aixm:AirspaceVolumeDependency gml:id="uuid.28854643-aca8-46e6-a199-57bf0d02a6e2">
+											<aixm:dependency>FULL_GEOMETRY</aixm:dependency>
+											<aixm:theAirspace xlink:type="simple" xlink:href="#uuid.010d8451-d751-4abb-9c71-f48ad024045b"/>
+										</aixm:AirspaceVolumeDependency>
+									</aixm:contributorAirspace>
+								</aixm:AirspaceVolume>
+							</aixm:theAirspaceVolume>
+						</aixm:AirspaceGeometryComponent>
+					</aixm:geometryComponent>
+				</aixm:AirspaceTimeSlice>
+			</aixm:timeSlice>
+		</aixm:Airspace>
+	</message:hasMember>
+	<message:hasMember xlink:type="simple">
+		<aixm:Airspace gml:id="uuid.0df377fe-dd53-4d60-b6c4-6546ef31d26b">
+			<gml:identifier codeSpace="urn:uuid:">0df377fe-dd53-4d60-b6c4-6546ef31d26b</gml:identifier>
+			<gml:boundedBy xsi:nil="true"/>
+			<aixm:timeSlice>
+				<aixm:AirspaceTimeSlice gml:id="uuid.4a3f6e0e-2a5c-4553-aeb2-f858a4af0d0b">
+					<gml:validTime xlink:type="simple">
+						<gml:TimePeriod gml:id="uuid.cd76b225-8e1d-4827-b892-e86c68168e9b">
+							<gml:beginPosition>2013-09-19T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</gml:validTime>
+					<aixm:interpretation>BASELINE</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:correctionNumber>0</aixm:correctionNumber>
+					<aixm:featureLifetime xlink:type="simple">
+						<gml:TimePeriod gml:id="uuid.4c1e9902-d3fb-4041-80ff-34e6a9ac0936">
+							<gml:beginPosition>2010-11-01T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+					<aixm:type>PART</aixm:type>
+					<aixm:designator>EAMM</aixm:designator>
+					<aixm:name>MAGNETTO OCA PART 1</aixm:name>
+					<aixm:designatorICAO>NO</aixm:designatorICAO>
+					<aixm:geometryComponent>
+						<aixm:AirspaceGeometryComponent gml:id="uuid.dbcb9ad5-2008-4644-becb-4d01dbacc27e">
+							<aixm:theAirspaceVolume>
+								<aixm:AirspaceVolume gml:id="uuid.ba335f05-5fff-47f4-81e5-de8df2fa8263">
+									<aixm:upperLimit uom="FL">460</aixm:upperLimit>
+									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
+									<aixm:lowerLimit uom="FL">210</aixm:lowerLimit>
+									<aixm:lowerLimitReference>STD</aixm:lowerLimitReference>
+									<aixm:horizontalProjection>
+										<aixm:Surface xsi:type="aixm:ElevatedSurfaceType" gml:id="uuid.d635cbc1-83ff-490d-8451-7aca0ef6a842">
+											<gml:patches>
+												<gml:PolygonPatch interpolation="planar">
+													<gml:exterior>
+														<gml:Ring>
+															<gml:curveMember xlink:type="simple">
+																<gml:Curve xsi:type="aixm:CurveType" srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.258c16e0-5f2c-4101-aabb-536f58c38eb5">
+																	<gml:segments>
+																		<gml:GeodesicString interpolation="geodesic">
+																			<gml:posList>51.99333333333333 -6.0005 52.45333333333333 -5.869333333333333 52.81666666666667 -5.89 53.53333333333333 -5.981666666666667 53.89333333333333 -5.937833333333333 53.905 -6.0038333333333334 53.916666666666664 -6.099333333333333</gml:posList>
+																		</gml:GeodesicString>
+																	</gml:segments>
+																</gml:Curve>
+															</gml:curveMember>
+														</gml:Ring>
+													</gml:exterior>
+												</gml:PolygonPatch>
+											</gml:patches>
+										</aixm:Surface>
+									</aixm:horizontalProjection>
+								</aixm:AirspaceVolume>
+							</aixm:theAirspaceVolume>
+						</aixm:AirspaceGeometryComponent>
+					</aixm:geometryComponent>
+				</aixm:AirspaceTimeSlice>
+			</aixm:timeSlice>
+		</aixm:Airspace>
+	</message:hasMember>
+	<message:hasMember xlink:type="simple">
+		<aixm:Airspace gml:id="uuid.010d8451-d751-4abb-9c71-f48ad024045b">
+			<gml:identifier codeSpace="urn:uuid:">010d8451-d751-4abb-9c71-f48ad024045b</gml:identifier>
+			<gml:boundedBy xsi:nil="true"/>
+			<aixm:timeSlice>
+				<aixm:AirspaceTimeSlice gml:id="uuid.177fd0db-de96-4c45-9aa1-60b90a2027c1">
+					<gml:validTime xlink:type="simple">
+						<gml:TimePeriod gml:id="uuid.ee0a0e78-614e-419e-aebb-57829fd26699">
+							<gml:beginPosition>2013-09-19T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</gml:validTime>
+					<aixm:interpretation>BASELINE</aixm:interpretation>
+					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:correctionNumber>0</aixm:correctionNumber>
+					<aixm:featureLifetime xlink:type="simple">
+						<gml:TimePeriod gml:id="uuid.61902c93-3b1c-4969-90f1-c2422a31f9a2">
+							<gml:beginPosition>2010-11-01T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
+					<aixm:type>PART</aixm:type>
+					<aixm:designator>EAMM2</aixm:designator>
+					<aixm:name>MAGNETTO OCA PART 2</aixm:name>
+					<aixm:designatorICAO>NO</aixm:designatorICAO>
+					<aixm:geometryComponent>
+						<aixm:AirspaceGeometryComponent gml:id="uuid.bbeaa329-9239-4e4f-86e3-95400d7ca76d">
+							<aixm:theAirspaceVolume>
+								<aixm:AirspaceVolume gml:id="uuid.fe954643-af04-4334-bd7f-fe969273a9a9">
+									<aixm:upperLimit uom="FL">460</aixm:upperLimit>
+									<aixm:upperLimitReference>STD</aixm:upperLimitReference>
+									<aixm:lowerLimit uom="FL">210</aixm:lowerLimit>
+									<aixm:lowerLimitReference>STD</aixm:lowerLimitReference>
+									<aixm:horizontalProjection>
+										<aixm:Surface xsi:type="aixm:ElevatedSurfaceType" gml:id="uuid.b2444276-e335-4106-9a4a-fd5eeb75b41c">
+											<gml:patches>
+												<gml:PolygonPatch interpolation="planar">
+													<gml:exterior>
+														<gml:Ring>
+															<gml:curveMember xlink:type="simple">
+																<gml:Curve xsi:type="aixm:CurveType" srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.84fe3774-a519-4b16-9344-cb311b2c92b5">
+																	<gml:segments>
+																		<gml:GeodesicString interpolation="geodesic">
+																			<gml:posList>53.876666666666665 -5.863333333333333 53.89333333333333 -5.937833333333333 53.53333333333333 -5.981666666666667 52.81666666666667 -5.89 52.45333333333333 -5.869333333333333 52.516666666666666 -5.850666666666667 52.583333333333336 -5.831666666666667 53.3 -5.755 53.7 -5.786666666666667 53.718333333333334 -5.8083333333333336 53.876666666666665 -5.863333333333333</gml:posList>
+																		</gml:GeodesicString>
+																	</gml:segments>
+																</gml:Curve>
+															</gml:curveMember>
+														</gml:Ring>
+													</gml:exterior>
+												</gml:PolygonPatch>
+											</gml:patches>
+										</aixm:Surface>
+									</aixm:horizontalProjection>
+								</aixm:AirspaceVolume>
+							</aixm:theAirspaceVolume>
+						</aixm:AirspaceGeometryComponent>
+					</aixm:geometryComponent>
+				</aixm:AirspaceTimeSlice>
+			</aixm:timeSlice>
+		</aixm:Airspace>
 	</message:hasMember>
 </message:AIXMBasicMessage>
