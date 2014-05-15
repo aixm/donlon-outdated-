@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <!-- This file includes contributions from Luciad, EUROCONTROL, Comsoft -->
 <message:AIXMBasicMessage xmlns:message="http://www.aixm.aero/schema/5.1/message" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:aixm="http://www.aixm.aero/schema/5.1" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:event="http://www.aixm.aero/schema/5.1/event" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 http://www.aixm.aero/schema/5.1/ISO_19136_Schemas/gml.xsd http://www.aixm.aero/schema/5.1/message http://www.aixm.aero/schema/5.1/message/AIXM_BasicMessage.xsd http://www.isotc211.org/2005/gmd http://www.aixm.aero/schema/5.1/ISO_19139_Schemas/gmd/gmd.xsd http://www.aixm.aero/schema/5.1/event http://www.aixm.aero/schema/5.1/event/Event_Features.xsd http://www.w3.org/1999/xlink http://www.aixm.aero/schema/5.1/xlink/xlinks.xsd " gml:id="M0000001">
 	<gml:boundedBy>
@@ -384,7 +384,6 @@
 					</aixm:featureLifetime>
 					<aixm:type>HOL</aixm:type>
 					<aixm:dateDay>01-01</aixm:dateDay>
-					<!--        <aixm:dateYear/>      -->
 					<aixm:name>NEWYEARSDAY</aixm:name>
 					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
@@ -10999,6 +10998,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_156">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:category>G</aixm:category>
 					<aixm:angle>116.9</aixm:angle>
 					<aixm:position>
@@ -11116,6 +11121,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_10">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>09R</aixm:designator>
 					<aixm:trueBearing>85.29</aixm:trueBearing>
 					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
@@ -11163,6 +11174,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_159">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:role>THR</aixm:role>
 					<aixm:location>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_160">
@@ -11214,6 +11231,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_12">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>27L</aixm:designator>
 					<aixm:trueBearing>265.29</aixm:trueBearing>
 					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
@@ -11261,6 +11284,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_162">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:role>THR</aixm:role>
 					<aixm:location>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_163">
@@ -11312,6 +11341,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_165">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_166">
@@ -11378,6 +11413,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_168">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_169">
@@ -11444,6 +11485,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_14">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>F</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11501,6 +11548,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_17">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>A</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11558,6 +11611,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_20">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>B</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11615,6 +11674,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_23">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>C</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11672,6 +11737,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_26">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>D</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11729,6 +11800,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_29">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>I</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11786,6 +11863,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_32">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>G</aixm:designator>
 					<aixm:width uom="M">23.0</aixm:width>
 					<aixm:surfaceProperties>
@@ -11843,6 +11926,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_171">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_172">
@@ -11909,6 +11998,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_174">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.8a3a6406-6d9e-42e5-a5d7-daac00dc0d52"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_175">
@@ -11975,6 +12070,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_177">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.d3a7ea1e-93d2-4298-adb3-141906a7b178"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_178">
@@ -12041,6 +12142,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_180">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.51474004-6ec1-47a0-bada-404b866e6549"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_181">
@@ -12107,6 +12214,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_183">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.a45ec8a1-2259-4140-8322-a441e3006cb3"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_184">
@@ -12173,6 +12286,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_186">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.125d2cc5-2fd4-4917-8a08-a1586bce481d"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_187">
@@ -12239,6 +12358,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_189">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedTaxiway xlink:href="#uuid.0c049047-56f5-41a1-ba56-d0695817a3d2"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_190">
@@ -12305,6 +12430,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_35">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:surfaceProperties>
 						<aixm:SurfaceCharacteristics gml:id="ID_36">
 							<aixm:composition>CONC</aixm:composition>
@@ -12360,6 +12491,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_192">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedApron xlink:href="#uuid.d6cf5b07-9fb4-4afb-9b47-841643da3e99"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_193">
@@ -12426,6 +12563,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_195">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:designator>4</aixm:designator>
 					<aixm:type>ANG_NI</aixm:type>
 					<aixm:location>
@@ -12483,6 +12626,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_38">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:surfaceProperties>
 						<aixm:SurfaceCharacteristics gml:id="ID_39">
 							<aixm:composition>CONC</aixm:composition>
@@ -12538,6 +12687,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_199">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedApron xlink:href="#uuid.1707f988-e674-4290-933c-047d87b85bd8"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_200">
@@ -12604,6 +12759,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_202">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:width uom="M">90.0</aixm:width>
 					<aixm:length uom="M">70.0</aixm:length>
 					<aixm:surfaceProperties>
@@ -12677,6 +12838,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_41">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:surfaceProperties>
 						<aixm:SurfaceCharacteristics gml:id="ID_42">
 							<aixm:composition>CONC</aixm:composition>
@@ -12732,6 +12899,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_206">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:associatedApron xlink:href="#uuid.0e131693-cf13-4938-9969-994d7f56a23c"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_207">
@@ -12798,6 +12971,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_209">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>TOWER</aixm:name>
 					<aixm:type>BUILDING</aixm:type>
 					<aixm:part>
@@ -12871,6 +13050,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_213">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>AIS-MET</aixm:name>
 					<aixm:type>BUILDING</aixm:type>
 					<aixm:part>
@@ -12942,6 +13127,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_217">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>TERMINAL</aixm:name>
 					<aixm:type>BUILDING</aixm:type>
 					<aixm:part>
@@ -13015,6 +13206,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_221">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>HANGAR</aixm:name>
 					<aixm:location>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_222">
@@ -13071,6 +13268,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_225">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>HANGAR</aixm:name>
 					<aixm:type>BUILDING</aixm:type>
 					<aixm:part>
@@ -13145,6 +13348,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_229">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name xsi:nil="true"/>
 					<aixm:type>BUILDING</aixm:type>
 					<aixm:part>
@@ -13216,6 +13425,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_233">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>PARKING</aixm:name>
 					<aixm:type>BUILDING</aixm:type>
 					<aixm:part>
@@ -13287,6 +13502,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_237">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>P</aixm:type>
 					<aixm:designator>EAP2</aixm:designator>
 					<aixm:name>EAP2_VAARDNOR</aixm:name>
@@ -13388,6 +13609,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_246">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>R</aixm:type>
 					<aixm:designator>EAR1</aixm:designator>
 					<aixm:name>EAR1_BRAVO</aixm:name>
@@ -13500,6 +13727,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_255">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>R</aixm:type>
 					<aixm:designator>EAR3</aixm:designator>
 					<aixm:name>EAR3_BURGENVALK</aixm:name>
@@ -13604,6 +13837,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_263">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>R</aixm:type>
 					<aixm:designator>EAR5</aixm:designator>
 					<aixm:name>EAR5_WINSWUK</aixm:name>
@@ -13707,6 +13946,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_271">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>D</aixm:type>
 					<aixm:designator>EAD4</aixm:designator>
 					<aixm:name>EAD4_HORSHAM</aixm:name>
@@ -13921,6 +14166,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_292">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>D</aixm:type>
 					<aixm:designator>EAD6</aixm:designator>
 					<aixm:name>EAD6_DONLON</aixm:name>
@@ -14135,6 +14386,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_313">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>TMA</aixm:type>
 					<aixm:designator>NIBORD</aixm:designator>
 					<aixm:name xsi:nil="true"/>
@@ -14255,6 +14512,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_44">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>DECCA</aixm:type>
 					<aixm:name>MANGERN CHAIN</aixm:name>
 				</aixm:SpecialNavigationSystemTimeSlice>
@@ -14301,6 +14564,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_326">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>FELDMAD</aixm:name>
 					<aixm:type>MASTER</aixm:type>
 					<aixm:frequency uom="KHZ">85.72</aixm:frequency>
@@ -14359,6 +14628,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_330">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>KYLLSTAD</aixm:name>
 					<aixm:type>RED_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">114.2928</aixm:frequency>
@@ -14417,6 +14692,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_334">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>VENZE</aixm:name>
 					<aixm:type>GREEN_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">128.5794</aixm:frequency>
@@ -14475,6 +14756,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_338">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>LAUTERBER</aixm:name>
 					<aixm:type>PURPLE_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">71.433</aixm:frequency>
@@ -14569,6 +14856,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_342">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>ATURA</aixm:name>
 					<aixm:type>MAR_BCN</aixm:type>
 					<aixm:colour>WHITE</aixm:colour>
@@ -14622,6 +14915,12 @@
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_345">
+							<gml:beginPosition>2013-04-23T12:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>CETA</aixm:name>
 					<aixm:type>MAR_BCN</aixm:type>
 					<aixm:colour>GREEN</aixm:colour>
@@ -15061,6 +15360,12 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_348">
+							<gml:beginPosition>2012-11-07T08:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>R</aixm:type>
 					<aixm:designator>EAR0003-12</aixm:designator>
 					<aixm:geometryComponent>
@@ -15176,6 +15481,12 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 					</gml:validTime>
 					<aixm:interpretation>PERMDELTA</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_361">
+							<gml:beginPosition>2012-11-07T08:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:type>R</aixm:type>
 					<aixm:designator>EAR0003-12</aixm:designator>
 					<aixm:geometryComponent>
@@ -16051,6 +16362,12 @@ LIGHTED.
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_374">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>EADD_CRANE_1</aixm:name>
 					<aixm:type>CRANE</aixm:type>
 					<aixm:lighted>YES</aixm:lighted>
@@ -16114,6 +16431,12 @@ LIGHTED.
 					</gml:validTime>
 					<aixm:interpretation>PERMDELTA</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_384">
+							<gml:beginPosition>2012-10-01T05:31:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>EADD_CRANE_1</aixm:name>
 					<aixm:type>CRANE</aixm:type>
 					<aixm:lighted>YES</aixm:lighted>
@@ -16335,6 +16658,12 @@ LIGHTED ICAO MARKED.</event:text>
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_394">
+							<gml:beginPosition>2012-10-01T04:30:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>EADD_CRANE_2</aixm:name>
 					<aixm:type>CRANE</aixm:type>
 					<aixm:markingICAOStandard>YES</aixm:markingICAOStandard>
@@ -16412,6 +16741,12 @@ LIGHTED ICAO MARKED.</event:text>
 					</gml:validTime>
 					<aixm:interpretation>PERMDELTA</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_405">
+							<gml:beginPosition>2012-10-01T04:30:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>EADD_CRANE_2</aixm:name>
 					<aixm:type>CRANE</aixm:type>
 					<aixm:markingICAOStandard>YES</aixm:markingICAOStandard>
@@ -16647,6 +16982,12 @@ GROUP OF 3.</event:text>
 					</gml:validTime>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_416">
+							<gml:beginPosition>2012-10-01T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>WINDMILL_FARM</aixm:name>
 					<aixm:type>WINDMILL</aixm:type>
 					<aixm:lighted>YES</aixm:lighted>
@@ -16698,6 +17039,12 @@ GROUP OF 3.</event:text>
 					</gml:validTime>
 					<aixm:interpretation>PERMDELTA</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt_424">
+							<gml:beginPosition>2012-10-01T00:00:00Z</gml:beginPosition>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 					<aixm:name>WINDMILL_FARM</aixm:name>
 					<aixm:type>WINDMILL</aixm:type>
 					<aixm:lighted>YES</aixm:lighted>
@@ -16848,6 +17195,12 @@ GROUP OF 3.</event:text>
 					<aixm:interpretation>PERMDELTA</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:correctionNumber>1</aixm:correctionNumber>
+					<aixm:featureLifetime>
+						<gml:TimePeriod gml:id="lt">
+							<gml:beginPosition/>
+							<gml:endPosition indeterminatePosition="unknown"/>
+						</gml:TimePeriod>
+					</aixm:featureLifetime>
 				</aixm:VerticalStructureTimeSlice>
 			</aixm:timeSlice>
 		</aixm:VerticalStructure>
@@ -17334,13 +17687,13 @@ GROUP OF 3.</event:text>
 			</aixm:timeSlice>
 		</aixm:VerticalStructure>
 	</message:hasMember>
-	<message:hasMember xlink:type="simple">
+	<message:hasMember>
 		<aixm:Airspace gml:id="uuid.fdaeffb4-6897-41fb-a33d-8861c2e91e69">
 			<gml:identifier codeSpace="urn:uuid:">fdaeffb4-6897-41fb-a33d-8861c2e91e69</gml:identifier>
 			<gml:boundedBy xsi:nil="true"/>
 			<aixm:timeSlice>
 				<aixm:AirspaceTimeSlice gml:id="uuid.56dfe479-2929-46aa-b775-ab6f0ba30ccb">
-					<gml:validTime xlink:type="simple">
+					<gml:validTime>
 						<gml:TimePeriod gml:id="uuid.820fdbbb-55d4-4f45-9d59-d770e5faec95">
 							<gml:beginPosition>2011-01-13T00:00:00Z</gml:beginPosition>
 							<gml:endPosition indeterminatePosition="unknown"/>
@@ -17349,7 +17702,7 @@ GROUP OF 3.</event:text>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:correctionNumber>0</aixm:correctionNumber>
-					<aixm:featureLifetime xlink:type="simple">
+					<aixm:featureLifetime>
 						<gml:TimePeriod gml:id="uuid.5e9c790e-b91b-4182-946d-145b6e0196de">
 							<gml:beginPosition>2002-11-30T00:00:00Z</gml:beginPosition>
 							<gml:endPosition indeterminatePosition="unknown"/>
@@ -17368,7 +17721,7 @@ GROUP OF 3.</event:text>
 									<aixm:contributorAirspace>
 										<aixm:AirspaceVolumeDependency gml:id="uuid.43a4e8ff-7995-492c-aa8f-50ef2c29b679">
 											<aixm:dependency>FULL_GEOMETRY</aixm:dependency>
-											<aixm:theAirspace xlink:type="simple" xlink:href="#uuid.0df377fe-dd53-4d60-b6c4-6546ef31d26b"/>
+											<aixm:theAirspace xlink:href="#uuid.0df377fe-dd53-4d60-b6c4-6546ef31d26b"/>
 										</aixm:AirspaceVolumeDependency>
 									</aixm:contributorAirspace>
 								</aixm:AirspaceVolume>
@@ -17384,7 +17737,7 @@ GROUP OF 3.</event:text>
 									<aixm:contributorAirspace>
 										<aixm:AirspaceVolumeDependency gml:id="uuid.28854643-aca8-46e6-a199-57bf0d02a6e2">
 											<aixm:dependency>FULL_GEOMETRY</aixm:dependency>
-											<aixm:theAirspace xlink:type="simple" xlink:href="#uuid.010d8451-d751-4abb-9c71-f48ad024045b"/>
+											<aixm:theAirspace xlink:href="#uuid.010d8451-d751-4abb-9c71-f48ad024045b"/>
 										</aixm:AirspaceVolumeDependency>
 									</aixm:contributorAirspace>
 								</aixm:AirspaceVolume>
@@ -17395,13 +17748,13 @@ GROUP OF 3.</event:text>
 			</aixm:timeSlice>
 		</aixm:Airspace>
 	</message:hasMember>
-	<message:hasMember xlink:type="simple">
+	<message:hasMember>
 		<aixm:Airspace gml:id="uuid.0df377fe-dd53-4d60-b6c4-6546ef31d26b">
 			<gml:identifier codeSpace="urn:uuid:">0df377fe-dd53-4d60-b6c4-6546ef31d26b</gml:identifier>
 			<gml:boundedBy xsi:nil="true"/>
 			<aixm:timeSlice>
 				<aixm:AirspaceTimeSlice gml:id="uuid.4a3f6e0e-2a5c-4553-aeb2-f858a4af0d0b">
-					<gml:validTime xlink:type="simple">
+					<gml:validTime>
 						<gml:TimePeriod gml:id="uuid.cd76b225-8e1d-4827-b892-e86c68168e9b">
 							<gml:beginPosition>2013-09-19T00:00:00Z</gml:beginPosition>
 							<gml:endPosition indeterminatePosition="unknown"/>
@@ -17410,7 +17763,7 @@ GROUP OF 3.</event:text>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:correctionNumber>0</aixm:correctionNumber>
-					<aixm:featureLifetime xlink:type="simple">
+					<aixm:featureLifetime>
 						<gml:TimePeriod gml:id="uuid.4c1e9902-d3fb-4041-80ff-34e6a9ac0936">
 							<gml:beginPosition>2010-11-01T00:00:00Z</gml:beginPosition>
 							<gml:endPosition indeterminatePosition="unknown"/>
@@ -17431,13 +17784,13 @@ GROUP OF 3.</event:text>
 									<aixm:horizontalProjection>
 										<aixm:Surface xsi:type="aixm:ElevatedSurfaceType" gml:id="uuid.d635cbc1-83ff-490d-8451-7aca0ef6a842">
 											<gml:patches>
-												<gml:PolygonPatch interpolation="planar">
+												<gml:PolygonPatch>
 													<gml:exterior>
 														<gml:Ring>
-															<gml:curveMember xlink:type="simple">
+															<gml:curveMember>
 																<gml:Curve xsi:type="aixm:CurveType" srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.258c16e0-5f2c-4101-aabb-536f58c38eb5">
 																	<gml:segments>
-																		<gml:GeodesicString interpolation="geodesic">
+																		<gml:GeodesicString>
 																			<gml:posList>51.99333333333333 -6.0005 52.45333333333333 -5.869333333333333 52.81666666666667 -5.89 53.53333333333333 -5.981666666666667 53.89333333333333 -5.937833333333333 53.905 -6.0038333333333334 53.916666666666664 -6.099333333333333</gml:posList>
 																		</gml:GeodesicString>
 																	</gml:segments>
@@ -17457,13 +17810,13 @@ GROUP OF 3.</event:text>
 			</aixm:timeSlice>
 		</aixm:Airspace>
 	</message:hasMember>
-	<message:hasMember xlink:type="simple">
+	<message:hasMember>
 		<aixm:Airspace gml:id="uuid.010d8451-d751-4abb-9c71-f48ad024045b">
 			<gml:identifier codeSpace="urn:uuid:">010d8451-d751-4abb-9c71-f48ad024045b</gml:identifier>
 			<gml:boundedBy xsi:nil="true"/>
 			<aixm:timeSlice>
 				<aixm:AirspaceTimeSlice gml:id="uuid.177fd0db-de96-4c45-9aa1-60b90a2027c1">
-					<gml:validTime xlink:type="simple">
+					<gml:validTime>
 						<gml:TimePeriod gml:id="uuid.ee0a0e78-614e-419e-aebb-57829fd26699">
 							<gml:beginPosition>2013-09-19T00:00:00Z</gml:beginPosition>
 							<gml:endPosition indeterminatePosition="unknown"/>
@@ -17472,7 +17825,7 @@ GROUP OF 3.</event:text>
 					<aixm:interpretation>BASELINE</aixm:interpretation>
 					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:correctionNumber>0</aixm:correctionNumber>
-					<aixm:featureLifetime xlink:type="simple">
+					<aixm:featureLifetime>
 						<gml:TimePeriod gml:id="uuid.61902c93-3b1c-4969-90f1-c2422a31f9a2">
 							<gml:beginPosition>2010-11-01T00:00:00Z</gml:beginPosition>
 							<gml:endPosition indeterminatePosition="unknown"/>
@@ -17493,13 +17846,13 @@ GROUP OF 3.</event:text>
 									<aixm:horizontalProjection>
 										<aixm:Surface xsi:type="aixm:ElevatedSurfaceType" gml:id="uuid.b2444276-e335-4106-9a4a-fd5eeb75b41c">
 											<gml:patches>
-												<gml:PolygonPatch interpolation="planar">
+												<gml:PolygonPatch>
 													<gml:exterior>
 														<gml:Ring>
-															<gml:curveMember xlink:type="simple">
+															<gml:curveMember>
 																<gml:Curve xsi:type="aixm:CurveType" srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.84fe3774-a519-4b16-9344-cb311b2c92b5">
 																	<gml:segments>
-																		<gml:GeodesicString interpolation="geodesic">
+																		<gml:GeodesicString>
 																			<gml:posList>53.876666666666665 -5.863333333333333 53.89333333333333 -5.937833333333333 53.53333333333333 -5.981666666666667 52.81666666666667 -5.89 52.45333333333333 -5.869333333333333 52.516666666666666 -5.850666666666667 52.583333333333336 -5.831666666666667 53.3 -5.755 53.7 -5.786666666666667 53.718333333333334 -5.8083333333333336 53.876666666666665 -5.863333333333333</gml:posList>
 																		</gml:GeodesicString>
 																	</gml:segments>
