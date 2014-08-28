@@ -15391,7 +15391,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 																	</gml:segments>
 																</gml:Curve>
 															</gml:curveMember>
-															<gml:curveMember xlink:href="urn:uuid:6118ba76-0d46-4ba7-af63-17f29755e890" xlink:title="along the State border"/>
+															<gml:curveMember xlink:href="#urn.uuid.6118ba76-0d46-4ba7-af63-17f29755e890" xlink:title="along the State border"/>
 															<gml:curveMember>
 																<gml:Curve gml:id="C1002">
 																	<gml:segments>
@@ -15513,7 +15513,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 																	</gml:segments>
 																</gml:Curve>
 															</gml:curveMember>
-															<gml:curveMember xlink:href="urn:uuid:6118ba76-0d46-4ba7-af63-17f29755e890" xlink:title="along the State border"/>
+															<gml:curveMember xlink:href="#urn.uuid.6118ba76-0d46-4ba7-af63-17f29755e890" xlink:title="along the State border"/>
 															<gml:curveMember>
 																<gml:Curve gml:id="C002">
 																	<gml:segments>
@@ -16417,7 +16417,7 @@ LIGHTED.
 					</aixm:annotation>
 					<aixm:extension>
 						<event:VerticalStructureExtension gml:id="ID6546474">
-							<event:theEvent xlink:href="urn:uuid:5266b646-89a9-453f-b6fe-5368c38274d2"/>
+							<event:theEvent xlink:href="#urn.uuid.5266b646-89a9-453f-b6fe-5368c38274d2"/>
 						</event:VerticalStructureExtension>
 					</aixm:extension>
 				</aixm:VerticalStructureTimeSlice>
@@ -16486,7 +16486,7 @@ LIGHTED.
 					</aixm:annotation>
 					<aixm:extension>
 						<event:VerticalStructureExtension gml:id="ID6546474-1">
-							<event:theEvent xlink:href="urn:uuid:5266b646-89a9-453f-b6fe-5368c38274d2"/>
+							<event:theEvent xlink:href="#urn.uuid.5266b646-89a9-453f-b6fe-5368c38274d2"/>
 						</event:VerticalStructureExtension>
 					</aixm:extension>
 				</aixm:VerticalStructureTimeSlice>
