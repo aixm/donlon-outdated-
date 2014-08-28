@@ -9700,7 +9700,6 @@
 						</gml:TimePeriod>
 					</gml:validTime>
 					<aixm:interpretation>SNAPSHOT</aixm:interpretation>
-					<aixm:sequenceNumber>1</aixm:sequenceNumber>
 					<aixm:featureLifetime>
 						<gml:TimePeriod gml:id="ID_150">
 							<gml:beginPosition>2009-01-01T00:00:00Z</gml:beginPosition>
