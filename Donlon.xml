@@ -14781,7 +14781,7 @@
 		</aixm:SpecialNavigationStation>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RadioFrequencyArea gml:id="f4569050-2c6f-4195-b92a-a92802cb8524">
+		<aixm:RadioFrequencyArea gml:id="uuid.f4569050-2c6f-4195-b92a-a92802cb8524">
 			<gml:identifier codeSpace="urn:uuid:">f4569050-2c6f-4195-b92a-a92802cb8524</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:RadioFrequencyAreaTimeSlice gml:id="rfaFELDMADRFA">
