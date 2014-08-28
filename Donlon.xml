@@ -17093,7 +17093,7 @@ GROUP OF 3.</event:text>
 		<!-- ################################################ -->
 		<!-- CRANE 3 -->
 		<!-- ################################################ -->
-		<aixm:VerticalStructure gml:id="ID_431">
+		<aixm:VerticalStructure gml:id="uuid.e9ce3cc0-b41f-11e3-a5e2-0800200c9a66">
 			<gml:identifier codeSpace="urn:uuid:">e9ce3cc0-b41f-11e3-a5e2-0800200c9a66</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -17209,7 +17209,7 @@ GROUP OF 3.</event:text>
 	<!-- CRANE 4 -->
 	<!-- ################################################ -->
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="ID_444">
+		<aixm:VerticalStructure gml:id="uuid.8c755520-b42b-11e3-a5e2-0800400c9a66">
 			<gml:identifier codeSpace="urn:uuid:">8c755520-b42b-11e3-a5e2-0800400c9a66</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -17377,7 +17377,7 @@ GROUP OF 3.</event:text>
 	<!-- CRANE 5 -->
 	<!-- ################################################ -->
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="ID_466">
+		<aixm:VerticalStructure gml:id="uuid.8c755520-b42b-11e3-a5e2-0800500c9a66">
 			<gml:identifier codeSpace="urn:uuid:">8c755520-b42b-11e3-a5e2-0800500c9a66</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
