@@ -16944,7 +16944,7 @@ GROUP OF 3.</event:text>
 	</message:hasMember>
 	<message:hasMember>
 		<aixm:VerticalStructure gml:id="uuid.4722e24f-2d13-45a6-8189-32dd4ee82cff">
-			<gml:identifier codeSpace="urn:uuid:4722e24f-2d13-45a6-8189-32dd4ee82cff"/>
+			<gml:identifier codeSpace="urn:uuid:">4722e24f-2d13-45a6-8189-32dd4ee82cff</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
 					<gmd:characterSet>
