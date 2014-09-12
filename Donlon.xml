@@ -6614,7 +6614,7 @@
 					</aixm:availability>
 					<aixm:extension>
 						<event:AirportHeliportExtension gml:id="E_dauidiqat">
-							<event:theEvent xlink:href="#urn.uuid.5a8ed90a-ad4e-4352-b073-26d27b0ac978"/>
+							<event:theEvent xlink:href="#uuid.5a8ed90a-ad4e-4352-b073-26d27b0ac978"/>
 						</event:AirportHeliportExtension>
 					</aixm:extension>
 				</aixm:AirportHeliportTimeSlice>
@@ -14801,7 +14801,7 @@
 					</aixm:featureLifetime>
 					<aixm:type>T_COV</aixm:type>
 					<aixm:signalType>DISTANCE</aixm:signalType>
-					<aixm:equipment_specialNavigationStation xlink:href="#b9024736-3a25-4c92-9b2f-bfc0e29ae31b"/>
+					<aixm:equipment_specialNavigationStation xlink:href="#uuid.b9024736-3a25-4c92-9b2f-bfc0e29ae31b"/>
 					<aixm:sector>
 						<aixm:CircleSector gml:id="csFELDMADRFA">
 							<aixm:arcDirection>CCA</aixm:arcDirection>
@@ -15657,7 +15657,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 							<aixm:verticalDistance>310</aixm:verticalDistance>
 						</aixm:StandardLevel>
 					</aixm:level>
-					<aixm:levelTable xlink:href="#c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
+					<aixm:levelTable xlink:href="#uuid.c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
 				</aixm:StandardLevelColumnTimeSlice>
 			</aixm:timeSlice>
 		</aixm:StandardLevelColumn>
@@ -15698,7 +15698,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 							<aixm:verticalDistance>320</aixm:verticalDistance>
 						</aixm:StandardLevel>
 					</aixm:level>
-					<aixm:levelTable xlink:href="#c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
+					<aixm:levelTable xlink:href="#uuid.c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
 				</aixm:StandardLevelColumnTimeSlice>
 			</aixm:timeSlice>
 		</aixm:StandardLevelColumn>
