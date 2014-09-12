@@ -4939,7 +4939,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:trueAngle>87.0</aixm:trueAngle>
-					<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.82394605-7f5a-40ee-b030-81f42a42a847"/>
+					<aixm:pointChoice_fixDesignatedPoint xlink:href="urn:uuid:82394605-7f5a-40ee-b030-81f42a42a847"/>
 				</aixm:AngleIndicationTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AngleIndication>
@@ -5000,7 +5000,7 @@
 						</aixm:Note>
 					</aixm:annotation>
 					<aixm:length uom="M">12.5</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.993a4898-e4fa-4b9f-9e55-6e341d60d576"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:993a4898-e4fa-4b9f-9e55-6e341d60d576"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -5061,7 +5061,7 @@
 						</aixm:Note>
 					</aixm:annotation>
 					<aixm:length uom="M">5.0</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.993a4898-e4fa-4b9f-9e55-6e341d60d576"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:993a4898-e4fa-4b9f-9e55-6e341d60d576"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -5122,7 +5122,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.747c4244-edf8-4068-938b-c5f6b4b76e7e"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:747c4244-edf8-4068-938b-c5f6b4b76e7e"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5183,7 +5183,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.747c4244-edf8-4068-938b-c5f6b4b76e7e"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:747c4244-edf8-4068-938b-c5f6b4b76e7e"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5340,7 +5340,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.45c2e29c-2d85-4033-a2ec-09f204c6be10"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:45c2e29c-2d85-4033-a2ec-09f204c6be10"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -5391,7 +5391,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.10ee7838-7340-4774-9ea5-a07c72c2f7b6"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:10ee7838-7340-4774-9ea5-a07c72c2f7b6"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -5550,7 +5550,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.ecc5c8c5-21d0-41ac-9272-40e9e85f959a"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:ecc5c8c5-21d0-41ac-9272-40e9e85f959a"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5762,7 +5762,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.ecc5c8c5-21d0-41ac-9272-40e9e85f959a"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:ecc5c8c5-21d0-41ac-9272-40e9e85f959a"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5991,7 +5991,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.aa1c1ad0-0798-440b-930d-05c2b33a326e"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:aa1c1ad0-0798-440b-930d-05c2b33a326e"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6043,7 +6043,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:colour>OTHER:CYAN</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.aa1c1ad0-0798-440b-930d-05c2b33a326e"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:aa1c1ad0-0798-440b-930d-05c2b33a326e"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
