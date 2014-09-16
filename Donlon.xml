@@ -225,7 +225,7 @@
 					<aixm:relatedOrganisationAuthority>
 						<aixm:OrganisationAuthorityAssociation gml:id="CAATODONLONSTATE">
 							<aixm:type>OWNED_BY</aixm:type>
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 						</aixm:OrganisationAuthorityAssociation>
 					</aixm:relatedOrganisationAuthority>
 				</aixm:OrganisationAuthorityTimeSlice>
@@ -385,7 +385,7 @@
 					<aixm:type>HOL</aixm:type>
 					<aixm:dateDay>01-01</aixm:dateDay>
 					<aixm:name>NEWYEARSDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 		</aixm:SpecialDate>
@@ -440,7 +440,7 @@
 					<aixm:dateDay>17-04</aixm:dateDay>
 					<aixm:dateYear>2014</aixm:dateYear>
 					<aixm:name>MAUNDYTHURSDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -463,7 +463,7 @@
 					<aixm:dateDay>02-04</aixm:dateDay>
 					<aixm:dateYear>2015</aixm:dateYear>
 					<aixm:name>MAUNDYTHURSDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 		</aixm:SpecialDate>
@@ -518,7 +518,7 @@
 					<aixm:dateDay>18-04</aixm:dateDay>
 					<aixm:dateYear>2014</aixm:dateYear>
 					<aixm:name>GOODFRIDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -541,7 +541,7 @@
 					<aixm:dateDay>03-04</aixm:dateDay>
 					<aixm:dateYear>2015</aixm:dateYear>
 					<aixm:name>GOODFRIDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 		</aixm:SpecialDate>
@@ -596,7 +596,7 @@
 					<aixm:dateDay>21-04</aixm:dateDay>
 					<aixm:dateYear>2014</aixm:dateYear>
 					<aixm:name>EASTERMONDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -619,7 +619,7 @@
 					<aixm:dateDay>06-04</aixm:dateDay>
 					<aixm:dateYear>2015</aixm:dateYear>
 					<aixm:name>EASTERMONDAY</aixm:name>
-					<aixm:authority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+					<aixm:authority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 				</aixm:SpecialDateTimeSlice>
 			</aixm:timeSlice>
 		</aixm:SpecialDate>
@@ -728,7 +728,7 @@
 							<aixm:transitionId>TRID</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-eae3cf6b">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.02e42ef0-7be7-4c60-b8d9-790b79fa3839"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:02e42ef0-7be7-4c60-b8d9-790b79fa3839"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -1040,27 +1040,27 @@
 							<aixm:transitionId>TSI</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-fcbf9110">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.9c6a4679-14f3-4ffb-a2bc-2d43f81722b6"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:9c6a4679-14f3-4ffb-a2bc-2d43f81722b6"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-c9ebb0e3">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.3a17efd0-adfe-4899-9d4c-5b8ac591645b"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:3a17efd0-adfe-4899-9d4c-5b8ac591645b"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-fefbcb4c">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.1a6f046a-e7aa-44e8-9712-aaaf89921734"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:1a6f046a-e7aa-44e8-9712-aaaf89921734"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-c667df38">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.5a99887d-ab43-4163-95a4-b9699c651d98"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:5a99887d-ab43-4163-95a4-b9699c651d98"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-cb5d0557">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.d9d27801-b6ae-4508-a27e-bf55da19fd35"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:d9d27801-b6ae-4508-a27e-bf55da19fd35"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -1560,42 +1560,42 @@
 							<aixm:transitionId>TRID</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-a7c1c891">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.1c7a5f5d-f4fe-49da-8746-5112d62a4a04"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:1c7a5f5d-f4fe-49da-8746-5112d62a4a04"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-ab3581f8">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.63dae92f-2014-42ca-a83f-73cefcec03e8"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:63dae92f-2014-42ca-a83f-73cefcec03e8"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-af0541c8">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.077bc42e-c2f2-40fc-8a84-b4f2eaaae0bc"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:077bc42e-c2f2-40fc-8a84-b4f2eaaae0bc"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-ad32ab71">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.4fc8c993-ba3e-4513-be88-d379e3c45fe6"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:4fc8c993-ba3e-4513-be88-d379e3c45fe6"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-ba3ba566">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.d34158b7-1755-4fa3-a197-5b266698f5b6"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:d34158b7-1755-4fa3-a197-5b266698f5b6"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-dadc23f7">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.a80b3299-65e5-4f4b-9067-30f282cbb1bc"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:a80b3299-65e5-4f4b-9067-30f282cbb1bc"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-ad22d1b6">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.436adbb9-1838-4bc7-945a-e421100f7dcb"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:436adbb9-1838-4bc7-945a-e421100f7dcb"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-c8ffef0c">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.c8d2e419-6159-4693-b465-d96a063fa648"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:c8d2e419-6159-4693-b465-d96a063fa648"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -1864,22 +1864,22 @@
 							<aixm:transitionId>TSI</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-b0763644">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.231a7794-c9bd-4e9e-a5d1-03f1c1f1687c"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:231a7794-c9bd-4e9e-a5d1-03f1c1f1687c"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-df8e64f2">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.754e335c-75ec-4ef4-941d-97fe4581063a"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:754e335c-75ec-4ef4-941d-97fe4581063a"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-a05e7c8f">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.ed85c0e6-2461-43d8-aca2-39d6afb254e7"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:ed85c0e6-2461-43d8-aca2-39d6afb254e7"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-a19ceeb4">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.c1ee96e8-a60c-4e27-9c79-3c9853aa495d"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:c1ee96e8-a60c-4e27-9c79-3c9853aa495d"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -2490,57 +2490,57 @@
 							<aixm:transitionId>TRID</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-fe070b65">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.970f9309-8a52-45c0-b59e-f5ab4a51ef6f"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:970f9309-8a52-45c0-b59e-f5ab4a51ef6f"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-f696291b">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.d0f4a733-1c13-4764-b488-caae38794349"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:d0f4a733-1c13-4764-b488-caae38794349"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-e4b2a59b">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.62800d25-a0e8-4915-8bac-fa4eeb437d5e"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:62800d25-a0e8-4915-8bac-fa4eeb437d5e"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-dcd2c52f">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.ba6478ff-50bb-4ccb-8bfd-4e4865709823"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:ba6478ff-50bb-4ccb-8bfd-4e4865709823"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-d2d570ee">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.481c1844-4dfd-4d7a-ae94-41027db0a20a"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:481c1844-4dfd-4d7a-ae94-41027db0a20a"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-f7afbdd6">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.d0d29c8d-90e3-44b6-80d0-96530d38bde5"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:d0d29c8d-90e3-44b6-80d0-96530d38bde5"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-c83fc52e">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.8123f5af-b083-41f9-a2fa-6384adef1bdf"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:8123f5af-b083-41f9-a2fa-6384adef1bdf"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-cc5e8f31">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.e99f36b1-6441-4791-a542-d1312b995d79"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:e99f36b1-6441-4791-a542-d1312b995d79"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-f5314102">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.b7fdc9e9-a77b-4db6-b781-9587b7e7407a"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:b7fdc9e9-a77b-4db6-b781-9587b7e7407a"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-c5b30b05">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.1c4c9451-bf5a-4ae0-a973-b534f96b2409"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:1c4c9451-bf5a-4ae0-a973-b534f96b2409"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-b5e1092b">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.b19105a1-f1ce-4577-b26b-ce27f6103087"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:b19105a1-f1ce-4577-b26b-ce27f6103087"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -2652,7 +2652,7 @@
 							<aixm:transitionId>TSI</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-fba806a0">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.ddbc225d-4f2d-4612-9cde-8671aba24f93"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:ddbc225d-4f2d-4612-9cde-8671aba24f93"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -3099,37 +3099,37 @@
 							<aixm:transitionId>TRID</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-c7aef939">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.58df8a48-2818-47c2-a291-cd7d9a1242d3"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:58df8a48-2818-47c2-a291-cd7d9a1242d3"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-aaada59d">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.edac6cc2-c577-4ba8-a21d-e476c21bd71e"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:edac6cc2-c577-4ba8-a21d-e476c21bd71e"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-d90e0f47">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.ef0524c1-a599-4ea3-a43f-5cde190c3271"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:ef0524c1-a599-4ea3-a43f-5cde190c3271"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-f963f4c0">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.17d08aa6-90b8-4cf4-9175-54e192a525bb"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:17d08aa6-90b8-4cf4-9175-54e192a525bb"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-aa470750">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.2e083f81-e4b2-4c1b-8eaa-e00165357435"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:2e083f81-e4b2-4c1b-8eaa-e00165357435"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-ebc61c9b">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.270bdaca-566e-4651-bf90-12625c23188e"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:270bdaca-566e-4651-bf90-12625c23188e"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-d7493b28">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.cb2f3317-b447-4b9f-b325-246be839c3f9"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:cb2f3317-b447-4b9f-b325-246be839c3f9"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -3239,7 +3239,7 @@
 							<aixm:transitionId>TRID</aixm:transitionId>
 							<aixm:transitionLeg>
 								<aixm:ProcedureTransitionLeg gml:id="P-b549d7e6">
-									<aixm:theSegmentLeg xlink:href="#urn.uuid.f739ae66-baef-4bb6-b29a-7108eccf2d59"/>
+									<aixm:theSegmentLeg xlink:href="urn:uuid:f739ae66-baef-4bb6-b29a-7108eccf2d59"/>
 								</aixm:ProcedureTransitionLeg>
 							</aixm:transitionLeg>
 						</aixm:ProcedureTransition>
@@ -3370,7 +3370,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:RunwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Runway>
@@ -3423,7 +3423,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>09L</aixm:designator>
 					<aixm:trueBearing>85.2300033569336</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:usedRunway xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -3494,7 +3494,7 @@
 					<aixm:designator>27R</aixm:designator>
 					<aixm:trueBearing>265.2300109863281</aixm:trueBearing>
 					<aixm:elevationTDZ uom="M">20.5</aixm:elevationTDZ>
-					<aixm:usedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:usedRunway xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -3570,7 +3570,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3629,7 +3629,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3688,7 +3688,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3747,7 +3747,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3806,7 +3806,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3865,7 +3865,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3924,7 +3924,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -3976,7 +3976,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:name>APRON</aixm:name>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -4088,7 +4088,7 @@
 							<aixm:surfaceCondition>GOOD</aixm:surfaceCondition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:dd062d88-3e64-4a5d-bebd-89476db9ebea"/>
 				</aixm:RunwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Runway>
@@ -4141,7 +4141,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>FATO 03</aixm:designator>
 					<aixm:trueBearing>27.329999923706055</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f"/>
+					<aixm:usedRunway xlink:href="urn:uuid:1e22a662-0601-43cc-a7ef-8402885a4f2f"/>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -4194,7 +4194,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>FATO 21</aixm:designator>
 					<aixm:trueBearing>207.3300018310547</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f"/>
+					<aixm:usedRunway xlink:href="urn:uuid:1e22a662-0601-43cc-a7ef-8402885a4f2f"/>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -4246,8 +4246,8 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:type>SEPARATED</aixm:type>
-					<aixm:hostAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
-					<aixm:dependentAirport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea"/>
+					<aixm:hostAirport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:dependentAirport xlink:href="urn:uuid:dd062d88-3e64-4a5d-bebd-89476db9ebea"/>
 				</aixm:AirportHeliportCollocationTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportHeliportCollocation>
@@ -4307,7 +4307,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:AirportClearanceServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportClearanceService>
@@ -4369,7 +4369,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 					<aixm:oilSupply>
 						<aixm:Oil gml:id="O-b55a01e1">
 							<aixm:category>PISTON</aixm:category>
@@ -4481,7 +4481,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:AirportClearanceServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportClearanceService>
@@ -4541,7 +4541,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:PassengerServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:PassengerService>
@@ -4602,7 +4602,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:AirportClearanceServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:AirportClearanceService>
@@ -4685,7 +4685,7 @@
 							</aixm:translatedNote>
 						</aixm:Note>
 					</aixm:annotation>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 					<aixm:category>A7</aixm:category>
 				</aixm:FireFightingServiceTimeSlice>
 			</aixm:timeSlice>
@@ -4713,7 +4713,7 @@
 					<aixm:name>DONLONRCC</aixm:name>
 					<aixm:type>RCC</aixm:type>
 					<aixm:compliantICAO>YES</aixm:compliantICAO>
-					<aixm:ownerOrganisation xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407"/>
+					<aixm:ownerOrganisation xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407"/>
 					<aixm:contact>
 						<aixm:ContactInformation gml:id="ciDonlonRescueCoordinationCentreUnit">
 							<aixm:address>
@@ -4770,11 +4770,11 @@
 							<aixm:elevation uom="M">15.0</aixm:elevation>
 						</aixm:ElevatedPoint>
 					</aixm:position>
-					<aixm:ownerOrganisation xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407"/>
+					<aixm:ownerOrganisation xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407"/>
 					<aixm:relatedUnit>
 						<aixm:UnitDependency gml:id="uDDonlonAkvinSARUnit">
 							<aixm:type>OWNER</aixm:type>
-							<aixm:theUnit xlink:href="#urn.uuid.c1bbe653-e5b1-4bfe-b510-3ada3272305a"/>
+							<aixm:theUnit xlink:href="urn:uuid:c1bbe653-e5b1-4bfe-b510-3ada3272305a"/>
 						</aixm:UnitDependency>
 					</aixm:relatedUnit>
 				</aixm:UnitTimeSlice>
@@ -4803,7 +4803,7 @@
 					<aixm:flightOperations>ALL</aixm:flightOperations>
 					<aixm:compliantICAO>YES</aixm:compliantICAO>
 					<aixm:name>DONLONAKVINSARS</aixm:name>
-					<aixm:serviceProvider xlink:href="#urn.uuid.8323cd6d-f788-4b78-8f93-2a09a70965fb"/>
+					<aixm:serviceProvider xlink:href="urn:uuid:8323cd6d-f788-4b78-8f93-2a09a70965fb"/>
 					<aixm:type>SAR</aixm:type>
 				</aixm:SearchRescueServiceTimeSlice>
 			</aixm:timeSlice>
@@ -4831,7 +4831,7 @@
 					<aixm:flightOperations>ALL</aixm:flightOperations>
 					<aixm:compliantICAO>YES</aixm:compliantICAO>
 					<aixm:name>DONLONRCCSERVICE</aixm:name>
-					<aixm:serviceProvider xlink:href="#urn.uuid.c1bbe653-e5b1-4bfe-b510-3ada3272305a"/>
+					<aixm:serviceProvider xlink:href="urn:uuid:c1bbe653-e5b1-4bfe-b510-3ada3272305a"/>
 					<aixm:type>RCC</aixm:type>
 				</aixm:SearchRescueServiceTimeSlice>
 			</aixm:timeSlice>
@@ -4860,7 +4860,7 @@
 					<aixm:compliantICAO>YES</aixm:compliantICAO>
 					<aixm:radarAssisted>YES</aixm:radarAssisted>
 					<aixm:type>SMGCS</aixm:type>
-					<aixm:clientAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:clientAirport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:GroundTrafficControlServiceTimeSlice>
 			</aixm:timeSlice>
 		</aixm:GroundTrafficControlService>
@@ -5236,7 +5236,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:length uom="M">600.0</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.c8455a6b-9319-4bb7-b797-08e644342d64"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:c8455a6b-9319-4bb7-b797-08e644342d64"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -5289,7 +5289,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:length uom="M">900.0</aixm:length>
-					<aixm:servedRunwayDirection xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:b802d439-e9f3-49f9-96e1-0153b837e113"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -5444,7 +5444,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5497,7 +5497,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5603,7 +5603,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5656,7 +5656,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5709,7 +5709,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5815,7 +5815,7 @@
 					</aixm:featureLifetime>
 					<aixm:colour>BLUE</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5869,7 +5869,7 @@
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -5939,7 +5939,7 @@
 						</aixm:Note>
 					</aixm:annotation>
 					<aixm:position>CL</aixm:position>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6096,7 +6096,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6149,7 +6149,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIH</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6202,7 +6202,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6255,7 +6255,7 @@
 					</aixm:featureLifetime>
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:colour>WHITE</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6307,7 +6307,7 @@
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
 					<aixm:colour>RED</aixm:colour>
-					<aixm:associatedRunwayDirection xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunwayDirection xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 				</aixm:RunwayDirectionLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirectionLightSystem>
@@ -6367,7 +6367,7 @@
 					<aixm:responsibleOrganisation>
 						<aixm:AirportHeliportResponsibilityOrganisation gml:id="A-a72cfd3a">
 							<aixm:role>OPERATE</aixm:role>
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.74efb6ba-a52a-46c0-a16b-03860d356882"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:74efb6ba-a52a-46c0-a16b-03860d356882"/>
 						</aixm:AirportHeliportResponsibilityOrganisation>
 					</aixm:responsibleOrganisation>
 					<aixm:ARP>
@@ -6441,7 +6441,7 @@
 					<aixm:responsibleOrganisation>
 						<aixm:AirportHeliportResponsibilityOrganisation gml:id="A-bf72b7b4">
 							<aixm:role>OPERATE</aixm:role>
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AirportHeliportResponsibilityOrganisation>
 					</aixm:responsibleOrganisation>
 					<aixm:ARP>
@@ -6489,7 +6489,7 @@
 									<aixm:daylightSavingAdjust>YES</aixm:daylightSavingAdjust>
 								</aixm:Timesheet>
 							</aixm:timeInterval>
-							<aixm:specialDateAuthority xlink:href="#urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
+							<aixm:specialDateAuthority xlink:href="urn:uuid:6384a4e0-8497-4f83-8eaa-d73ef549d90e"/>
 							<aixm:operationalStatus>NORMAL</aixm:operationalStatus>
 							<!-- all Baseline availability shall have status NORMAL, see the Event Specification assumptions for AD.CLS scenario-->
 							<aixm:usage>
@@ -6614,7 +6614,7 @@
 					</aixm:availability>
 					<aixm:extension>
 						<event:AirportHeliportExtension gml:id="E_dauidiqat">
-							<event:theEvent xlink:href="#uuid.5a8ed90a-ad4e-4352-b073-26d27b0ac978"/>
+							<event:theEvent xlink:href="urn:uuid:5a8ed90a-ad4e-4352-b073-26d27b0ac978"/>
 						</event:AirportHeliportExtension>
 					</aixm:extension>
 				</aixm:AirportHeliportTimeSlice>
@@ -6672,7 +6672,7 @@
 						</aixm:LightElement>
 					</aixm:element>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:lightedTouchDownLiftOff xlink:href="#urn.uuid.3d9a60b5-6d7f-471d-9744-b767df4a8575"/>
+					<aixm:lightedTouchDownLiftOff xlink:href="urn:uuid:3d9a60b5-6d7f-471d-9744-b767df4a8575"/>
 				</aixm:TouchDownLiftOffLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TouchDownLiftOffLightSystem>
@@ -6721,7 +6721,7 @@
 						</aixm:LightElement>
 					</aixm:element>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:lightedTaxiway xlink:href="#urn.uuid.e23b1f2b-b2fc-432e-a378-199ccacabe24"/>
+					<aixm:lightedTaxiway xlink:href="urn:uuid:e23b1f2b-b2fc-432e-a378-199ccacabe24"/>
 				</aixm:TaxiwayLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TaxiwayLightSystem>
@@ -6749,7 +6749,7 @@
 					<aixm:intensityLevel>LIM</aixm:intensityLevel>
 					<aixm:colour>GREEN</aixm:colour>
 					<aixm:position>EDGE</aixm:position>
-					<aixm:lightedTaxiway xlink:href="#urn.uuid.f16bf89e-aae9-45f7-b630-035c4f81e297"/>
+					<aixm:lightedTaxiway xlink:href="urn:uuid:f16bf89e-aae9-45f7-b630-035c4f81e297"/>
 				</aixm:TaxiwayLightSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TaxiwayLightSystem>
@@ -6806,13 +6806,13 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-df8103a4">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.7692166e-60e6-467d-b5f0-c728aeae85d6"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:7692166e-60e6-467d-b5f0-c728aeae85d6"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-df8103a5">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.0a45a38f-0f96-4ace-b09e-310ac0415693"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:0a45a38f-0f96-4ace-b09e-310ac0415693"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -6898,7 +6898,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-e5cfe38d">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:channel>102X</aixm:channel>
@@ -6932,7 +6932,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:DMEExtension gml:id="ID_126">
-							<event:theEvent xlink:href="#uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"/>
+							<event:theEvent xlink:href="urn:uuid:3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"/>
 						</event:DMEExtension>
 					</aixm:extension>
 				</aixm:DMETimeSlice>
@@ -6995,7 +6995,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="BOR_VOR_AUTH">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:frequency uom="MHZ">115.5</aixm:frequency>
@@ -7029,7 +7029,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:VORExtension gml:id="ID_132">
-							<event:theEvent xlink:href="#uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"/>
+							<event:theEvent xlink:href="urn:uuid:3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"/>
 						</event:VORExtension>
 					</aixm:extension>
 				</aixm:VORTimeSlice>
@@ -7088,13 +7088,13 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-fc1b336f">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.8979e959-492b-4b30-83d2-060f362cf5c4"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:8979e959-492b-4b30-83d2-060f362cf5c4"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-fc1b336g">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.ea10d605-5497-42ee-9d85-a0e5f80f9b26"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:ea10d605-5497-42ee-9d85-a0e5f80f9b26"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -7163,7 +7163,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-fa94f11e">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:channel>111X</aixm:channel>
@@ -7229,7 +7229,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-dc55b2c8">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:type>VOR</aixm:type>
@@ -7290,7 +7290,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-e243666b">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.577cb727-cef0-487b-bb5f-10882677a989"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:577cb727-cef0-487b-bb5f-10882677a989"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -7359,7 +7359,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-f27a7cf7">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:frequency uom="KHZ">411.0</aixm:frequency>
@@ -7419,7 +7419,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-c4939c2c">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.b5d16d67-8e4f-4ec8-9572-003e3e58424a"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:b5d16d67-8e4f-4ec8-9572-003e3e58424a"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -7490,7 +7490,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-bec27d5e">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:type>VOR</aixm:type>
@@ -7551,7 +7551,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-bc711c36">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.8506a23a-4a97-42fe-bddd-d23b00c2f61c"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:8506a23a-4a97-42fe-bddd-d23b00c2f61c"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -7620,7 +7620,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-ead88e23">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:type>VOR</aixm:type>
@@ -7681,7 +7681,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-f384fe54">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.9cd3112a-2aaf-48c3-a01a-59699b4af6e2"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:9cd3112a-2aaf-48c3-a01a-59699b4af6e2"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -7750,7 +7750,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-e8e8f723">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:type>VOR</aixm:type>
@@ -7811,7 +7811,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-c1069407">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.fbe82608-bece-4db7-a13b-961963e1b167"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:fbe82608-bece-4db7-a13b-961963e1b167"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -7880,7 +7880,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-be6ec538">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:type>VOR</aixm:type>
@@ -7941,7 +7941,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-a8e60416">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.13fe226f-271c-4d36-9f42-190563a963de"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:13fe226f-271c-4d36-9f42-190563a963de"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -8012,7 +8012,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-a890cda3">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:type>VOR</aixm:type>
@@ -8073,7 +8073,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-NAVOSTO">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.3e33bd78-0b9c-4d27-9060-901fcb02fa47"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:3e33bd78-0b9c-4d27-9060-901fcb02fa47"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -8117,7 +8117,7 @@
 					</aixm:location>
 					<aixm:authority>
 						<aixm:AuthorityForNavaidEquipment gml:id="A-TACANOSTO">
-							<aixm:theOrganisationAuthority xlink:href="#urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
+							<aixm:theOrganisationAuthority xlink:href="urn:uuid:1e1bdf59-3dd6-4f96-9166-e6095e7231fc"/>
 						</aixm:AuthorityForNavaidEquipment>
 					</aixm:authority>
 					<aixm:channel>119X</aixm:channel>
@@ -8177,7 +8177,7 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-NAVOM27">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.268cd014-b4e4-41fa-8d90-422c3dbb96b4"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:268cd014-b4e4-41fa-8d90-422c3dbb96b4"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -8324,7 +8324,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_139">
-							<event:theEvent xlink:href="#uuid.bf108180-75dd-4326-af29-561bf28a8c31"/>
+							<event:theEvent xlink:href="urn:uuid:bf108180-75dd-4326-af29-561bf28a8c31"/>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -8471,10 +8471,10 @@
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-c5f43ddc">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.bb9dcfb3-f45a-40f3-8852-fca1349801fc" xlink:title="BARIM"/>
+							<aixm:pointChoice_fixDesignatedPoint xlink:href="urn:uuid:bb9dcfb3-f45a-40f3-8852-fca1349801fc" xlink:title="BARIM"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
+					<aixm:routeFormed xlink:href="urn:uuid:a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
 					<aixm:curveExtent>
 						<aixm:Curve srsName="urn:ogc:def:crs:EPSG::4326" gml:id="crv2110">
 							<gml:segments>
@@ -8487,7 +8487,7 @@
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-c2a12282">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb" xlink:title="WOB VOR"/>
+							<aixm:pointChoice_navaidSystem xlink:href="urn:uuid:882e849c-682d-4e95-ac19-a7808d55cdbb" xlink:title="WOB VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -8550,10 +8550,10 @@
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-eef835dd">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb" xlink:title="WOB VOR"/>
+							<aixm:pointChoice_navaidSystem xlink:href="urn:uuid:882e849c-682d-4e95-ac19-a7808d55cdbb" xlink:title="WOB VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
+					<aixm:routeFormed xlink:href="urn:uuid:a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
 					<aixm:curveExtent>
 						<aixm:Curve srsName="urn:ogc:def:crs:EPSG::4326" gml:id="crv2111">
 							<gml:segments>
@@ -8566,7 +8566,7 @@
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-ef29b6f5">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3" xlink:title="EKO VOR"/>
+							<aixm:pointChoice_navaidSystem xlink:href="urn:uuid:cc271a99-e28c-49e6-86ac-53078e6e59e3" xlink:title="EKO VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -8629,10 +8629,10 @@
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-e0103a1d">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3" xlink:title="EKO VOR"/>
+							<aixm:pointChoice_navaidSystem xlink:href="urn:uuid:cc271a99-e28c-49e6-86ac-53078e6e59e3" xlink:title="EKO VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
+					<aixm:routeFormed xlink:href="urn:uuid:a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
 					<aixm:curveExtent>
 						<aixm:Curve srsName="urn:ogc:def:crs:EPSG::4326" gml:id="crv2112">
 							<gml:segments>
@@ -8645,7 +8645,7 @@
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-aeda23eb">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f" xlink:title="LMD VOR"/>
+							<aixm:pointChoice_navaidSystem xlink:href="urn:uuid:3afcdd1d-1ca4-4667-95af-1725ca17a70f" xlink:title="LMD VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -8708,10 +8708,10 @@
 					<aixm:start>
 						<aixm:EnRouteSegmentPoint gml:id="E-db90c74a">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_navaidSystem xlink:href="#urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f" xlink:title="LMD VOR"/>
+							<aixm:pointChoice_navaidSystem xlink:href="urn:uuid:3afcdd1d-1ca4-4667-95af-1725ca17a70f" xlink:title="LMD VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:start>
-					<aixm:routeFormed xlink:href="#urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
+					<aixm:routeFormed xlink:href="urn:uuid:a14a8751-5428-46bc-a2d1-32ef84d37b5c" xlink:title="UA4"/>
 					<aixm:curveExtent>
 						<aixm:Curve srsName="urn:ogc:def:crs:EPSG::4326" gml:id="crv2113">
 							<gml:segments>
@@ -8724,7 +8724,7 @@
 					<aixm:end>
 						<aixm:EnRouteSegmentPoint gml:id="E-f1fb0a9f">
 							<aixm:reportingATC>COMPULSORY</aixm:reportingATC>
-							<aixm:pointChoice_fixDesignatedPoint xlink:href="#urn.uuid.26009f76-2e05-418d-a631-bec02f84ac5b" xlink:title="LMD VOR"/>
+							<aixm:pointChoice_fixDesignatedPoint xlink:href="urn:uuid:26009f76-2e05-418d-a631-bec02f84ac5b" xlink:title="LMD VOR"/>
 						</aixm:EnRouteSegmentPoint>
 					</aixm:end>
 				</aixm:RouteSegmentTimeSlice>
@@ -9423,7 +9423,7 @@
 							<gml:pos>52.375597222222225 -31.964263888888887</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.c8455a6b-9319-4bb7-b797-08e644342d64"/>
+					<aixm:onRunway xlink:href="urn:uuid:c8455a6b-9319-4bb7-b797-08e644342d64"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -9479,7 +9479,7 @@
 							<gml:pos>52.37818888888889 -31.921847222222222</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113"/>
+					<aixm:onRunway xlink:href="urn:uuid:b802d439-e9f3-49f9-96e1-0153b837e113"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -9536,13 +9536,13 @@
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-fd3aca9b">
 							<aixm:collocationGroup>1</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.2ad9861c-7624-481b-b344-c1f601e51939" xlink:title="LOCALIZER"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:2ad9861c-7624-481b-b344-c1f601e51939" xlink:title="LOCALIZER"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:navaidEquipment>
 						<aixm:NavaidComponent gml:id="N-fd3aca9c">
 							<aixm:collocationGroup>2</aixm:collocationGroup>
-							<aixm:theNavaidEquipment xlink:href="#urn.uuid.c9bfcce2-76ad-46b7-a1e7-2c246893db56" xlink:title="GLIDEPATH"/>
+							<aixm:theNavaidEquipment xlink:href="urn:uuid:c9bfcce2-76ad-46b7-a1e7-2c246893db56" xlink:title="GLIDEPATH"/>
 						</aixm:NavaidComponent>
 					</aixm:navaidEquipment>
 					<aixm:location>
@@ -9551,8 +9551,8 @@
 							<aixm:elevation uom="M">0.0</aixm:elevation>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:runwayDirection xlink:href="#urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113"/>
-					<aixm:servedAirport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:runwayDirection xlink:href="urn:uuid:b802d439-e9f3-49f9-96e1-0153b837e113"/>
+					<aixm:servedAirport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:NavaidTimeSlice>
 			</aixm:timeSlice>
 			<aixm:timeSlice>
@@ -10597,7 +10597,7 @@
 							<aixm:composition>CONC</aixm:composition>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:dd062d88-3e64-4a5d-bebd-89476db9ebea"/>
 				</aixm:TouchDownLiftOffTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TouchDownLiftOff>
@@ -10676,7 +10676,7 @@
 							</gml:patches>
 						</aixm:ElevatedSurface>
 					</aixm:extent>
-					<aixm:protectedTouchDownLiftOff xlink:href="#urn.uuid.3d9a60b5-6d7f-471d-9744-b767df4a8575"/>
+					<aixm:protectedTouchDownLiftOff xlink:href="urn:uuid:3d9a60b5-6d7f-471d-9744-b767df4a8575"/>
 				</aixm:TouchDownLiftOffSafeAreaTimeSlice>
 			</aixm:timeSlice>
 		</aixm:TouchDownLiftOffSafeArea>
@@ -10737,7 +10737,7 @@
 							</gml:segments>
 						</aixm:ElevatedCurve>
 					</aixm:extent>
-					<aixm:connectedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c"/>
+					<aixm:connectedTaxiway xlink:href="urn:uuid:78396f68-9c03-438a-a6b4-331157b1a79c"/>
 				</aixm:GuidanceLineTimeSlice>
 			</aixm:timeSlice>
 		</aixm:GuidanceLine>
@@ -10816,7 +10816,7 @@
 							</gml:patches>
 						</aixm:ElevatedSurface>
 					</aixm:extent>
-					<aixm:protectedRunwayDirection xlink:href="#urn.uuid.921966d2-bae8-4b4b-bc8a-8012faf991be"/>
+					<aixm:protectedRunwayDirection xlink:href="urn:uuid:921966d2-bae8-4b4b-bc8a-8012faf991be"/>
 				</aixm:RunwayProtectAreaTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayProtectArea>
@@ -10895,7 +10895,7 @@
 							</gml:patches>
 						</aixm:ElevatedSurface>
 					</aixm:extent>
-					<aixm:protectedRunwayDirection xlink:href="#urn.uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5"/>
+					<aixm:protectedRunwayDirection xlink:href="urn:uuid:b9fad726-bed6-4b3b-a92f-64706eaa9ed5"/>
 				</aixm:RunwayProtectAreaTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayProtectArea>
@@ -10952,7 +10952,7 @@
 							<aixm:elevation uom="M">18</aixm:elevation>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#urn.uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5"/>
+					<aixm:onRunway xlink:href="urn:uuid:b9fad726-bed6-4b3b-a92f-64706eaa9ed5"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -11010,8 +11010,8 @@
 							<gml:pos>52.37340555555556 -31.962791666666664</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:position>
-					<aixm:airportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
-					<aixm:checkPointFacility xlink:href="#urn.uuid.08a1bbd5-ea70-4fe3-836a-ea9686349495"/>
+					<aixm:airportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:checkPointFacility xlink:href="urn:uuid:08a1bbd5-ea70-4fe3-836a-ea9686349495"/>
 				</aixm:CheckpointVORTimeSlice>
 			</aixm:timeSlice>
 		</aixm:CheckpointVOR>
@@ -11075,7 +11075,7 @@
 							<aixm:evaluationMethodPCN>ACFT</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:RunwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Runway>
@@ -11128,7 +11128,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>09R</aixm:designator>
 					<aixm:trueBearing>85.29</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
+					<aixm:usedRunway xlink:href="urn:uuid:4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -11185,7 +11185,7 @@
 							<gml:pos>52.36550555555556 -31.965008333333333</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#uuid.5d6513d4-a62a-49e1-9e26-0b8cbf320daf"/>
+					<aixm:onRunway xlink:href="urn:uuid:5d6513d4-a62a-49e1-9e26-0b8cbf320daf"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -11238,7 +11238,7 @@
 					</aixm:featureLifetime>
 					<aixm:designator>27L</aixm:designator>
 					<aixm:trueBearing>265.29</aixm:trueBearing>
-					<aixm:usedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
+					<aixm:usedRunway xlink:href="urn:uuid:4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
 				</aixm:RunwayDirectionTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayDirection>
@@ -11295,7 +11295,7 @@
 							<gml:pos>52.368252777777776 -31.925594444444446</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:onRunway xlink:href="#uuid.ee6019d6-29f7-404d-8cee-b6819f325aed"/>
+					<aixm:onRunway xlink:href="urn:uuid:ee6019d6-29f7-404d-8cee-b6819f325aed"/>
 				</aixm:RunwayCentrelinePointTimeSlice>
 			</aixm:timeSlice>
 		</aixm:RunwayCentrelinePoint>
@@ -11346,7 +11346,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedRunway xlink:href="#urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
+					<aixm:associatedRunway xlink:href="urn:uuid:9e51668f-bf8a-4f5b-ba6e-27087972b9b8"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_166">
 							<gml:patches>
@@ -11418,7 +11418,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedRunway xlink:href="#uuid.4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
+					<aixm:associatedRunway xlink:href="urn:uuid:4428d037-1cdf-433a-9bfa-d0857aaf448a"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_169">
 							<gml:patches>
@@ -11502,7 +11502,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11565,7 +11565,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11628,7 +11628,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11691,7 +11691,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11754,7 +11754,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11817,7 +11817,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11880,7 +11880,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:TaxiwayTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Taxiway>
@@ -11931,7 +11931,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.78396f68-9c03-438a-a6b4-331157b1a79c"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:78396f68-9c03-438a-a6b4-331157b1a79c"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_172">
 							<gml:patches>
@@ -12003,7 +12003,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.8a3a6406-6d9e-42e5-a5d7-daac00dc0d52"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:8a3a6406-6d9e-42e5-a5d7-daac00dc0d52"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_175">
 							<gml:patches>
@@ -12075,7 +12075,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.d3a7ea1e-93d2-4298-adb3-141906a7b178"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:d3a7ea1e-93d2-4298-adb3-141906a7b178"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_178">
 							<gml:patches>
@@ -12147,7 +12147,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.51474004-6ec1-47a0-bada-404b866e6549"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:51474004-6ec1-47a0-bada-404b866e6549"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_181">
 							<gml:patches>
@@ -12219,7 +12219,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.a45ec8a1-2259-4140-8322-a441e3006cb3"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:a45ec8a1-2259-4140-8322-a441e3006cb3"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_184">
 							<gml:patches>
@@ -12291,7 +12291,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.125d2cc5-2fd4-4917-8a08-a1586bce481d"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:125d2cc5-2fd4-4917-8a08-a1586bce481d"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_187">
 							<gml:patches>
@@ -12363,7 +12363,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedTaxiway xlink:href="#uuid.0c049047-56f5-41a1-ba56-d0695817a3d2"/>
+					<aixm:associatedTaxiway xlink:href="urn:uuid:0c049047-56f5-41a1-ba56-d0695817a3d2"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_190">
 							<gml:patches>
@@ -12445,7 +12445,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -12496,7 +12496,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedApron xlink:href="#uuid.d6cf5b07-9fb4-4afb-9b47-841643da3e99"/>
+					<aixm:associatedApron xlink:href="urn:uuid:d6cf5b07-9fb4-4afb-9b47-841643da3e99"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_193">
 							<gml:patches>
@@ -12575,7 +12575,7 @@
 							<gml:pos>52.372075 -31.948222222222224</gml:pos>
 						</aixm:ElevatedPoint>
 					</aixm:location>
-					<aixm:apronLocation xlink:href="#uuid.285fd2af-599a-4f9b-b812-fd24a68416c4"/>
+					<aixm:apronLocation xlink:href="urn:uuid:285fd2af-599a-4f9b-b812-fd24a68416c4"/>
 					<aixm:availability>
 						<aixm:ApronAreaAvailability gml:id="ID_197">
 							<aixm:operationalStatus>NORMAL</aixm:operationalStatus>
@@ -12641,7 +12641,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -12692,7 +12692,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedApron xlink:href="#uuid.1707f988-e674-4290-933c-047d87b85bd8"/>
+					<aixm:associatedApron xlink:href="urn:uuid:1707f988-e674-4290-933c-047d87b85bd8"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_200">
 							<gml:patches>
@@ -12853,7 +12853,7 @@
 							<aixm:evaluationMethodPCN>TECH</aixm:evaluationMethodPCN>
 						</aixm:SurfaceCharacteristics>
 					</aixm:surfaceProperties>
-					<aixm:associatedAirportHeliport xlink:href="#urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
+					<aixm:associatedAirportHeliport xlink:href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64"/>
 				</aixm:ApronTimeSlice>
 			</aixm:timeSlice>
 		</aixm:Apron>
@@ -12904,7 +12904,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:associatedApron xlink:href="#uuid.0e131693-cf13-4938-9969-994d7f56a23c"/>
+					<aixm:associatedApron xlink:href="urn:uuid:0e131693-cf13-4938-9969-994d7f56a23c"/>
 					<aixm:extent>
 						<aixm:ElevatedSurface srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_207">
 							<gml:patches>
@@ -13302,7 +13302,7 @@
 							</aixm:horizontalProjection_surfaceExtent>
 						</aixm:VerticalStructurePart>
 					</aixm:part>
-					<aixm:supportedService xlink:href="#uuid.6d323fef-9ddb-4f7e-9986-a945276ed585"/>
+					<aixm:supportedService xlink:href="urn:uuid:6d323fef-9ddb-4f7e-9986-a945276ed585"/>
 				</aixm:VerticalStructureTimeSlice>
 			</aixm:timeSlice>
 		</aixm:VerticalStructure>
@@ -14464,7 +14464,7 @@
 					</aixm:annotation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_324">
-							<event:theEvent xlink:href="#uuid.cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b"/>
+							<event:theEvent xlink:href="urn:uuid:cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b"/>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -14572,7 +14572,7 @@
 					<aixm:name>FELDMAD</aixm:name>
 					<aixm:type>MASTER</aixm:type>
 					<aixm:frequency uom="KHZ">85.72</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
+					<aixm:systemChain xlink:href="urn:uuid:04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
 					<aixm:position>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_327">
 							<gml:pos>52.44166666666666 -23.7125</gml:pos>
@@ -14636,7 +14636,7 @@
 					<aixm:name>KYLLSTAD</aixm:name>
 					<aixm:type>RED_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">114.2928</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
+					<aixm:systemChain xlink:href="urn:uuid:04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
 					<aixm:position>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_331">
 							<gml:pos>51.36527777777778 -21.534444444444446</gml:pos>
@@ -14700,7 +14700,7 @@
 					<aixm:name>VENZE</aixm:name>
 					<aixm:type>GREEN_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">128.5794</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
+					<aixm:systemChain xlink:href="urn:uuid:04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
 					<aixm:position>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_335">
 							<gml:pos>54.285555555555554 -24.269444444444442</gml:pos>
@@ -14764,7 +14764,7 @@
 					<aixm:name>LAUTERBER</aixm:name>
 					<aixm:type>PURPLE_SLAVE</aixm:type>
 					<aixm:frequency uom="KHZ">71.433</aixm:frequency>
-					<aixm:systemChain xlink:href="#uuid.04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
+					<aixm:systemChain xlink:href="urn:uuid:04888c9d-6735-4bb2-9dd7-f4728e0fe8ce"/>
 					<aixm:position>
 						<aixm:ElevatedPoint srsName="urn:ogc:def:crs:EPSG::4326" gml:id="ID_339">
 							<gml:pos>51.32361111111111 -25.989166666666666</gml:pos>
@@ -14800,7 +14800,7 @@
 					</aixm:featureLifetime>
 					<aixm:type>T_COV</aixm:type>
 					<aixm:signalType>DISTANCE</aixm:signalType>
-					<aixm:equipment_specialNavigationStation xlink:href="#uuid.b9024736-3a25-4c92-9b2f-bfc0e29ae31b"/>
+					<aixm:equipment_specialNavigationStation xlink:href="urn:uuid:b9024736-3a25-4c92-9b2f-bfc0e29ae31b"/>
 					<aixm:sector>
 						<aixm:CircleSector gml:id="csFELDMADRFA">
 							<aixm:arcDirection>CCA</aixm:arcDirection>
@@ -15003,7 +15003,7 @@
 FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event:text>
 							<event:lowerLimit>210</event:lowerLimit>
 							<event:upperLimit>330</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15047,7 +15047,7 @@ FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event
 FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event:text>
 							<event:lowerLimit>210</event:lowerLimit>
 							<event:upperLimit>330</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15124,7 +15124,7 @@ FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event
 CLASS G AIRSPACE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_54">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -15173,7 +15173,7 @@ CLASS G AIRSPACE.</event:text>
 CLASS G AIRSPACE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_58">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -15256,7 +15256,7 @@ CLASS G AIRSPACE.</event:text>
 FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N 0312042W - 531005N 0310842W - 525617N 0305706W - 525235N 0310612W - 525533N 0312746W.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>600</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_62">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -15306,7 +15306,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N 0312042W - 531005N 0310842W - 525617N 0305706W - 525235N 0310612W - 525533N 0312746W.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>600</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 							<event:translation>
 								<event:NOTAMTranslation gml:id="ID_66">
 									<event:type>LOCAL_FORMAT</event:type>
@@ -15466,7 +15466,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 					</aixm:activation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_359">
-							<event:theEvent xlink:href="#uuid.4935e16e-2a7d-464b-a537-477c7af1acbb"/>
+							<event:theEvent xlink:href="urn:uuid:4935e16e-2a7d-464b-a537-477c7af1acbb"/>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -15588,7 +15588,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 					</aixm:activation>
 					<aixm:extension>
 						<event:AirspaceExtension gml:id="ID_372">
-							<event:theEvent xlink:href="#uuid.4935e16e-2a7d-464b-a537-477c7af1acbb"/>
+							<event:theEvent xlink:href="urn:uuid:4935e16e-2a7d-464b-a537-477c7af1acbb"/>
 						</event:AirspaceExtension>
 					</aixm:extension>
 				</aixm:AirspaceTimeSlice>
@@ -15656,7 +15656,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 							<aixm:verticalDistance>310</aixm:verticalDistance>
 						</aixm:StandardLevel>
 					</aixm:level>
-					<aixm:levelTable xlink:href="#uuid.c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
+					<aixm:levelTable xlink:href="urn:uuid:c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
 				</aixm:StandardLevelColumnTimeSlice>
 			</aixm:timeSlice>
 		</aixm:StandardLevelColumn>
@@ -15697,7 +15697,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 							<aixm:verticalDistance>320</aixm:verticalDistance>
 						</aixm:StandardLevel>
 					</aixm:level>
-					<aixm:levelTable xlink:href="#uuid.c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
+					<aixm:levelTable xlink:href="urn:uuid:c68d2c5e-9a38-4d55-afcf-4d6450dc1000"/>
 				</aixm:StandardLevelColumnTimeSlice>
 			</aixm:timeSlice>
 		</aixm:StandardLevelColumn>
@@ -15772,7 +15772,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15816,7 +15816,7 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15892,7 +15892,7 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:text>RWY 09L/27R CLOSED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -15935,7 +15935,7 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 							<event:text>RWY 09L/27R CLOSED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16015,7 +16015,7 @@ DUE TO MAINT.
 DO NOT USE, FALSE INDICATIONS POSS.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16062,7 +16062,7 @@ DUE TO MAINT.
 DO NOT USE, FALSE INDICATIONS POSS.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16140,7 +16140,7 @@ U/S.
 DUE TO MAINTENANCE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16185,7 +16185,7 @@ U/S.
 DUE TO MAINTENANCE.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16266,7 +16266,7 @@ LIGHTED.
 85 FT IS A MAXIMUM HEIGHT.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16314,7 +16314,7 @@ LIGHTED.
 85 FT IS A MAXIMUM HEIGHT.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16564,7 +16564,7 @@ AT PSN 522116N 0315648W ELEVATION 675 FT (HEIGHT 483 FT).
 LIGHTED ICAO MARKED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16610,7 +16610,7 @@ AT PSN 522116N 0315648W ELEVATION 675 FT (HEIGHT 483 FT).
 LIGHTED ICAO MARKED.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16888,7 +16888,7 @@ LIGHTED DAY AND NIGHT MARKED.
 GROUP OF 3.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -16934,7 +16934,7 @@ LIGHTED DAY AND NIGHT MARKED.
 GROUP OF 3.</event:text>
 							<event:lowerLimit>000</event:lowerLimit>
 							<event:upperLimit>999</event:upperLimit>
-							<event:publisherNOF xlink:href="#urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
+							<event:publisherNOF xlink:href="urn:uuid:c225ae5c-540f-4a48-8867-809b393b2407" xlink:title="CIVIL AVIATION AUTHORITY"/>
 						</event:NOTAM>
 					</event:textNOTAM>
 				</event:EventTimeSlice>
@@ -17720,7 +17720,7 @@ GROUP OF 3.</event:text>
 									<aixm:contributorAirspace>
 										<aixm:AirspaceVolumeDependency gml:id="uuid.43a4e8ff-7995-492c-aa8f-50ef2c29b679">
 											<aixm:dependency>FULL_GEOMETRY</aixm:dependency>
-											<aixm:theAirspace xlink:href="#uuid.0df377fe-dd53-4d60-b6c4-6546ef31d26b"/>
+											<aixm:theAirspace xlink:href="urn:uuid:0df377fe-dd53-4d60-b6c4-6546ef31d26b"/>
 										</aixm:AirspaceVolumeDependency>
 									</aixm:contributorAirspace>
 								</aixm:AirspaceVolume>
@@ -17736,7 +17736,7 @@ GROUP OF 3.</event:text>
 									<aixm:contributorAirspace>
 										<aixm:AirspaceVolumeDependency gml:id="uuid.28854643-aca8-46e6-a199-57bf0d02a6e2">
 											<aixm:dependency>FULL_GEOMETRY</aixm:dependency>
-											<aixm:theAirspace xlink:href="#uuid.010d8451-d751-4abb-9c71-f48ad024045b"/>
+											<aixm:theAirspace xlink:href="urn:uuid:010d8451-d751-4abb-9c71-f48ad024045b"/>
 										</aixm:AirspaceVolumeDependency>
 									</aixm:contributorAirspace>
 								</aixm:AirspaceVolume>
