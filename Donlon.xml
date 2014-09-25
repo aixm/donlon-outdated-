@@ -16464,6 +16464,7 @@ LIGHTED.
 					</aixm:annotation>
 					<aixm:annotation>
 						<aixm:Note gml:id="ID_389">
+							<!-- <aixm:propertyName>horizontalProjection_location</aixm:propertyName> is invalid in AIXM 5.1, because of an error in the pattern of the propertyName attribute. It will be corrected in AIXM 5.1.1 and later. -->
 							<aixm:propertyName>horizontalProjectionlocation</aixm:propertyName>
 							<aixm:purpose>REMARK</aixm:purpose>
 							<aixm:translatedNote>
@@ -17165,8 +17166,8 @@ GROUP OF 3.</event:text>
 					</aixm:annotation>
 					<aixm:annotation>
 						<aixm:Note gml:id="ID_439">
-							<aixm:propertyName>horizontalProjectionlocation
-							</aixm:propertyName>
+							<!-- <aixm:propertyName>horizontalProjection_location</aixm:propertyName> is invalid in AIXM 5.1, because of an error in the pattern of the propertyName attribute. It will be corrected in AIXM 5.1.1 and later. -->
+							<aixm:propertyName>horizontalProjectionlocation</aixm:propertyName>
 							<aixm:purpose>REMARK</aixm:purpose>
 							<aixm:translatedNote>
 								<aixm:LinguisticNote gml:id="ID_440">
@@ -17281,8 +17282,8 @@ GROUP OF 3.</event:text>
 					</aixm:annotation>
 					<aixm:annotation>
 						<aixm:Note gml:id="ID_452">
-							<aixm:propertyName>horizontalProjectionlocation
-							</aixm:propertyName>
+							<!-- <aixm:propertyName>horizontalProjection_location</aixm:propertyName> is invalid in AIXM 5.1, because of an error in the pattern of the propertyName attribute. It will be corrected in AIXM 5.1.1 and later. -->
+							<aixm:propertyName>horizontalProjectionlocation</aixm:propertyName>
 							<aixm:purpose>REMARK</aixm:purpose>
 							<aixm:translatedNote>
 								<aixm:LinguisticNote gml:id="ID_453">
