@@ -123,7 +123,7 @@
 		</gmd:MD_Metadata>
 	</aixm:messageMetadata>
 	<message:hasMember>
-		<aixm:OrganisationAuthority gml:id="urn.uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e">
+		<aixm:OrganisationAuthority gml:id="uuid.6384a4e0-8497-4f83-8eaa-d73ef549d90e">
 			<gml:identifier codeSpace="urn:uuid:">6384a4e0-8497-4f83-8eaa-d73ef549d90e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -175,7 +175,7 @@
 		</aixm:OrganisationAuthority>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:OrganisationAuthority gml:id="urn.uuid.c225ae5c-540f-4a48-8867-809b393b2407">
+		<aixm:OrganisationAuthority gml:id="uuid.c225ae5c-540f-4a48-8867-809b393b2407">
 			<gml:identifier codeSpace="urn:uuid:">c225ae5c-540f-4a48-8867-809b393b2407</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -233,7 +233,7 @@
 		</aixm:OrganisationAuthority>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:OrganisationAuthority gml:id="urn.uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc">
+		<aixm:OrganisationAuthority gml:id="uuid.1e1bdf59-3dd6-4f96-9166-e6095e7231fc">
 			<gml:identifier codeSpace="urn:uuid:">1e1bdf59-3dd6-4f96-9166-e6095e7231fc</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -285,7 +285,7 @@
 		</aixm:OrganisationAuthority>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:OrganisationAuthority gml:id="urn.uuid.74efb6ba-a52a-46c0-a16b-03860d356882">
+		<aixm:OrganisationAuthority gml:id="uuid.74efb6ba-a52a-46c0-a16b-03860d356882">
 			<gml:identifier codeSpace="urn:uuid:">74efb6ba-a52a-46c0-a16b-03860d356882</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -337,7 +337,7 @@
 		</aixm:OrganisationAuthority>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:SpecialDate gml:id="urn.uuid.b6df119e-cc7c-48cc-9575-c4160c64d733">
+		<aixm:SpecialDate gml:id="uuid.b6df119e-cc7c-48cc-9575-c4160c64d733">
 			<gml:identifier codeSpace="urn:uuid:">b6df119e-cc7c-48cc-9575-c4160c64d733</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -391,7 +391,7 @@
 		</aixm:SpecialDate>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:SpecialDate gml:id="urn.uuid.4d0ecbdb-4cba-4047-8351-29283adf67c7">
+		<aixm:SpecialDate gml:id="uuid.4d0ecbdb-4cba-4047-8351-29283adf67c7">
 			<gml:identifier codeSpace="urn:uuid:">4d0ecbdb-4cba-4047-8351-29283adf67c7</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -469,7 +469,7 @@
 		</aixm:SpecialDate>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:SpecialDate gml:id="urn.uuid.20f19a35-401b-45a6-a54e-084122a4cf80">
+		<aixm:SpecialDate gml:id="uuid.20f19a35-401b-45a6-a54e-084122a4cf80">
 			<gml:identifier codeSpace="urn:uuid:">20f19a35-401b-45a6-a54e-084122a4cf80</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -547,7 +547,7 @@
 		</aixm:SpecialDate>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:SpecialDate gml:id="urn.uuid.39755baa-4c27-4c9f-b08c-df05cff2fb09">
+		<aixm:SpecialDate gml:id="uuid.39755baa-4c27-4c9f-b08c-df05cff2fb09">
 			<gml:identifier codeSpace="urn:uuid:">39755baa-4c27-4c9f-b08c-df05cff2fb09</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -625,7 +625,7 @@
 		</aixm:SpecialDate>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.02e42ef0-7be7-4c60-b8d9-790b79fa3839">
+		<aixm:ArrivalFeederLeg gml:id="uuid.02e42ef0-7be7-4c60-b8d9-790b79fa3839">
 			<gml:identifier codeSpace="urn:uuid:">02e42ef0-7be7-4c60-b8d9-790b79fa3839</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -678,7 +678,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:InstrumentApproachProcedure gml:id="urn.uuid.6c8b3cb4-c0fe-4afd-ac63-cb2a9060db73">
+		<aixm:InstrumentApproachProcedure gml:id="uuid.6c8b3cb4-c0fe-4afd-ac63-cb2a9060db73">
 			<gml:identifier codeSpace="urn:uuid:">6c8b3cb4-c0fe-4afd-ac63-cb2a9060db73</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -738,7 +738,7 @@
 		</aixm:InstrumentApproachProcedure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.9c6a4679-14f3-4ffb-a2bc-2d43f81722b6">
+		<aixm:DepartureLeg gml:id="uuid.9c6a4679-14f3-4ffb-a2bc-2d43f81722b6">
 			<gml:identifier codeSpace="urn:uuid:">9c6a4679-14f3-4ffb-a2bc-2d43f81722b6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -788,7 +788,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.3a17efd0-adfe-4899-9d4c-5b8ac591645b">
+		<aixm:DepartureLeg gml:id="uuid.3a17efd0-adfe-4899-9d4c-5b8ac591645b">
 			<gml:identifier codeSpace="urn:uuid:">3a17efd0-adfe-4899-9d4c-5b8ac591645b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -838,7 +838,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.1a6f046a-e7aa-44e8-9712-aaaf89921734">
+		<aixm:DepartureLeg gml:id="uuid.1a6f046a-e7aa-44e8-9712-aaaf89921734">
 			<gml:identifier codeSpace="urn:uuid:">1a6f046a-e7aa-44e8-9712-aaaf89921734</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -888,7 +888,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.5a99887d-ab43-4163-95a4-b9699c651d98">
+		<aixm:DepartureLeg gml:id="uuid.5a99887d-ab43-4163-95a4-b9699c651d98">
 			<gml:identifier codeSpace="urn:uuid:">5a99887d-ab43-4163-95a4-b9699c651d98</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -938,7 +938,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.d9d27801-b6ae-4508-a27e-bf55da19fd35">
+		<aixm:DepartureLeg gml:id="uuid.d9d27801-b6ae-4508-a27e-bf55da19fd35">
 			<gml:identifier codeSpace="urn:uuid:">d9d27801-b6ae-4508-a27e-bf55da19fd35</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -990,7 +990,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentDeparture gml:id="urn.uuid.6a2f2658-bba5-49e0-bdc5-9b31aa1e1dbf">
+		<aixm:StandardInstrumentDeparture gml:id="uuid.6a2f2658-bba5-49e0-bdc5-9b31aa1e1dbf">
 			<gml:identifier codeSpace="urn:uuid:">6a2f2658-bba5-49e0-bdc5-9b31aa1e1dbf</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1071,7 +1071,7 @@
 		</aixm:StandardInstrumentDeparture>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.1c7a5f5d-f4fe-49da-8746-5112d62a4a04">
+		<aixm:ArrivalFeederLeg gml:id="uuid.1c7a5f5d-f4fe-49da-8746-5112d62a4a04">
 			<gml:identifier codeSpace="urn:uuid:">1c7a5f5d-f4fe-49da-8746-5112d62a4a04</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1127,7 +1127,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.63dae92f-2014-42ca-a83f-73cefcec03e8">
+		<aixm:ArrivalFeederLeg gml:id="uuid.63dae92f-2014-42ca-a83f-73cefcec03e8">
 			<gml:identifier codeSpace="urn:uuid:">63dae92f-2014-42ca-a83f-73cefcec03e8</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1182,7 +1182,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.077bc42e-c2f2-40fc-8a84-b4f2eaaae0bc">
+		<aixm:ArrivalFeederLeg gml:id="uuid.077bc42e-c2f2-40fc-8a84-b4f2eaaae0bc">
 			<gml:identifier codeSpace="urn:uuid:">077bc42e-c2f2-40fc-8a84-b4f2eaaae0bc</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1237,7 +1237,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.4fc8c993-ba3e-4513-be88-d379e3c45fe6">
+		<aixm:ArrivalFeederLeg gml:id="uuid.4fc8c993-ba3e-4513-be88-d379e3c45fe6">
 			<gml:identifier codeSpace="urn:uuid:">4fc8c993-ba3e-4513-be88-d379e3c45fe6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1293,7 +1293,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.d34158b7-1755-4fa3-a197-5b266698f5b6">
+		<aixm:ArrivalFeederLeg gml:id="uuid.d34158b7-1755-4fa3-a197-5b266698f5b6">
 			<gml:identifier codeSpace="urn:uuid:">d34158b7-1755-4fa3-a197-5b266698f5b6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1347,7 +1347,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.a80b3299-65e5-4f4b-9067-30f282cbb1bc">
+		<aixm:ArrivalFeederLeg gml:id="uuid.a80b3299-65e5-4f4b-9067-30f282cbb1bc">
 			<gml:identifier codeSpace="urn:uuid:">a80b3299-65e5-4f4b-9067-30f282cbb1bc</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1403,7 +1403,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.436adbb9-1838-4bc7-945a-e421100f7dcb">
+		<aixm:ArrivalFeederLeg gml:id="uuid.436adbb9-1838-4bc7-945a-e421100f7dcb">
 			<gml:identifier codeSpace="urn:uuid:">436adbb9-1838-4bc7-945a-e421100f7dcb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1458,7 +1458,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.c8d2e419-6159-4693-b465-d96a063fa648">
+		<aixm:ArrivalFeederLeg gml:id="uuid.c8d2e419-6159-4693-b465-d96a063fa648">
 			<gml:identifier codeSpace="urn:uuid:">c8d2e419-6159-4693-b465-d96a063fa648</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1510,7 +1510,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:InstrumentApproachProcedure gml:id="urn.uuid.1a24b3c6-2183-4a01-ad8d-10227fd06931">
+		<aixm:InstrumentApproachProcedure gml:id="uuid.1a24b3c6-2183-4a01-ad8d-10227fd06931">
 			<gml:identifier codeSpace="urn:uuid:">1a24b3c6-2183-4a01-ad8d-10227fd06931</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1605,7 +1605,7 @@
 		</aixm:InstrumentApproachProcedure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.231a7794-c9bd-4e9e-a5d1-03f1c1f1687c">
+		<aixm:DepartureLeg gml:id="uuid.231a7794-c9bd-4e9e-a5d1-03f1c1f1687c">
 			<gml:identifier codeSpace="urn:uuid:">231a7794-c9bd-4e9e-a5d1-03f1c1f1687c</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1658,7 +1658,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.754e335c-75ec-4ef4-941d-97fe4581063a">
+		<aixm:DepartureLeg gml:id="uuid.754e335c-75ec-4ef4-941d-97fe4581063a">
 			<gml:identifier codeSpace="urn:uuid:">754e335c-75ec-4ef4-941d-97fe4581063a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1711,7 +1711,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.ed85c0e6-2461-43d8-aca2-39d6afb254e7">
+		<aixm:DepartureLeg gml:id="uuid.ed85c0e6-2461-43d8-aca2-39d6afb254e7">
 			<gml:identifier codeSpace="urn:uuid:">ed85c0e6-2461-43d8-aca2-39d6afb254e7</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1762,7 +1762,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.c1ee96e8-a60c-4e27-9c79-3c9853aa495d">
+		<aixm:DepartureLeg gml:id="uuid.c1ee96e8-a60c-4e27-9c79-3c9853aa495d">
 			<gml:identifier codeSpace="urn:uuid:">c1ee96e8-a60c-4e27-9c79-3c9853aa495d</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1814,7 +1814,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentDeparture gml:id="urn.uuid.2d6916fc-c635-4ad7-8275-3e0eab65104b">
+		<aixm:StandardInstrumentDeparture gml:id="uuid.2d6916fc-c635-4ad7-8275-3e0eab65104b">
 			<gml:identifier codeSpace="urn:uuid:">2d6916fc-c635-4ad7-8275-3e0eab65104b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1890,7 +1890,7 @@
 		</aixm:StandardInstrumentDeparture>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.970f9309-8a52-45c0-b59e-f5ab4a51ef6f">
+		<aixm:StandardInstrumentArrival gml:id="uuid.970f9309-8a52-45c0-b59e-f5ab4a51ef6f">
 			<gml:identifier codeSpace="urn:uuid:">970f9309-8a52-45c0-b59e-f5ab4a51ef6f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1940,7 +1940,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.d0f4a733-1c13-4764-b488-caae38794349">
+		<aixm:StandardInstrumentArrival gml:id="uuid.d0f4a733-1c13-4764-b488-caae38794349">
 			<gml:identifier codeSpace="urn:uuid:">d0f4a733-1c13-4764-b488-caae38794349</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -1990,7 +1990,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.62800d25-a0e8-4915-8bac-fa4eeb437d5e">
+		<aixm:StandardInstrumentArrival gml:id="uuid.62800d25-a0e8-4915-8bac-fa4eeb437d5e">
 			<gml:identifier codeSpace="urn:uuid:">62800d25-a0e8-4915-8bac-fa4eeb437d5e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2040,7 +2040,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.ba6478ff-50bb-4ccb-8bfd-4e4865709823">
+		<aixm:StandardInstrumentArrival gml:id="uuid.ba6478ff-50bb-4ccb-8bfd-4e4865709823">
 			<gml:identifier codeSpace="urn:uuid:">ba6478ff-50bb-4ccb-8bfd-4e4865709823</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2090,7 +2090,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.481c1844-4dfd-4d7a-ae94-41027db0a20a">
+		<aixm:StandardInstrumentArrival gml:id="uuid.481c1844-4dfd-4d7a-ae94-41027db0a20a">
 			<gml:identifier codeSpace="urn:uuid:">481c1844-4dfd-4d7a-ae94-41027db0a20a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2140,7 +2140,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.d0d29c8d-90e3-44b6-80d0-96530d38bde5">
+		<aixm:StandardInstrumentArrival gml:id="uuid.d0d29c8d-90e3-44b6-80d0-96530d38bde5">
 			<gml:identifier codeSpace="urn:uuid:">d0d29c8d-90e3-44b6-80d0-96530d38bde5</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2190,7 +2190,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.8123f5af-b083-41f9-a2fa-6384adef1bdf">
+		<aixm:StandardInstrumentArrival gml:id="uuid.8123f5af-b083-41f9-a2fa-6384adef1bdf">
 			<gml:identifier codeSpace="urn:uuid:">8123f5af-b083-41f9-a2fa-6384adef1bdf</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2240,7 +2240,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.e99f36b1-6441-4791-a542-d1312b995d79">
+		<aixm:StandardInstrumentArrival gml:id="uuid.e99f36b1-6441-4791-a542-d1312b995d79">
 			<gml:identifier codeSpace="urn:uuid:">e99f36b1-6441-4791-a542-d1312b995d79</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2290,7 +2290,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.b7fdc9e9-a77b-4db6-b781-9587b7e7407a">
+		<aixm:StandardInstrumentArrival gml:id="uuid.b7fdc9e9-a77b-4db6-b781-9587b7e7407a">
 			<gml:identifier codeSpace="urn:uuid:">b7fdc9e9-a77b-4db6-b781-9587b7e7407a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2340,7 +2340,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.1c4c9451-bf5a-4ae0-a973-b534f96b2409">
+		<aixm:StandardInstrumentArrival gml:id="uuid.1c4c9451-bf5a-4ae0-a973-b534f96b2409">
 			<gml:identifier codeSpace="urn:uuid:">1c4c9451-bf5a-4ae0-a973-b534f96b2409</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2390,7 +2390,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.b19105a1-f1ce-4577-b26b-ce27f6103087">
+		<aixm:StandardInstrumentArrival gml:id="uuid.b19105a1-f1ce-4577-b26b-ce27f6103087">
 			<gml:identifier codeSpace="urn:uuid:">b19105a1-f1ce-4577-b26b-ce27f6103087</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2440,7 +2440,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.0c208527-6f3e-4185-aa2b-149c03f52127">
+		<aixm:StandardInstrumentArrival gml:id="uuid.0c208527-6f3e-4185-aa2b-149c03f52127">
 			<gml:identifier codeSpace="urn:uuid:">0c208527-6f3e-4185-aa2b-149c03f52127</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2551,7 +2551,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DepartureLeg gml:id="urn.uuid.ddbc225d-4f2d-4612-9cde-8671aba24f93">
+		<aixm:DepartureLeg gml:id="uuid.ddbc225d-4f2d-4612-9cde-8671aba24f93">
 			<gml:identifier codeSpace="urn:uuid:">ddbc225d-4f2d-4612-9cde-8671aba24f93</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2602,7 +2602,7 @@
 		</aixm:DepartureLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentDeparture gml:id="urn.uuid.50f3ef75-fe6c-4d4d-8ec2-110c8d4ce106">
+		<aixm:StandardInstrumentDeparture gml:id="uuid.50f3ef75-fe6c-4d4d-8ec2-110c8d4ce106">
 			<gml:identifier codeSpace="urn:uuid:">50f3ef75-fe6c-4d4d-8ec2-110c8d4ce106</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2663,7 +2663,7 @@
 		</aixm:StandardInstrumentDeparture>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.58df8a48-2818-47c2-a291-cd7d9a1242d3">
+		<aixm:ArrivalFeederLeg gml:id="uuid.58df8a48-2818-47c2-a291-cd7d9a1242d3">
 			<gml:identifier codeSpace="urn:uuid:">58df8a48-2818-47c2-a291-cd7d9a1242d3</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2719,7 +2719,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.edac6cc2-c577-4ba8-a21d-e476c21bd71e">
+		<aixm:ArrivalFeederLeg gml:id="uuid.edac6cc2-c577-4ba8-a21d-e476c21bd71e">
 			<gml:identifier codeSpace="urn:uuid:">edac6cc2-c577-4ba8-a21d-e476c21bd71e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2774,7 +2774,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.ef0524c1-a599-4ea3-a43f-5cde190c3271">
+		<aixm:ArrivalFeederLeg gml:id="uuid.ef0524c1-a599-4ea3-a43f-5cde190c3271">
 			<gml:identifier codeSpace="urn:uuid:">ef0524c1-a599-4ea3-a43f-5cde190c3271</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2829,7 +2829,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.17d08aa6-90b8-4cf4-9175-54e192a525bb">
+		<aixm:ArrivalFeederLeg gml:id="uuid.17d08aa6-90b8-4cf4-9175-54e192a525bb">
 			<gml:identifier codeSpace="urn:uuid:">17d08aa6-90b8-4cf4-9175-54e192a525bb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2885,7 +2885,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.2e083f81-e4b2-4c1b-8eaa-e00165357435">
+		<aixm:ArrivalFeederLeg gml:id="uuid.2e083f81-e4b2-4c1b-8eaa-e00165357435">
 			<gml:identifier codeSpace="urn:uuid:">2e083f81-e4b2-4c1b-8eaa-e00165357435</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2941,7 +2941,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.270bdaca-566e-4651-bf90-12625c23188e">
+		<aixm:ArrivalFeederLeg gml:id="uuid.270bdaca-566e-4651-bf90-12625c23188e">
 			<gml:identifier codeSpace="urn:uuid:">270bdaca-566e-4651-bf90-12625c23188e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -2997,7 +2997,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ArrivalFeederLeg gml:id="urn.uuid.cb2f3317-b447-4b9f-b325-246be839c3f9">
+		<aixm:ArrivalFeederLeg gml:id="uuid.cb2f3317-b447-4b9f-b325-246be839c3f9">
 			<gml:identifier codeSpace="urn:uuid:">cb2f3317-b447-4b9f-b325-246be839c3f9</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3049,7 +3049,7 @@
 		</aixm:ArrivalFeederLeg>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:InstrumentApproachProcedure gml:id="urn.uuid.c12b5014-444f-46da-8b25-c27d3c27f6cd">
+		<aixm:InstrumentApproachProcedure gml:id="uuid.c12b5014-444f-46da-8b25-c27d3c27f6cd">
 			<gml:identifier codeSpace="urn:uuid:">c12b5014-444f-46da-8b25-c27d3c27f6cd</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3139,7 +3139,7 @@
 		</aixm:InstrumentApproachProcedure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.f739ae66-baef-4bb6-b29a-7108eccf2d59">
+		<aixm:StandardInstrumentArrival gml:id="uuid.f739ae66-baef-4bb6-b29a-7108eccf2d59">
 			<gml:identifier codeSpace="urn:uuid:">f739ae66-baef-4bb6-b29a-7108eccf2d59</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3189,7 +3189,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardInstrumentArrival gml:id="urn.uuid.202df567-8449-4342-adf7-43bca6fc7b87">
+		<aixm:StandardInstrumentArrival gml:id="uuid.202df567-8449-4342-adf7-43bca6fc7b87">
 			<gml:identifier codeSpace="urn:uuid:">202df567-8449-4342-adf7-43bca6fc7b87</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3250,7 +3250,7 @@
 		</aixm:StandardInstrumentArrival>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Route gml:id="urn.uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c">
+		<aixm:Route gml:id="uuid.a14a8751-5428-46bc-a2d1-32ef84d37b5c">
 			<gml:identifier codeSpace="urn:uuid:">a14a8751-5428-46bc-a2d1-32ef84d37b5c</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3315,7 +3315,7 @@
 		</aixm:Route>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Runway gml:id="urn.uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8">
+		<aixm:Runway gml:id="uuid.9e51668f-bf8a-4f5b-ba6e-27087972b9b8">
 			<gml:identifier codeSpace="urn:uuid:">9e51668f-bf8a-4f5b-ba6e-27087972b9b8</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3376,7 +3376,7 @@
 		</aixm:Runway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirection gml:id="urn.uuid.c8455a6b-9319-4bb7-b797-08e644342d64">
+		<aixm:RunwayDirection gml:id="uuid.c8455a6b-9319-4bb7-b797-08e644342d64">
 			<gml:identifier codeSpace="urn:uuid:">c8455a6b-9319-4bb7-b797-08e644342d64</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3446,7 +3446,7 @@
 		</aixm:RunwayDirection>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirection gml:id="urn.uuid.b802d439-e9f3-49f9-96e1-0153b837e113">
+		<aixm:RunwayDirection gml:id="uuid.b802d439-e9f3-49f9-96e1-0153b837e113">
 			<gml:identifier codeSpace="urn:uuid:">b802d439-e9f3-49f9-96e1-0153b837e113</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3517,7 +3517,7 @@
 		</aixm:RunwayDirection>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.e23b1f2b-b2fc-432e-a378-199ccacabe24">
+		<aixm:Taxiway gml:id="uuid.e23b1f2b-b2fc-432e-a378-199ccacabe24">
 			<gml:identifier codeSpace="urn:uuid:">e23b1f2b-b2fc-432e-a378-199ccacabe24</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3576,7 +3576,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.f16bf89e-aae9-45f7-b630-035c4f81e297">
+		<aixm:Taxiway gml:id="uuid.f16bf89e-aae9-45f7-b630-035c4f81e297">
 			<gml:identifier codeSpace="urn:uuid:">f16bf89e-aae9-45f7-b630-035c4f81e297</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3635,7 +3635,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.b7a01065-6ac3-462a-a27d-dc219d980f9f">
+		<aixm:Taxiway gml:id="uuid.b7a01065-6ac3-462a-a27d-dc219d980f9f">
 			<gml:identifier codeSpace="urn:uuid:">b7a01065-6ac3-462a-a27d-dc219d980f9f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3694,7 +3694,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.0d466e77-319d-4371-87ef-dd02053d7a4d">
+		<aixm:Taxiway gml:id="uuid.0d466e77-319d-4371-87ef-dd02053d7a4d">
 			<gml:identifier codeSpace="urn:uuid:">0d466e77-319d-4371-87ef-dd02053d7a4d</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3753,7 +3753,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.9dcbb852-1c24-4ded-80a8-e7456f95ccc8">
+		<aixm:Taxiway gml:id="uuid.9dcbb852-1c24-4ded-80a8-e7456f95ccc8">
 			<gml:identifier codeSpace="urn:uuid:">9dcbb852-1c24-4ded-80a8-e7456f95ccc8</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3812,7 +3812,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.0cb4da5a-9c98-4484-92ed-edc336b8b437">
+		<aixm:Taxiway gml:id="uuid.0cb4da5a-9c98-4484-92ed-edc336b8b437">
 			<gml:identifier codeSpace="urn:uuid:">0cb4da5a-9c98-4484-92ed-edc336b8b437</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3871,7 +3871,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Taxiway gml:id="urn.uuid.3079c4fc-e4e3-42ec-a180-7e902cb88334">
+		<aixm:Taxiway gml:id="uuid.3079c4fc-e4e3-42ec-a180-7e902cb88334">
 			<gml:identifier codeSpace="urn:uuid:">3079c4fc-e4e3-42ec-a180-7e902cb88334</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3930,7 +3930,7 @@
 		</aixm:Taxiway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Apron gml:id="urn.uuid.0dac7a5f-4cb6-41a2-b0eb-dac1c555351c">
+		<aixm:Apron gml:id="uuid.0dac7a5f-4cb6-41a2-b0eb-dac1c555351c">
 			<gml:identifier codeSpace="urn:uuid:">0dac7a5f-4cb6-41a2-b0eb-dac1c555351c</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -3982,7 +3982,7 @@
 		</aixm:Apron>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AuthorityForAirspace gml:id="urn.uuid.92cacc21-86bb-4050-aae9-a54e1fccbff1">
+		<aixm:AuthorityForAirspace gml:id="uuid.92cacc21-86bb-4050-aae9-a54e1fccbff1">
 			<gml:identifier codeSpace="urn:uuid:">92cacc21-86bb-4050-aae9-a54e1fccbff1</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4033,7 +4033,7 @@
 		</aixm:AuthorityForAirspace>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Runway gml:id="urn.uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f">
+		<aixm:Runway gml:id="uuid.1e22a662-0601-43cc-a7ef-8402885a4f2f">
 			<gml:identifier codeSpace="urn:uuid:">1e22a662-0601-43cc-a7ef-8402885a4f2f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4094,7 +4094,7 @@
 		</aixm:Runway>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirection gml:id="urn.uuid.921966d2-bae8-4b4b-bc8a-8012faf991be">
+		<aixm:RunwayDirection gml:id="uuid.921966d2-bae8-4b4b-bc8a-8012faf991be">
 			<gml:identifier codeSpace="urn:uuid:">921966d2-bae8-4b4b-bc8a-8012faf991be</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4147,7 +4147,7 @@
 		</aixm:RunwayDirection>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirection gml:id="urn.uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5">
+		<aixm:RunwayDirection gml:id="uuid.b9fad726-bed6-4b3b-a92f-64706eaa9ed5">
 			<gml:identifier codeSpace="urn:uuid:">b9fad726-bed6-4b3b-a92f-64706eaa9ed5</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4200,7 +4200,7 @@
 		</aixm:RunwayDirection>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportHeliportCollocation gml:id="urn.uuid.89d085f7-4b68-4e07-9b52-5aabd5f410f3">
+		<aixm:AirportHeliportCollocation gml:id="uuid.89d085f7-4b68-4e07-9b52-5aabd5f410f3">
 			<gml:identifier codeSpace="urn:uuid:">89d085f7-4b68-4e07-9b52-5aabd5f410f3</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4253,7 +4253,7 @@
 		</aixm:AirportHeliportCollocation>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportClearanceService gml:id="urn.uuid.080c39f8-3e90-44de-bb57-e0abcc0e4b50">
+		<aixm:AirportClearanceService gml:id="uuid.080c39f8-3e90-44de-bb57-e0abcc0e4b50">
 			<gml:identifier codeSpace="urn:uuid:">080c39f8-3e90-44de-bb57-e0abcc0e4b50</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4313,7 +4313,7 @@
 		</aixm:AirportClearanceService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportSuppliesService gml:id="urn.uuid.89f1b92f-afd5-4ab1-808e-353446a20b6e">
+		<aixm:AirportSuppliesService gml:id="uuid.89f1b92f-afd5-4ab1-808e-353446a20b6e">
 			<gml:identifier codeSpace="urn:uuid:">89f1b92f-afd5-4ab1-808e-353446a20b6e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4427,7 +4427,7 @@
 		</aixm:AirportSuppliesService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportClearanceService gml:id="urn.uuid.53bf0a9c-c218-4928-ac31-201af9b80593">
+		<aixm:AirportClearanceService gml:id="uuid.53bf0a9c-c218-4928-ac31-201af9b80593">
 			<gml:identifier codeSpace="urn:uuid:">53bf0a9c-c218-4928-ac31-201af9b80593</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4487,7 +4487,7 @@
 		</aixm:AirportClearanceService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:PassengerService gml:id="urn.uuid.a9d815f8-aed5-482d-ac39-dbdf9d293d02">
+		<aixm:PassengerService gml:id="uuid.a9d815f8-aed5-482d-ac39-dbdf9d293d02">
 			<gml:identifier codeSpace="urn:uuid:">a9d815f8-aed5-482d-ac39-dbdf9d293d02</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4547,7 +4547,7 @@
 		</aixm:PassengerService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportClearanceService gml:id="urn.uuid.a28a2b0e-3d03-42f4-8b49-ce7b22f9a258">
+		<aixm:AirportClearanceService gml:id="uuid.a28a2b0e-3d03-42f4-8b49-ce7b22f9a258">
 			<gml:identifier codeSpace="urn:uuid:">a28a2b0e-3d03-42f4-8b49-ce7b22f9a258</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4608,7 +4608,7 @@
 		</aixm:AirportClearanceService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:FireFightingService gml:id="urn.uuid.46da4772-4a5e-4e64-ab60-04e803c068bc">
+		<aixm:FireFightingService gml:id="uuid.46da4772-4a5e-4e64-ab60-04e803c068bc">
 			<gml:identifier codeSpace="urn:uuid:">46da4772-4a5e-4e64-ab60-04e803c068bc</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4692,7 +4692,7 @@
 		</aixm:FireFightingService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Unit gml:id="urn.uuid.c1bbe653-e5b1-4bfe-b510-3ada3272305a">
+		<aixm:Unit gml:id="uuid.c1bbe653-e5b1-4bfe-b510-3ada3272305a">
 			<gml:identifier codeSpace="urn:uuid:">590950fd-4126-46b7-b245-5944d1362c17</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:UnitTimeSlice gml:id="uTDonlonRescueCoordinationCentreUnit">
@@ -4743,7 +4743,7 @@
 		</aixm:Unit>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Unit gml:id="urn.uuid.8323cd6d-f788-4b78-8f93-2a09a70965fb">
+		<aixm:Unit gml:id="uuid.8323cd6d-f788-4b78-8f93-2a09a70965fb">
 			<gml:identifier codeSpace="urn:uuid:">8323cd6d-f788-4b78-8f93-2a09a70965fb</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:UnitTimeSlice gml:id="uTDonlonAkvinSARUnit">
@@ -4782,7 +4782,7 @@
 		</aixm:Unit>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:SearchRescueService gml:id="urn.uuid.9d169b60-b5fa-4bf4-abf3-14fd9e67a2b7">
+		<aixm:SearchRescueService gml:id="uuid.9d169b60-b5fa-4bf4-abf3-14fd9e67a2b7">
 			<gml:identifier codeSpace="urn:uuid:">9d169b60-b5fa-4bf4-abf3-14fd9e67a2b7</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:SearchRescueServiceTimeSlice gml:id="srstDonlonAkvinSARService">
@@ -4810,7 +4810,7 @@
 		</aixm:SearchRescueService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:SearchRescueService gml:id="urn.uuid.d54e1d65-fefe-4776-891c-2b0e9d74c020">
+		<aixm:SearchRescueService gml:id="uuid.d54e1d65-fefe-4776-891c-2b0e9d74c020">
 			<gml:identifier codeSpace="urn:uuid:">d54e1d65-fefe-4776-891c-2b0e9d74c020</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:SearchRescueServiceTimeSlice gml:id="srstDonlonRCCService">
@@ -4838,7 +4838,7 @@
 		</aixm:SearchRescueService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:GroundTrafficControlService gml:id="urn.uuid.306eff59-8985-488a-ad5b-24a8c13dc17e">
+		<aixm:GroundTrafficControlService gml:id="uuid.306eff59-8985-488a-ad5b-24a8c13dc17e">
 			<gml:identifier codeSpace="urn:uuid:">306eff59-8985-488a-ad5b-24a8c13dc17e</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:GroundTrafficControlServiceTimeSlice gml:id="gtcsDonlonGTMService">
@@ -4866,7 +4866,7 @@
 		</aixm:GroundTrafficControlService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirTrafficManagementService gml:id="urn.uuid.6c7b0abc-0a29-4a53-a5b9-9f3791119cf5">
+		<aixm:AirTrafficManagementService gml:id="uuid.6c7b0abc-0a29-4a53-a5b9-9f3791119cf5">
 			<gml:identifier codeSpace="urn:uuid:">6c7b0abc-0a29-4a53-a5b9-9f3791119cf5</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:AirTrafficManagementServiceTimeSlice gml:id="aTDonlonATMService">
@@ -4893,7 +4893,7 @@
 		</aixm:AirTrafficManagementService>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AngleIndication gml:id="urn.uuid.590950fd-4126-46b7-b245-5944d1362c17">
+		<aixm:AngleIndication gml:id="uuid.590950fd-4126-46b7-b245-5944d1362c17">
 			<gml:identifier codeSpace="urn:uuid:">590950fd-4126-46b7-b245-5944d1362c17</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -4945,7 +4945,7 @@
 		</aixm:AngleIndication>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ApproachLightingSystem gml:id="urn.uuid.7d6ef61e-83b4-4902-a79e-3248a5bd2935">
+		<aixm:ApproachLightingSystem gml:id="uuid.7d6ef61e-83b4-4902-a79e-3248a5bd2935">
 			<gml:identifier codeSpace="urn:uuid:">7d6ef61e-83b4-4902-a79e-3248a5bd2935</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5006,7 +5006,7 @@
 		</aixm:ApproachLightingSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ApproachLightingSystem gml:id="urn.uuid.60b87049-5ff7-4d23-917d-88938128e2d3">
+		<aixm:ApproachLightingSystem gml:id="uuid.60b87049-5ff7-4d23-917d-88938128e2d3">
 			<gml:identifier codeSpace="urn:uuid:">60b87049-5ff7-4d23-917d-88938128e2d3</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5067,7 +5067,7 @@
 		</aixm:ApproachLightingSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.e9350d29-9b29-450e-80af-a1666665ddc3">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.e9350d29-9b29-450e-80af-a1666665ddc3">
 			<gml:identifier codeSpace="urn:uuid:">e9350d29-9b29-450e-80af-a1666665ddc3</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5128,7 +5128,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.2e7650ef-e19f-47ee-b6f8-2866f536f5d2">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.2e7650ef-e19f-47ee-b6f8-2866f536f5d2">
 			<gml:identifier codeSpace="urn:uuid:">2e7650ef-e19f-47ee-b6f8-2866f536f5d2</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5189,7 +5189,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ApproachLightingSystem gml:id="urn.uuid.374cc5b1-ecb9-41c6-bb2e-175e4a38d475">
+		<aixm:ApproachLightingSystem gml:id="uuid.374cc5b1-ecb9-41c6-bb2e-175e4a38d475">
 			<gml:identifier codeSpace="urn:uuid:">374cc5b1-ecb9-41c6-bb2e-175e4a38d475</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5242,7 +5242,7 @@
 		</aixm:ApproachLightingSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ApproachLightingSystem gml:id="urn.uuid.05e2e8d4-93d6-479e-887c-a92bc9485890">
+		<aixm:ApproachLightingSystem gml:id="uuid.05e2e8d4-93d6-479e-887c-a92bc9485890">
 			<gml:identifier codeSpace="urn:uuid:">05e2e8d4-93d6-479e-887c-a92bc9485890</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5295,7 +5295,7 @@
 		</aixm:ApproachLightingSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ApproachLightingSystem gml:id="urn.uuid.46e02ef7-9a57-4951-b26e-c3fb1dcaefbc">
+		<aixm:ApproachLightingSystem gml:id="uuid.46e02ef7-9a57-4951-b26e-c3fb1dcaefbc">
 			<gml:identifier codeSpace="urn:uuid:">46e02ef7-9a57-4951-b26e-c3fb1dcaefbc</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5346,7 +5346,7 @@
 		</aixm:ApproachLightingSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:ApproachLightingSystem gml:id="urn.uuid.16630bd9-31d6-498a-be44-5cdccb572e94">
+		<aixm:ApproachLightingSystem gml:id="uuid.16630bd9-31d6-498a-be44-5cdccb572e94">
 			<gml:identifier codeSpace="urn:uuid:">16630bd9-31d6-498a-be44-5cdccb572e94</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5397,7 +5397,7 @@
 		</aixm:ApproachLightingSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.f7e4b6b4-5ec1-48ac-a328-6dd296a1b244">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.f7e4b6b4-5ec1-48ac-a328-6dd296a1b244">
 			<gml:identifier codeSpace="urn:uuid:">f7e4b6b4-5ec1-48ac-a328-6dd296a1b244</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5450,7 +5450,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.2cde2811-0b8e-486d-99f5-231d5d9f8df6">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.2cde2811-0b8e-486d-99f5-231d5d9f8df6">
 			<gml:identifier codeSpace="urn:uuid:">2cde2811-0b8e-486d-99f5-231d5d9f8df6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5503,7 +5503,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.d1322326-c872-4882-b2cb-ef97ca26977e">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.d1322326-c872-4882-b2cb-ef97ca26977e">
 			<gml:identifier codeSpace="urn:uuid:">d1322326-c872-4882-b2cb-ef97ca26977e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5556,7 +5556,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.980391ed-a43e-401c-a0f1-c0e91c55f6fb">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.980391ed-a43e-401c-a0f1-c0e91c55f6fb">
 			<gml:identifier codeSpace="urn:uuid:">980391ed-a43e-401c-a0f1-c0e91c55f6fb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5609,7 +5609,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.859fb5fd-3241-434e-92ad-dd45152a1902">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.859fb5fd-3241-434e-92ad-dd45152a1902">
 			<gml:identifier codeSpace="urn:uuid:">859fb5fd-3241-434e-92ad-dd45152a1902</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5662,7 +5662,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.ecac1a3f-56a4-49b5-960e-010e62fdf6cb">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.ecac1a3f-56a4-49b5-960e-010e62fdf6cb">
 			<gml:identifier codeSpace="urn:uuid:">ecac1a3f-56a4-49b5-960e-010e62fdf6cb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5715,7 +5715,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.ef878bde-177e-44f3-b1ee-51a4b1c4b95b">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.ef878bde-177e-44f3-b1ee-51a4b1c4b95b">
 			<gml:identifier codeSpace="urn:uuid:">ef878bde-177e-44f3-b1ee-51a4b1c4b95b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5768,7 +5768,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.a15a6a50-8fa5-4190-9306-1901efad0d18">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.a15a6a50-8fa5-4190-9306-1901efad0d18">
 			<gml:identifier codeSpace="urn:uuid:">a15a6a50-8fa5-4190-9306-1901efad0d18</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5821,7 +5821,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.3759baea-683f-4f2f-a732-c7e57adb194a">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.3759baea-683f-4f2f-a732-c7e57adb194a">
 			<gml:identifier codeSpace="urn:uuid:">3759baea-683f-4f2f-a732-c7e57adb194a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5875,7 +5875,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.3d619d5f-db7b-490f-8e31-08ac1a3bf2c6">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.3d619d5f-db7b-490f-8e31-08ac1a3bf2c6">
 			<gml:identifier codeSpace="urn:uuid:">3d619d5f-db7b-490f-8e31-08ac1a3bf2c6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5945,7 +5945,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.10ef9ced-a722-43d2-8be9-441b8a990181">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.10ef9ced-a722-43d2-8be9-441b8a990181">
 			<gml:identifier codeSpace="urn:uuid:">10ef9ced-a722-43d2-8be9-441b8a990181</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -5997,7 +5997,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.0373b89a-697f-42c9-bda5-c536c7aed15a">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.0373b89a-697f-42c9-bda5-c536c7aed15a">
 			<gml:identifier codeSpace="urn:uuid:">0373b89a-697f-42c9-bda5-c536c7aed15a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6049,7 +6049,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.5677508e-6e87-437b-85ed-d21e1325f117">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.5677508e-6e87-437b-85ed-d21e1325f117">
 			<gml:identifier codeSpace="urn:uuid:">5677508e-6e87-437b-85ed-d21e1325f117</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6102,7 +6102,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.81604812-820c-4006-be6e-3662c8be416d">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.81604812-820c-4006-be6e-3662c8be416d">
 			<gml:identifier codeSpace="urn:uuid:">81604812-820c-4006-be6e-3662c8be416d</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6155,7 +6155,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.02573093-d850-4bd9-9e82-aacd57bdd91b">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.02573093-d850-4bd9-9e82-aacd57bdd91b">
 			<gml:identifier codeSpace="urn:uuid:">02573093-d850-4bd9-9e82-aacd57bdd91b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6208,7 +6208,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.8612257e-cedb-4d5c-a258-34f854429e52">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.8612257e-cedb-4d5c-a258-34f854429e52">
 			<gml:identifier codeSpace="urn:uuid:">8612257e-cedb-4d5c-a258-34f854429e52</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6261,7 +6261,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayDirectionLightSystem gml:id="urn.uuid.d532589a-7108-4d48-b3c9-f37abd2590c9">
+		<aixm:RunwayDirectionLightSystem gml:id="uuid.d532589a-7108-4d48-b3c9-f37abd2590c9">
 			<gml:identifier codeSpace="urn:uuid:">d532589a-7108-4d48-b3c9-f37abd2590c9</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6313,7 +6313,7 @@
 		</aixm:RunwayDirectionLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportHeliport gml:id="urn.uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea">
+		<aixm:AirportHeliport gml:id="uuid.dd062d88-3e64-4a5d-bebd-89476db9ebea">
 			<gml:identifier codeSpace="urn:uuid:">dd062d88-3e64-4a5d-bebd-89476db9ebea</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6381,7 +6381,7 @@
 		</aixm:AirportHeliport>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:AirportHeliport gml:id="urn.uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64">
+		<aixm:AirportHeliport gml:id="uuid.1b54b2d6-a5ff-4e57-94c2-f4047a381c64">
 			<gml:identifier codeSpace="urn:uuid:">1b54b2d6-a5ff-4e57-94c2-f4047a381c64</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6622,7 +6622,7 @@
 		</aixm:AirportHeliport>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:TouchDownLiftOffLightSystem gml:id="urn.uuid.238b5482-8fa0-4169-a745-686c1ca44421">
+		<aixm:TouchDownLiftOffLightSystem gml:id="uuid.238b5482-8fa0-4169-a745-686c1ca44421">
 			<gml:identifier codeSpace="urn:uuid:">238b5482-8fa0-4169-a745-686c1ca44421</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:TouchDownLiftOffLightSystemTimeSlice gml:id="tdlolsDonlonTDLOLS1">
@@ -6678,7 +6678,7 @@
 		</aixm:TouchDownLiftOffLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:TaxiwayLightSystem gml:id="urn.uuid.68655945-0f02-47a9-b300-87420ecff373">
+		<aixm:TaxiwayLightSystem gml:id="uuid.68655945-0f02-47a9-b300-87420ecff373">
 			<gml:identifier codeSpace="urn:uuid:">68655945-0f02-47a9-b300-87420ecff373</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:TaxiwayLightSystemTimeSlice gml:id="tlstDonlonTXLS1">
@@ -6727,7 +6727,7 @@
 		</aixm:TaxiwayLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:TaxiwayLightSystem gml:id="urn.uuid.484494d4-a3e9-4b60-8306-ebfaa78bf7d8">
+		<aixm:TaxiwayLightSystem gml:id="uuid.484494d4-a3e9-4b60-8306-ebfaa78bf7d8">
 			<gml:identifier codeSpace="urn:uuid:">484494d4-a3e9-4b60-8306-ebfaa78bf7d8</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:TaxiwayLightSystemTimeSlice gml:id="tlstDonlonTXLS2">
@@ -6755,7 +6755,7 @@
 		</aixm:TaxiwayLightSystem>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.08a1bbd5-ea70-4fe3-836a-ea9686349495">
+		<aixm:Navaid gml:id="uuid.08a1bbd5-ea70-4fe3-836a-ea9686349495">
 			<gml:identifier codeSpace="urn:uuid:">08a1bbd5-ea70-4fe3-836a-ea9686349495</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6843,7 +6843,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DME gml:id="urn.uuid.7692166e-60e6-467d-b5f0-c728aeae85d6">
+		<aixm:DME gml:id="uuid.7692166e-60e6-467d-b5f0-c728aeae85d6">
 			<gml:identifier codeSpace="urn:uuid:">7692166e-60e6-467d-b5f0-c728aeae85d6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -6940,7 +6940,7 @@
 		</aixm:DME>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.0a45a38f-0f96-4ace-b09e-310ac0415693">
+		<aixm:VOR gml:id="uuid.0a45a38f-0f96-4ace-b09e-310ac0415693">
 			<gml:identifier codeSpace="urn:uuid:">0a45a38f-0f96-4ace-b09e-310ac0415693</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7037,7 +7037,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.51829538-2d2a-4d01-a4bf-87c045d247a8">
+		<aixm:Navaid gml:id="uuid.51829538-2d2a-4d01-a4bf-87c045d247a8">
 			<gml:identifier codeSpace="urn:uuid:">51829538-2d2a-4d01-a4bf-87c045d247a8</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7108,7 +7108,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DME gml:id="urn.uuid.8979e959-492b-4b30-83d2-060f362cf5c4">
+		<aixm:DME gml:id="uuid.8979e959-492b-4b30-83d2-060f362cf5c4">
 			<gml:identifier codeSpace="urn:uuid:">8979e959-492b-4b30-83d2-060f362cf5c4</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7172,7 +7172,7 @@
 		</aixm:DME>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.ea10d605-5497-42ee-9d85-a0e5f80f9b26">
+		<aixm:VOR gml:id="uuid.ea10d605-5497-42ee-9d85-a0e5f80f9b26">
 			<gml:identifier codeSpace="urn:uuid:">ea10d605-5497-42ee-9d85-a0e5f80f9b26</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7239,7 +7239,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.a9c3240c-e2c9-4f9a-a573-9da452cfe84f">
+		<aixm:Navaid gml:id="uuid.a9c3240c-e2c9-4f9a-a573-9da452cfe84f">
 			<gml:identifier codeSpace="urn:uuid:">a9c3240c-e2c9-4f9a-a573-9da452cfe84f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7304,7 +7304,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Localizer gml:id="urn.uuid.577cb727-cef0-487b-bb5f-10882677a989">
+		<aixm:Localizer gml:id="uuid.577cb727-cef0-487b-bb5f-10882677a989">
 			<gml:identifier codeSpace="urn:uuid:">577cb727-cef0-487b-bb5f-10882677a989</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7368,7 +7368,7 @@
 		</aixm:Localizer>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.92d527c0-ae96-4695-8d0a-9b43edbc4fe6">
+		<aixm:Navaid gml:id="uuid.92d527c0-ae96-4695-8d0a-9b43edbc4fe6">
 			<gml:identifier codeSpace="urn:uuid:">92d527c0-ae96-4695-8d0a-9b43edbc4fe6</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7433,7 +7433,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.b5d16d67-8e4f-4ec8-9572-003e3e58424a">
+		<aixm:VOR gml:id="uuid.b5d16d67-8e4f-4ec8-9572-003e3e58424a">
 			<gml:identifier codeSpace="urn:uuid:">b5d16d67-8e4f-4ec8-9572-003e3e58424a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7500,7 +7500,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3">
+		<aixm:Navaid gml:id="uuid.cc271a99-e28c-49e6-86ac-53078e6e59e3">
 			<gml:identifier codeSpace="urn:uuid:">cc271a99-e28c-49e6-86ac-53078e6e59e3</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7565,7 +7565,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.8506a23a-4a97-42fe-bddd-d23b00c2f61c">
+		<aixm:VOR gml:id="uuid.8506a23a-4a97-42fe-bddd-d23b00c2f61c">
 			<gml:identifier codeSpace="urn:uuid:">8506a23a-4a97-42fe-bddd-d23b00c2f61c</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7630,7 +7630,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f">
+		<aixm:Navaid gml:id="uuid.3afcdd1d-1ca4-4667-95af-1725ca17a70f">
 			<gml:identifier codeSpace="urn:uuid:">3afcdd1d-1ca4-4667-95af-1725ca17a70f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7695,7 +7695,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.9cd3112a-2aaf-48c3-a01a-59699b4af6e2">
+		<aixm:VOR gml:id="uuid.9cd3112a-2aaf-48c3-a01a-59699b4af6e2">
 			<gml:identifier codeSpace="urn:uuid:">9cd3112a-2aaf-48c3-a01a-59699b4af6e2</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7760,7 +7760,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.882e849c-682d-4e95-ac19-a7808d55cdbb">
+		<aixm:Navaid gml:id="uuid.882e849c-682d-4e95-ac19-a7808d55cdbb">
 			<gml:identifier codeSpace="urn:uuid:">882e849c-682d-4e95-ac19-a7808d55cdbb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7825,7 +7825,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.fbe82608-bece-4db7-a13b-961963e1b167">
+		<aixm:VOR gml:id="uuid.fbe82608-bece-4db7-a13b-961963e1b167">
 			<gml:identifier codeSpace="urn:uuid:">fbe82608-bece-4db7-a13b-961963e1b167</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7890,7 +7890,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.6237f900-1320-4f01-95ec-8378ebc26e9f">
+		<aixm:Navaid gml:id="uuid.6237f900-1320-4f01-95ec-8378ebc26e9f">
 			<gml:identifier codeSpace="urn:uuid:">6237f900-1320-4f01-95ec-8378ebc26e9f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -7955,7 +7955,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VOR gml:id="urn.uuid.13fe226f-271c-4d36-9f42-190563a963de">
+		<aixm:VOR gml:id="uuid.13fe226f-271c-4d36-9f42-190563a963de">
 			<gml:identifier codeSpace="urn:uuid:">13fe226f-271c-4d36-9f42-190563a963de</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8022,7 +8022,7 @@
 		</aixm:VOR>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.4316fc95-f2f7-4789-a249-3afc0b5cc27a">
+		<aixm:Navaid gml:id="uuid.4316fc95-f2f7-4789-a249-3afc0b5cc27a">
 			<gml:identifier codeSpace="urn:uuid:">4316fc95-f2f7-4789-a249-3afc0b5cc27a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8087,7 +8087,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:TACAN gml:id="urn.uuid.3e33bd78-0b9c-4d27-9060-901fcb02fa47">
+		<aixm:TACAN gml:id="uuid.3e33bd78-0b9c-4d27-9060-901fcb02fa47">
 			<gml:identifier codeSpace="urn:uuid:">3e33bd78-0b9c-4d27-9060-901fcb02fa47</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:TACANTimeSlice gml:id="TACANOSTO">
@@ -8126,7 +8126,7 @@
 		</aixm:TACAN>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.0f276f15-a407-4ff5-9e51-8522493de27b">
+		<aixm:Navaid gml:id="uuid.0f276f15-a407-4ff5-9e51-8522493de27b">
 			<gml:identifier codeSpace="urn:uuid:">0f276f15-a407-4ff5-9e51-8522493de27b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8191,7 +8191,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:MarkerBeacon gml:id="urn.uuid.268cd014-b4e4-41fa-8d90-422c3dbb96b4">
+		<aixm:MarkerBeacon gml:id="uuid.268cd014-b4e4-41fa-8d90-422c3dbb96b4">
 			<gml:identifier codeSpace="urn:uuid:">268cd014-b4e4-41fa-8d90-422c3dbb96b4</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:MarkerBeaconTimeSlice gml:id="mbTSOM27">
@@ -8222,7 +8222,7 @@
 		</aixm:MarkerBeacon>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Airspace gml:id="urn.uuid.4fd9f4be-8c65-43f6-b083-3ced9a4b2a7f">
+		<aixm:Airspace gml:id="uuid.4fd9f4be-8c65-43f6-b083-3ced9a4b2a7f">
 			<gml:identifier codeSpace="urn:uuid:">4fd9f4be-8c65-43f6-b083-3ced9a4b2a7f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8332,7 +8332,7 @@
 		</aixm:Airspace>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Airspace gml:id="urn.uuid.f4d5e4d4-d84a-481f-b9e3-b359e42c0dff">
+		<aixm:Airspace gml:id="uuid.f4d5e4d4-d84a-481f-b9e3-b359e42c0dff">
 			<gml:identifier codeSpace="urn:uuid:">f4d5e4d4-d84a-481f-b9e3-b359e42c0dff</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8416,7 +8416,7 @@
 		</aixm:Airspace>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RouteSegment gml:id="urn.uuid.cc9c7cc4-e000-4741-854d-b7d93973e099">
+		<aixm:RouteSegment gml:id="uuid.cc9c7cc4-e000-4741-854d-b7d93973e099">
 			<gml:identifier codeSpace="urn:uuid:">cc9c7cc4-e000-4741-854d-b7d93973e099</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8495,7 +8495,7 @@
 		</aixm:RouteSegment>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RouteSegment gml:id="urn.uuid.bc430a08-bb5d-48dd-8ef0-85ff50dcfb9d">
+		<aixm:RouteSegment gml:id="uuid.bc430a08-bb5d-48dd-8ef0-85ff50dcfb9d">
 			<gml:identifier codeSpace="urn:uuid:">bc430a08-bb5d-48dd-8ef0-85ff50dcfb9d</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8574,7 +8574,7 @@
 		</aixm:RouteSegment>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RouteSegment gml:id="urn.uuid.bfca2bc3-5562-4ec4-b199-f0377c93c04e">
+		<aixm:RouteSegment gml:id="uuid.bfca2bc3-5562-4ec4-b199-f0377c93c04e">
 			<gml:identifier codeSpace="urn:uuid:">bfca2bc3-5562-4ec4-b199-f0377c93c04e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8653,7 +8653,7 @@
 		</aixm:RouteSegment>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RouteSegment gml:id="urn.uuid.122f61c4-2704-494f-8ad7-45e2f8adc603">
+		<aixm:RouteSegment gml:id="uuid.122f61c4-2704-494f-8ad7-45e2f8adc603">
 			<gml:identifier codeSpace="urn:uuid:">122f61c4-2704-494f-8ad7-45e2f8adc603</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8732,7 +8732,7 @@
 		</aixm:RouteSegment>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.81e47548-9f00-4970-b641-8ff8f99098a5">
+		<aixm:DesignatedPoint gml:id="uuid.81e47548-9f00-4970-b641-8ff8f99098a5">
 			<gml:identifier codeSpace="urn:uuid:">81e47548-9f00-4970-b641-8ff8f99098a5</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8790,7 +8790,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.9fcb360c-6933-46d6-9c85-a337202efe70">
+		<aixm:DesignatedPoint gml:id="uuid.9fcb360c-6933-46d6-9c85-a337202efe70">
 			<gml:identifier codeSpace="urn:uuid:">9fcb360c-6933-46d6-9c85-a337202efe70</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8848,7 +8848,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.363838d8-edcc-4085-a608-96b45ceef14e">
+		<aixm:DesignatedPoint gml:id="uuid.363838d8-edcc-4085-a608-96b45ceef14e">
 			<gml:identifier codeSpace="urn:uuid:">363838d8-edcc-4085-a608-96b45ceef14e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8906,7 +8906,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.c3bf8394-4d5f-4b42-ba87-67563df97555">
+		<aixm:DesignatedPoint gml:id="uuid.c3bf8394-4d5f-4b42-ba87-67563df97555">
 			<gml:identifier codeSpace="urn:uuid:">c3bf8394-4d5f-4b42-ba87-67563df97555</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -8964,7 +8964,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.26009f76-2e05-418d-a631-bec02f84ac5b">
+		<aixm:DesignatedPoint gml:id="uuid.26009f76-2e05-418d-a631-bec02f84ac5b">
 			<gml:identifier codeSpace="urn:uuid:">26009f76-2e05-418d-a631-bec02f84ac5b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9022,7 +9022,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.7f443c8b-d407-4c41-aa9f-1d56a688a432">
+		<aixm:DesignatedPoint gml:id="uuid.7f443c8b-d407-4c41-aa9f-1d56a688a432">
 			<gml:identifier codeSpace="urn:uuid:">7f443c8b-d407-4c41-aa9f-1d56a688a432</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9080,7 +9080,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.bb9dcfb3-f45a-40f3-8852-fca1349801fc">
+		<aixm:DesignatedPoint gml:id="uuid.bb9dcfb3-f45a-40f3-8852-fca1349801fc">
 			<gml:identifier codeSpace="urn:uuid:">bb9dcfb3-f45a-40f3-8852-fca1349801fc</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9138,7 +9138,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.fe3bbf89-9a15-49e4-b987-f7225b7484bb">
+		<aixm:DesignatedPoint gml:id="uuid.fe3bbf89-9a15-49e4-b987-f7225b7484bb">
 			<gml:identifier codeSpace="urn:uuid:">fe3bbf89-9a15-49e4-b987-f7225b7484bb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9196,7 +9196,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.95638d5c-367f-4a6d-829c-f1e58245961f">
+		<aixm:DesignatedPoint gml:id="uuid.95638d5c-367f-4a6d-829c-f1e58245961f">
 			<gml:identifier codeSpace="urn:uuid:">95638d5c-367f-4a6d-829c-f1e58245961f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9254,7 +9254,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:DesignatedPoint gml:id="urn.uuid.b35409d8-f236-4303-a12d-795e9e9c8759">
+		<aixm:DesignatedPoint gml:id="uuid.b35409d8-f236-4303-a12d-795e9e9c8759">
 			<gml:identifier codeSpace="urn:uuid:">b35409d8-f236-4303-a12d-795e9e9c8759</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9312,7 +9312,7 @@
 		</aixm:DesignatedPoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:GeoBorder gml:id="urn.uuid.6118ba76-0d46-4ba7-af63-17f29755e890">
+		<aixm:GeoBorder gml:id="uuid.6118ba76-0d46-4ba7-af63-17f29755e890">
 			<gml:identifier codeSpace="urn:uuid:">6118ba76-0d46-4ba7-af63-17f29755e890</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9373,7 +9373,7 @@
 		</aixm:GeoBorder>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayCentrelinePoint gml:id="urn.uuid.ebccbb64-c1b3-4b27-8e5a-a32d2763208a">
+		<aixm:RunwayCentrelinePoint gml:id="uuid.ebccbb64-c1b3-4b27-8e5a-a32d2763208a">
 			<gml:identifier codeSpace="urn:uuid:">ebccbb64-c1b3-4b27-8e5a-a32d2763208a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9429,7 +9429,7 @@
 		</aixm:RunwayCentrelinePoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayCentrelinePoint gml:id="urn.uuid.e9240179-b707-4133-b49f-39725663e736">
+		<aixm:RunwayCentrelinePoint gml:id="uuid.e9240179-b707-4133-b49f-39725663e736">
 			<gml:identifier codeSpace="urn:uuid:">e9240179-b707-4133-b49f-39725663e736</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9485,7 +9485,7 @@
 		</aixm:RunwayCentrelinePoint>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Navaid gml:id="urn.uuid.fc5b84ee-08bc-4d04-a358-f4cca8609a8f">
+		<aixm:Navaid gml:id="uuid.fc5b84ee-08bc-4d04-a358-f4cca8609a8f">
 			<gml:identifier codeSpace="urn:uuid:">fc5b84ee-08bc-4d04-a358-f4cca8609a8f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9586,7 +9586,7 @@
 		</aixm:Navaid>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Localizer gml:id="urn.uuid.2ad9861c-7624-481b-b344-c1f601e51939">
+		<aixm:Localizer gml:id="uuid.2ad9861c-7624-481b-b344-c1f601e51939">
 			<gml:identifier codeSpace="urn:uuid:">2ad9861c-7624-481b-b344-c1f601e51939</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9662,7 +9662,7 @@
 		</aixm:Localizer>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:Glidepath gml:id="urn.uuid.c9bfcce2-76ad-46b7-a1e7-2c246893db56">
+		<aixm:Glidepath gml:id="uuid.c9bfcce2-76ad-46b7-a1e7-2c246893db56">
 			<gml:identifier codeSpace="urn:uuid:">c9bfcce2-76ad-46b7-a1e7-2c246893db56</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9736,7 +9736,7 @@
 		</aixm:Glidepath>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:HoldingPattern gml:id="urn.uuid.f37a6ecd-4765-48ed-88f1-6a42643fc13a">
+		<aixm:HoldingPattern gml:id="uuid.f37a6ecd-4765-48ed-88f1-6a42643fc13a">
 			<gml:identifier codeSpace="urn:uuid:">f37a6ecd-4765-48ed-88f1-6a42643fc13a</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9807,7 +9807,7 @@
 		</aixm:HoldingPattern>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:HoldingPattern gml:id="urn.uuid.5ec34a95-b680-4f4b-a2d7-99f2f14b4560">
+		<aixm:HoldingPattern gml:id="uuid.5ec34a95-b680-4f4b-a2d7-99f2f14b4560">
 			<gml:identifier codeSpace="urn:uuid:">5ec34a95-b680-4f4b-a2d7-99f2f14b4560</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9878,7 +9878,7 @@
 		</aixm:HoldingPattern>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:HoldingPattern gml:id="urn.uuid.39f50cab-cf8a-43c7-b6c4-1705c3886ae7">
+		<aixm:HoldingPattern gml:id="uuid.39f50cab-cf8a-43c7-b6c4-1705c3886ae7">
 			<gml:identifier codeSpace="urn:uuid:">39f50cab-cf8a-43c7-b6c4-1705c3886ae7</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -9949,7 +9949,7 @@
 		</aixm:HoldingPattern>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:HoldingPattern gml:id="urn.uuid.39845412-b7b9-4932-93e0-807c92b7cbb5">
+		<aixm:HoldingPattern gml:id="uuid.39845412-b7b9-4932-93e0-807c92b7cbb5">
 			<gml:identifier codeSpace="urn:uuid:">39845412-b7b9-4932-93e0-807c92b7cbb5</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10020,7 +10020,7 @@
 		</aixm:HoldingPattern>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.91d8e5e6-74b3-4652-9138-52018a34196e">
+		<aixm:VerticalStructure gml:id="uuid.91d8e5e6-74b3-4652-9138-52018a34196e">
 			<gml:identifier codeSpace="urn:uuid:">91d8e5e6-74b3-4652-9138-52018a34196e</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10082,7 +10082,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.5f68d835-828c-4ccd-91b7-791058d9dd4d">
+		<aixm:VerticalStructure gml:id="uuid.5f68d835-828c-4ccd-91b7-791058d9dd4d">
 			<gml:identifier codeSpace="urn:uuid:">5f68d835-828c-4ccd-91b7-791058d9dd4d</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10144,7 +10144,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.95db0e0f-64d9-4dc0-9a6a-60955f4c489b">
+		<aixm:VerticalStructure gml:id="uuid.95db0e0f-64d9-4dc0-9a6a-60955f4c489b">
 			<gml:identifier codeSpace="urn:uuid:">95db0e0f-64d9-4dc0-9a6a-60955f4c489b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10206,7 +10206,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.aeb69042-44b3-4063-ba80-f862f2cdc0d7">
+		<aixm:VerticalStructure gml:id="uuid.aeb69042-44b3-4063-ba80-f862f2cdc0d7">
 			<gml:identifier codeSpace="urn:uuid:">aeb69042-44b3-4063-ba80-f862f2cdc0d7</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10268,7 +10268,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.c0406eae-7f49-4bbe-94a2-747b297c8022">
+		<aixm:VerticalStructure gml:id="uuid.c0406eae-7f49-4bbe-94a2-747b297c8022">
 			<gml:identifier codeSpace="urn:uuid:">c0406eae-7f49-4bbe-94a2-747b297c8022</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10330,7 +10330,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.1568f948-fe6d-43d8-81fd-12e37500d0b2">
+		<aixm:VerticalStructure gml:id="uuid.1568f948-fe6d-43d8-81fd-12e37500d0b2">
 			<gml:identifier codeSpace="urn:uuid:">1568f948-fe6d-43d8-81fd-12e37500d0b2</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10392,7 +10392,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.c12f97f8-2c91-44e8-9770-ec1966311f18">
+		<aixm:VerticalStructure gml:id="uuid.c12f97f8-2c91-44e8-9770-ec1966311f18">
 			<gml:identifier codeSpace="urn:uuid:">c12f97f8-2c91-44e8-9770-ec1966311f18</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10454,7 +10454,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:VerticalStructure gml:id="urn.uuid.17778204-955f-44f2-96ad-cde7d2c347a9">
+		<aixm:VerticalStructure gml:id="uuid.17778204-955f-44f2-96ad-cde7d2c347a9">
 			<gml:identifier codeSpace="urn:uuid:">17778204-955f-44f2-96ad-cde7d2c347a9</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10516,7 +10516,7 @@
 		</aixm:VerticalStructure>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:TouchDownLiftOff gml:id="urn.uuid.3d9a60b5-6d7f-471d-9744-b767df4a8575">
+		<aixm:TouchDownLiftOff gml:id="uuid.3d9a60b5-6d7f-471d-9744-b767df4a8575">
 			<gml:identifier codeSpace="urn:uuid:">3d9a60b5-6d7f-471d-9744-b767df4a8575</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10603,7 +10603,7 @@
 		</aixm:TouchDownLiftOff>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:TouchDownLiftOffSafeArea gml:id="urn.uuid.69677242-f98d-40d0-8c04-cf396497270f">
+		<aixm:TouchDownLiftOffSafeArea gml:id="uuid.69677242-f98d-40d0-8c04-cf396497270f">
 			<gml:identifier codeSpace="urn:uuid:">69677242-f98d-40d0-8c04-cf396497270f</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10682,7 +10682,7 @@
 		</aixm:TouchDownLiftOffSafeArea>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:GuidanceLine gml:id="urn.uuid.66ec0e97-5d40-4ca8-bf42-35f8e93723bb">
+		<aixm:GuidanceLine gml:id="uuid.66ec0e97-5d40-4ca8-bf42-35f8e93723bb">
 			<gml:identifier codeSpace="urn:uuid:">66ec0e97-5d40-4ca8-bf42-35f8e93723bb</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10743,7 +10743,7 @@
 		</aixm:GuidanceLine>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayProtectArea gml:id="urn.uuid.5596cc48-232b-431a-94d3-6a6d0351f0cf">
+		<aixm:RunwayProtectArea gml:id="uuid.5596cc48-232b-431a-94d3-6a6d0351f0cf">
 			<gml:identifier codeSpace="urn:uuid:">5596cc48-232b-431a-94d3-6a6d0351f0cf</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10822,7 +10822,7 @@
 		</aixm:RunwayProtectArea>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayProtectArea gml:id="urn.uuid.54f9c436-125a-4661-bc57-0d08af3e4f4b">
+		<aixm:RunwayProtectArea gml:id="uuid.54f9c436-125a-4661-bc57-0d08af3e4f4b">
 			<gml:identifier codeSpace="urn:uuid:">54f9c436-125a-4661-bc57-0d08af3e4f4b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -10901,7 +10901,7 @@
 		</aixm:RunwayProtectArea>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:RunwayCentrelinePoint gml:id="urn.uuid.d4713d5d-860a-46cd-880b-30f13e291c5b">
+		<aixm:RunwayCentrelinePoint gml:id="uuid.d4713d5d-860a-46cd-880b-30f13e291c5b">
 			<gml:identifier codeSpace="urn:uuid:">d4713d5d-860a-46cd-880b-30f13e291c5b</gml:identifier>
 			<aixm:featureMetadata>
 				<gmd:MD_Metadata>
@@ -15596,7 +15596,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 		</aixm:Airspace>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardLevelTable gml:id="urn.uuid.c68d2c5e-9a38-4d55-afcf-4d6450dc1000">
+		<aixm:StandardLevelTable gml:id="uuid.c68d2c5e-9a38-4d55-afcf-4d6450dc1000">
 			<gml:identifier codeSpace="urn:uuid:">c68d2c5e-9a38-4d55-afcf-4d6450dc1000</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:StandardLevelTableTimeSlice gml:id="sltDonlonAirspace1">
@@ -15621,7 +15621,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 		</aixm:StandardLevelTable>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardLevelColumn gml:id="urn.uuid.e515ea41-5e25-4580-8295-cbc33a2fde5a">
+		<aixm:StandardLevelColumn gml:id="uuid.e515ea41-5e25-4580-8295-cbc33a2fde5a">
 			<gml:identifier codeSpace="urn:uuid:">e515ea41-5e25-4580-8295-cbc33a2fde5a</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:StandardLevelColumnTimeSlice gml:id="slcDonlonAirspace1even">
@@ -15662,7 +15662,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 		</aixm:StandardLevelColumn>
 	</message:hasMember>
 	<message:hasMember>
-		<aixm:StandardLevelColumn gml:id="urn.uuid.4de2394a-6aa4-4913-99d0-ba13183facfc">
+		<aixm:StandardLevelColumn gml:id="uuid.4de2394a-6aa4-4913-99d0-ba13183facfc">
 			<gml:identifier codeSpace="urn:uuid:">4de2394a-6aa4-4913-99d0-ba13183facfc</gml:identifier>
 			<aixm:timeSlice>
 				<aixm:StandardLevelColumnTimeSlice gml:id="slcDonlonAirspace1odd">
