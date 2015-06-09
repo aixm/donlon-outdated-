@@ -88,7 +88,7 @@
 					<gmd:resourceConstraints>
 						<gmd:MD_Constraints id="MessageConstraints">
 							<gmd:useLimitation>
-								<gco:CharacterString>To be used for demonstration purposes only! Any opreational usage is prohibited!</gco:CharacterString>
+								<gco:CharacterString>To be used for demonstration purposes only! Any operational usage is prohibited!</gco:CharacterString>
 							</gmd:useLimitation>
 						</gmd:MD_Constraints>
 					</gmd:resourceConstraints>
