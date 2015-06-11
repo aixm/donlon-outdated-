@@ -11120,7 +11120,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:servedRunwayDirection xlink:href="urn:uuid:45c2e29c-2d85-4033-a2ec-09f204c6be10"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:ee6019d6-29f7-404d-8cee-b6819f325aed"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
@@ -11239,7 +11239,7 @@
 							<gml:endPosition indeterminatePosition="unknown"/>
 						</gml:TimePeriod>
 					</aixm:featureLifetime>
-					<aixm:servedRunwayDirection xlink:href="urn:uuid:10ee7838-7340-4774-9ea5-a07c72c2f7b6"/>
+					<aixm:servedRunwayDirection xlink:href="urn:uuid:5d6513d4-a62a-49e1-9e26-0b8cbf320daf"/>
 				</aixm:ApproachLightingSystemTimeSlice>
 			</aixm:timeSlice>
 		</aixm:ApproachLightingSystem>
