@@ -9,12 +9,11 @@
                           xmlns:aixm="http://www.aixm.aero/schema/5.1.1"
                           xmlns:gsr="http://www.isotc211.org/2005/gsr"
                           xmlns:gmd="http://www.isotc211.org/2005/gmd"
-                          xmlns:event="http://www.aixm.aero/schema/5.1.1/event"
+                          xmlns:event="http://www.aixm.aero/schema/5.1/event"
                           xmlns:xlink="http://www.w3.org/1999/xlink"
                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                          xsi:schemaLocation="http://www.aixm.aero/schema/5.1.1/message http://www.aixm.aero/schema/5.1.1/message/AIXM_BasicMessage.xsd"
+	                      xsi:schemaLocation="http://www.aixm.aero/schema/5.1.1/message http://www.aixm.aero/schema/5.1.1/message/AIXM_BasicMessage.xsd http://www.aixm.aero/schema/5.1.1/event http://www.aixm.aero/schema/5.1.1/event/Event_Features.xsd"
                           gml:id="M0000001">
-<!--	xsi:schemaLocation="http://www.aixm.aero/schema/5.1.1/message http://www.aixm.aero/schema/5.1.1/message/AIXM_BasicMessage.xsd http://www.aixm.aero/schema/5.1.1/event http://www.aixm.aero/schema/5.1.1/event/Event_Features.xsd" (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
 	<gml:boundedBy>
 		    <gml:Envelope srsName="urn:ogc:def:crs:EPSG::4326">
 			      <gml:lowerCorner>-32.0886111111111 -47.0</gml:lowerCorner>
@@ -31515,7 +31514,7 @@
 			      </aixm:timeSlice>
 		    </aixm:AeronauticalGroundLight>
 	  </message:hasMember>
-<!--	  <message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.bf108180-75dd-4326-af29-561bf28a8c31">
 			      <gml:identifier codeSpace="urn:uuid:">bf108180-75dd-4326-af29-561bf28a8c31</gml:identifier>
 			      <aixm:featureMetadata>
@@ -31709,8 +31708,8 @@ FOR FURTHER INFORMATION PLEASE CONTACT DONLON ACC ON PHONE (12)123 45 67.</event
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
-<!--	  <message:hasMember>
+	  </message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b">
 			      <gml:identifier codeSpace="urn:uuid:">cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b</gml:identifier>
 			      <aixm:featureMetadata>
@@ -31914,8 +31913,8 @@ CLASS G AIRSPACE.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
-<!--	  <message:hasMember>
+	  </message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.4935e16e-2a7d-464b-a537-477c7af1acbb">
 			      <gml:identifier codeSpace="urn:uuid:">4935e16e-2a7d-464b-a537-477c7af1acbb</gml:identifier>
 			      <aixm:featureMetadata>
@@ -32121,7 +32120,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
+	  </message:hasMember>
 	  <!-- This Airspace includes a reference to a geo-border; Some viewers do not support this. If this is the case for you, just comment out this hasMember element -->
 	  <message:hasMember>
 		    <aixm:Airspace gml:id="uuid.028e6905-f99a-4ca7-a736-2c0787cdcf57">
@@ -32590,7 +32589,7 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 			      </aixm:timeSlice>
 		    </aixm:StandardLevelColumn>
 	  </message:hasMember>
-<!--	  <message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.5a8ed90a-ad4e-4352-b073-26d27b0ac978">
 			      <gml:identifier codeSpace="urn:uuid:">5a8ed90a-ad4e-4352-b073-26d27b0ac978</gml:identifier>
 			      <aixm:featureMetadata>
@@ -32784,8 +32783,8 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
-<!--	  <message:hasMember>
+	  </message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.ff3ab666-d8d0-428c-8304-5922ee4636b5">
 			      <gml:identifier codeSpace="urn:uuid:">ff3ab666-d8d0-428c-8304-5922ee4636b5</gml:identifier>
 			      <aixm:featureMetadata>
@@ -32977,8 +32976,8 @@ DUE TO WX BELOW MIN VIS 4000 M.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
-<!--	  <message:hasMember>
+	  </message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a">
 			      <gml:identifier codeSpace="urn:uuid:">3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a</gml:identifier>
 			      <aixm:featureMetadata>
@@ -33178,8 +33177,8 @@ DO NOT USE, FALSE INDICATIONS POSS.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
-<!--	  <message:hasMember>
+	  </message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.42875bd3-8d62-4a98-838c-871216e347b1">
 			      <gml:identifier codeSpace="urn:uuid:">42875bd3-8d62-4a98-838c-871216e347b1</gml:identifier>
 			      <aixm:featureMetadata>
@@ -33375,8 +33374,8 @@ DUE TO MAINTENANCE.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
-<!--	  <message:hasMember>
+	  </message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.5266b646-89a9-453f-b6fe-5368c38274d2">
 			      <gml:identifier codeSpace="urn:uuid:">5266b646-89a9-453f-b6fe-5368c38274d2</gml:identifier>
 			      <aixm:featureMetadata>
@@ -33578,7 +33577,7 @@ LIGHTED.
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
+	  </message:hasMember>
 	  <message:hasMember>
 		    <aixm:VerticalStructure gml:id="uuid.df421db4-3698-4003-9d71-93ca57e70ffc">
 			      <gml:identifier codeSpace="urn:uuid:">df421db4-3698-4003-9d71-93ca57e70ffc</gml:identifier>
@@ -33822,7 +33821,7 @@ LIGHTED.
 			      </aixm:timeSlice>
 		    </aixm:VerticalStructure>
 	  </message:hasMember>
-<!--	  <message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.7af080ab-a1c2-48b1-a677-e9f51fd32b26">
 			      <gml:identifier codeSpace="urn:uuid:">7af080ab-a1c2-48b1-a677-e9f51fd32b26</gml:identifier>
 			      <aixm:featureMetadata>
@@ -34020,7 +34019,7 @@ LIGHTED ICAO MARKED.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
+	  </message:hasMember>
 	  <message:hasMember>
 		    <aixm:VerticalStructure gml:id="uuid.aa0c0b1e-3e9c-4564-b858-ace28b473c0a">
 			      <gml:identifier codeSpace="urn:uuid:">aa0c0b1e-3e9c-4564-b858-ace28b473c0a</gml:identifier>
@@ -34292,7 +34291,7 @@ LIGHTED ICAO MARKED.</event:text>
 			      </aixm:timeSlice>
 		    </aixm:VerticalStructure>
 	  </message:hasMember>
-<!--	  <message:hasMember>
+	  <message:hasMember>
 		    <event:Event gml:id="uuid.c136dd70-0070-4808-9416-949614291cec">
 			      <gml:identifier codeSpace="urn:uuid:">c136dd70-0070-4808-9416-949614291cec</gml:identifier>
 			      <aixm:featureMetadata>
@@ -34490,7 +34489,7 @@ GROUP OF 3.</event:text>
 				        </event:EventTimeSlice>
 			      </event:timeSlice>
 		    </event:Event>
-	  </message:hasMember> (The Event Extension for AIXM 5.1.1 is still work in progress.)-->
+	  </message:hasMember>
 	  <message:hasMember>
 		    <aixm:VerticalStructure gml:id="uuid.4722e24f-2d13-45a6-8189-32dd4ee82cff">
 			      <gml:identifier codeSpace="urn:uuid:">4722e24f-2d13-45a6-8189-32dd4ee82cff</gml:identifier>
