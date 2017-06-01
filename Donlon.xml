@@ -14189,11 +14189,11 @@
 							              </aixm:usage>
 						            </aixm:AirportHeliportAvailability>
 					          </aixm:availability>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:AirportHeliportExtension gml:id="E_dauidiqat">
 							              <event:theEvent xlink:href="urn:uuid:5a8ed90a-ad4e-4352-b073-26d27b0ac978"/>
 						            </event:AirportHeliportExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:AirportHeliportTimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:AirportHeliport>
@@ -14651,11 +14651,11 @@
 							              </aixm:translatedNote>
 						            </aixm:Note>
 					          </aixm:annotation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:DMEExtension gml:id="ID_126">
 							              <event:theEvent xlink:href="urn:uuid:3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"/>
 						            </event:DMEExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:DMETimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:DME>
@@ -14820,11 +14820,11 @@
 							              </aixm:translatedNote>
 						            </aixm:Note>
 					          </aixm:annotation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:VORExtension gml:id="ID_132">
 							              <event:theEvent xlink:href="urn:uuid:3dbc9405-69ab-4f1a-9010-ab64a1dbcc1a"/>
 						            </event:VORExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:VORTimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:VOR>
@@ -17586,11 +17586,11 @@
 							              </aixm:translatedNote>
 						            </aixm:Note>
 					          </aixm:annotation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:AirspaceExtension gml:id="ID_139">
 							              <event:theEvent xlink:href="urn:uuid:bf108180-75dd-4326-af29-561bf28a8c31"/>
 						            </event:AirspaceExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:AirspaceTimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:Airspace>
@@ -30539,11 +30539,11 @@
 							              </aixm:translatedNote>
 						            </aixm:Note>
 					          </aixm:annotation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:AirspaceExtension gml:id="ID_324">
 							              <event:theEvent xlink:href="urn:uuid:cc1bdbc7-476c-4b04-81c0-8f5e7ccb454b"/>
 						            </event:AirspaceExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:AirspaceTimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:Airspace>
@@ -32345,11 +32345,11 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 							              </aixm:levels>
 						            </aixm:AirspaceActivation>
 					          </aixm:activation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:AirspaceExtension gml:id="ID_359">
 							              <event:theEvent xlink:href="urn:uuid:4935e16e-2a7d-464b-a537-477c7af1acbb"/>
 						            </event:AirspaceExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:AirspaceTimeSlice>
 			      </aixm:timeSlice>
 			      <aixm:timeSlice>
@@ -32473,11 +32473,11 @@ FOR UNSPECIFIED HAZARD AS FOLLOWS: 525533N 0312746W - 530148N 0313416W - 531005N
 							              </aixm:levels>
 						            </aixm:AirspaceActivation>
 					          </aixm:activation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:AirspaceExtension gml:id="ID_372">
 							              <event:theEvent xlink:href="urn:uuid:4935e16e-2a7d-464b-a537-477c7af1acbb"/>
 						            </event:AirspaceExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:AirspaceTimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:Airspace>
@@ -33743,11 +33743,11 @@ LIGHTED.
 							              </aixm:translatedNote>
 						            </aixm:Note>
 					          </aixm:annotation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:VerticalStructureExtension gml:id="ID6546474">
 							              <event:theEvent xlink:href="urn:uuid:5266b646-89a9-453f-b6fe-5368c38274d2"/>
 						            </event:VerticalStructureExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:VerticalStructureTimeSlice>
 			      </aixm:timeSlice>
 			      <aixm:timeSlice>
@@ -33812,11 +33812,11 @@ LIGHTED.
 							              </aixm:translatedNote>
 						            </aixm:Note>
 					          </aixm:annotation>
-					          <!--<aixm:extension>
+					          <aixm:extension>
 						            <event:VerticalStructureExtension gml:id="ID6546474-1">
 							              <event:theEvent xlink:href="urn:uuid:5266b646-89a9-453f-b6fe-5368c38274d2"/>
 						            </event:VerticalStructureExtension>
-					          </aixm:extension>-->
+					          </aixm:extension>
 				        </aixm:VerticalStructureTimeSlice>
 			      </aixm:timeSlice>
 		    </aixm:VerticalStructure>
