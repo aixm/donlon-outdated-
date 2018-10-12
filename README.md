@@ -1,3 +1,5 @@
+**2018 October - No longer maintained. A new repository is being created in order to provide and maintain a reference implementation organised in separate data sets, as specified by the 16th Edition of the ICAO Annex 15.**
+
 Donlon
 ======
 
