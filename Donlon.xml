@@ -33626,13 +33626,13 @@ GROUP OF 3.</event:text>
 									<aixm:lowerLimit uom="FL">210</aixm:lowerLimit>
 									<aixm:lowerLimitReference>STD</aixm:lowerLimitReference>
 									<aixm:horizontalProjection>
-										<aixm:Surface xsi:type="aixm:ElevatedSurfaceType" gml:id="uuid.d635cbc1-83ff-490d-8451-7aca0ef6a842">
+										<aixm:Surface gml:id="uuid.d635cbc1-83ff-490d-8451-7aca0ef6a842">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
 														<gml:Ring>
 															<gml:curveMember>
-																<gml:Curve xsi:type="aixm:CurveType" srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.258c16e0-5f2c-4101-aabb-536f58c38eb5">
+																<gml:Curve srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.258c16e0-5f2c-4101-aabb-536f58c38eb5">
 																	<gml:segments>
 																		<gml:GeodesicString>
 																			<gml:posList>51.99333333333333 -6.0005 52.45333333333333 -5.869333333333333 52.81666666666667 -5.89 53.53333333333333 -5.981666666666667 53.89333333333333 -5.937833333333333 53.905 -6.0038333333333334 53.916666666666664 -6.099333333333333</gml:posList>
@@ -33688,13 +33688,13 @@ GROUP OF 3.</event:text>
 									<aixm:lowerLimit uom="FL">210</aixm:lowerLimit>
 									<aixm:lowerLimitReference>STD</aixm:lowerLimitReference>
 									<aixm:horizontalProjection>
-										<aixm:Surface xsi:type="aixm:ElevatedSurfaceType" gml:id="uuid.b2444276-e335-4106-9a4a-fd5eeb75b41c">
+										<aixm:Surface gml:id="uuid.b2444276-e335-4106-9a4a-fd5eeb75b41c">
 											<gml:patches>
 												<gml:PolygonPatch>
 													<gml:exterior>
 														<gml:Ring>
 															<gml:curveMember>
-																<gml:Curve xsi:type="aixm:CurveType" srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.84fe3774-a519-4b16-9344-cb311b2c92b5">
+																<gml:Curve srsName="urn:ogc:def:crs:EPSG::4326" gml:id="uuid.84fe3774-a519-4b16-9344-cb311b2c92b5">
 																	<gml:segments>
 																		<gml:GeodesicString>
 																			<gml:posList>53.876666666666665 -5.863333333333333 53.89333333333333 -5.937833333333333 53.53333333333333 -5.981666666666667 52.81666666666667 -5.89 52.45333333333333 -5.869333333333333 52.516666666666666 -5.850666666666667 52.583333333333336 -5.831666666666667 53.3 -5.755 53.7 -5.786666666666667 53.718333333333334 -5.8083333333333336 53.876666666666665 -5.863333333333333</gml:posList>
